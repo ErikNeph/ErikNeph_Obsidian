@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "time": "date",
+    "date": "datetime",
+    "date of death": "date",
+    "date of creation": "datetime",
+    "date of birth": "date"
+  }
+}

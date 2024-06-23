@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"a8aab8b41844d7e5","type":"group","x":-1049,"y":-500,"width":1562,"height":685,"label":"ID, классы и групповая селекция"},
+		{"id":"6bdc576e1858ff5c","type":"text","text":"### [[Введение в CSS#Идентификаторы (ID)|Идентификаторы]](ID)","x":-960,"y":-480,"width":267,"height":60,"color":"1"},
+		{"id":"b91d63e2207c0b71","type":"text","text":"```css\n#myid {\n  font-size: 2em;\n  font-style: italic;\n  color: violet;\n}\n```","x":-979,"y":-159,"width":305,"height":150,"color":"1"},
+		{"id":"1c6558813320d895","type":"text","text":"```HTML\n\n<div id='myid'>Hello World!</div>\n```","x":-1029,"y":80,"width":405,"height":85,"color":"1"},
+		{"id":"7fedb040bd1bea75","type":"text","text":"# **.**","x":-406,"y":-320,"width":66,"height":60,"color":"4"},
+		{"id":"a65c039f80b366b7","type":"text","text":"```css\n.myclass {\n  font-style: bold;\n  font-size: 200%;\n}\n```","x":-546,"y":-159,"width":345,"height":135,"color":"4"},
+		{"id":"acf1fdf2292da1ef","type":"text","text":"```html\n\n<div class='myclass'>Hello again</div>\n```","x":-589,"y":80,"width":431,"height":85,"color":"4"},
+		{"id":"7e5ef9523663256e","type":"text","text":"### [[Введение в CSS#Групповая селекция| Групповая селекция]]","x":100,"y":-480,"width":180,"height":60,"color":"6"},
+		{"id":"0452889f2a4d2417","type":"text","text":"### [[Введение в CSS#Классы|Классы]]","x":-440,"y":-480,"width":133,"height":66,"color":"4"},
+		{"id":"fdb09d7cc6b47ba7","type":"text","text":"# *#*","x":-859,"y":-320,"width":65,"height":60,"color":"1"},
+		{"id":"286cc9a603534962","type":"text","text":"```css\n\np, #idname, .classname { border-bottom:1px dotted orange; }\n```","x":-112,"y":-131,"width":605,"height":94,"color":"6"},
+		{"id":"6b270065be3927e5","type":"text","text":"# **. #**","x":126,"y":-320,"width":130,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"4968d0dcca2aac1f","fromNode":"6bdc576e1858ff5c","fromSide":"bottom","toNode":"fdb09d7cc6b47ba7","toSide":"top","color":"1"},
+		{"id":"8d845ff929b822d9","fromNode":"fdb09d7cc6b47ba7","fromSide":"bottom","toNode":"b91d63e2207c0b71","toSide":"top","color":"1"},
+		{"id":"562fe9aceda3396e","fromNode":"0452889f2a4d2417","fromSide":"bottom","toNode":"7fedb040bd1bea75","toSide":"top","color":"4"},
+		{"id":"6f0bd564340f64be","fromNode":"7fedb040bd1bea75","fromSide":"bottom","toNode":"a65c039f80b366b7","toSide":"top","color":"4"},
+		{"id":"66885302eda8e2c3","fromNode":"b91d63e2207c0b71","fromSide":"bottom","toNode":"1c6558813320d895","toSide":"top","color":"1"},
+		{"id":"f90a1b3cb5d95061","fromNode":"a65c039f80b366b7","fromSide":"bottom","toNode":"acf1fdf2292da1ef","toSide":"top","color":"4"},
+		{"id":"07e42f892a618885","fromNode":"7e5ef9523663256e","fromSide":"bottom","toNode":"6b270065be3927e5","toSide":"top","color":"6"},
+		{"id":"9e8bca12ceb6d754","fromNode":"6b270065be3927e5","fromSide":"bottom","toNode":"286cc9a603534962","toSide":"top","color":"6"}
+	]
+}

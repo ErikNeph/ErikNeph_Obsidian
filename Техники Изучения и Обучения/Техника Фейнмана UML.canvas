@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"9e8ae28af8d55d68","type":"text","text":"1. **Выберете концепцию для изучения**","x":-200,"y":-360,"width":250,"height":100,"color":"4"},
+		{"id":"5c98ce1eddcb304e","type":"text","text":"3. **Вернитесь к исходному материалу, если вы застряли**","x":-200,"y":200,"width":250,"height":140,"color":"2"},
+		{"id":"27c2b37214938a45","type":"text","text":"4. **Упростите формулировки и проведите аналогии**","x":-540,"y":-80,"width":250,"height":140,"color":"1"},
+		{"id":"db0f6b65a28b7a7b","type":"text","text":"2. **Обучите себя или кого-то ещё**","x":160,"y":-55,"width":250,"height":90,"color":"3"}
+	],
+	"edges":[
+		{"id":"a074bb231ba433f8","fromNode":"9e8ae28af8d55d68","fromSide":"right","toNode":"db0f6b65a28b7a7b","toSide":"top","color":"4"},
+		{"id":"aa6411c187c119f2","fromNode":"db0f6b65a28b7a7b","fromSide":"bottom","toNode":"5c98ce1eddcb304e","toSide":"right","color":"3"},
+		{"id":"33c026215e98b3a8","fromNode":"5c98ce1eddcb304e","fromSide":"left","toNode":"27c2b37214938a45","toSide":"bottom","color":"2"},
+		{"id":"a6cde0b58adbacfe","fromNode":"27c2b37214938a45","fromSide":"top","toNode":"9e8ae28af8d55d68","toSide":"left","color":"1"}
+	]
+}

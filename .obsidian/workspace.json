@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5b2e91830a88ee54",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d92c8e907c7a4f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067e80ce8bc5df4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "307ca449fe9dc973",
+    "type": "split",
+    "children": [
+      {
+        "id": "21022c3f1e075c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4331295bb5b073ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ebc8bdea5ddae62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "660fbcc5ea3fb70c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.51103591918945
+  },
+  "right": {
+    "id": "5d14b664610aa5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ac3791c763ffa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d3e1ab0cdb6076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edd63edbb8d60b0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4c2ee0c65d32ba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6974e5b011af51f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b2bafbe54c816154",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfbffacfd38e2d8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "c348f502a7265b8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "4331295bb5b073ce",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Python/OOP/Наследование.md",
+    "Python/OOP/наследования.md",
+    "CSS3/Продвинутая стилизация страниц с помощью CSS3.md",
+    "CSS3/CSS3 pictures/Рис. 20.14. Объект поворачивается и меняет цвет при прохождении.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.13. Вращение объекта в трехмерном пространстве.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.12. Объект до и после трансформации.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.11. Включить веб-шрифты Google не составляет труда.jpg",
+    "CSS3/Введение в CSS.md",
+    "CSS3/CSS3 pictures/Рис. 20.10. Теперь слово переносится по достижении правого края.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.9. Слово имеет слишком большую ширину для своего контейнера.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.8. Вместо простого усечения текст завершается многоточием.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.7. Текст автоматически усекается.jpg",
+    "CSS3/CSS3 pictures/Рис. 20.6. Применение тени к тексту.jpg",
+    "Полезности/Интересные интернет ресурсы и не только.md",
+    "Roadmap/Полезные ресурсы для программирования на Python.md",
+    "CSS3/CSS3 pictures/Рис. 20.5. Перетекание текста по нескольким колонкам.jpg",
+    "Цитаты/Цитаты об образовании.md",
+    "Цитаты/Цитаты о науке и компьютеров.md",
+    "CSS3/ID и классы в CSS.canvas",
+    "Базы данных/графы базы данных.md",
+    "CSS3/Базовые CSS-свойства.md",
+    "Техники Изучения и Обучения/Техника Фейнмана.md",
+    "SQL SQLite3/Профессий для работы на SQL.canvas",
+    "Daily/2024-06-15.md",
+    "Полезности",
+    "Obsidian/Создание ссылок на блоки.md",
+    "Obsidian/Работа с несколькими заметками.md",
+    "Obsidian/Создание внутренних ссылок.md",
+    "CSS3/CSS3 pictures",
+    "JavaScript/Использование технологии асинхронного обмена данными.md",
+    "Фильмы и сериалы/Хорроры/Ссылки на топы хоррор-альманахов.md",
+    "JavaScript/Функции, объекты и массивы в JavaScript.md",
+    "JavaScript/Проверка данных и обработка ошибок в JavaScript и PHP.md",
+    "Computer Science/Форматы данных/JSON.md",
+    "JavaScript/Выражения и управление процессом выполнения сценариев в JavaScript.md",
+    "JavaScript/Изучение JavaScript.md",
+    "Obsidian/Obsidian.md",
+    "Obsidian/Использование Obsidian URI.md",
+    "Python/OOP/Объекты и классы.md",
+    "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
+    "JavaScript/JS JQuery",
+    "JavaScript/JavaScript pictures",
+    "JavaScript",
+    "Computer Science/Форматы данных",
+    "Установки ПО и прочего/Web-soft/Web-soft pictures",
+    "Установки ПО и прочего/Web-soft",
+    "Установки ПО и прочего",
+    "MySQL/MySQL_PHP_JS_React_HTML5_CSS3",
+    "WEB/Запрос - ответ между клиентом и сервером.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
