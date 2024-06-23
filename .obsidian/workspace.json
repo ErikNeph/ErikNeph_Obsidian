@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.51103591918945
+    "width": 340.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -171,6 +172,8 @@
   },
   "active": "4331295bb5b073ce",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
     "Untitled.md",
     "Python/OOP/Наследование.md",
     "Python/OOP/наследования.md",
@@ -210,7 +213,6 @@
     "JavaScript/Изучение JavaScript.md",
     "Obsidian/Obsidian.md",
     "Obsidian/Использование Obsidian URI.md",
-    "Python/OOP/Объекты и классы.md",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "JavaScript/JS JQuery",
     "JavaScript/JavaScript pictures",
@@ -219,7 +221,6 @@
     "Установки ПО и прочего/Web-soft/Web-soft pictures",
     "Установки ПО и прочего/Web-soft",
     "Установки ПО и прочего",
-    "MySQL/MySQL_PHP_JS_React_HTML5_CSS3",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
