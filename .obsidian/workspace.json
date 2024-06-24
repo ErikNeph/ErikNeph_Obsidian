@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7f78705b0804c3",
+        "id": "8b8fa806aca1d846",
         "type": "tabs",
         "children": [
           {
-            "id": "00ed2d2443b0a770",
+            "id": "c648a766a25c843a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-06-24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.51103591918945,
-    "collapsed": true
+    "width": 336.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-06-24.md"
+              }
             }
           },
           {
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-06-24.md"
+              }
             }
           },
           {
@@ -140,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,9 +182,13 @@
   },
   "active": "4331295bb5b073ce",
   "lastOpenFiles": [
+    "Daily/2024-06-24.md",
+    "Untitled.md",
+    "Daily/2024-05-29.md",
+    "Daily/2024-05-25.md",
+    "Daily/2024-05-27.md",
     "README.md",
     "LICENSE",
-    "Untitled.md",
     "Python/OOP/Наследование.md",
     "Python/OOP/наследования.md",
     "CSS3/Продвинутая стилизация страниц с помощью CSS3.md",
@@ -209,10 +223,6 @@
     "JavaScript/Функции, объекты и массивы в JavaScript.md",
     "JavaScript/Проверка данных и обработка ошибок в JavaScript и PHP.md",
     "Computer Science/Форматы данных/JSON.md",
-    "JavaScript/Выражения и управление процессом выполнения сценариев в JavaScript.md",
-    "JavaScript/Изучение JavaScript.md",
-    "Obsidian/Obsidian.md",
-    "Obsidian/Использование Obsidian URI.md",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "JavaScript/JS JQuery",
     "JavaScript/JavaScript pictures",
