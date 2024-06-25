@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29d64edf7cdeb1b7",
+        "id": "aecfe7108026a937",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef55c1ef63b0d2e",
+            "id": "403448f86bf4a5b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/OOP/Код для самотестирования на Python.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Код для самотестирования на Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/OOP/Код для самотестирования на Python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Python/OOP/Код для самотестирования на Python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Код для самотестирования на Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,8 +170,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6ef55c1ef63b0d2e",
+  "active": "403448f86bf4a5b8",
   "lastOpenFiles": [
+    "Daily/2024-06-25.md",
+    "Python/OOP/Наследование.md",
+    "Python/OOP/наследования.md",
+    "Python/OOP/Классы данных.md",
+    "Python/OOP/Когда ОБЪЕКТЫ ОДИНАКОВЫ.md",
+    "Python/OOP/КОГДА БЕЗ ООП НЕ ОБОЙТИСЬ.md",
     "Python/OOP/Код для самотестирования на Python.md",
     "IT-Templates/Шаблон для заметок.md",
     "Python/OOP/OOP pictures/Код самотестирования.md",
@@ -194,8 +189,6 @@
     "Daily/2024-05-27.md",
     "README.md",
     "LICENSE",
-    "Python/OOP/Наследование.md",
-    "Python/OOP/наследования.md",
     "CSS3/Продвинутая стилизация страниц с помощью CSS3.md",
     "CSS3/CSS3 pictures/Рис. 20.14. Объект поворачивается и меняет цвет при прохождении.jpg",
     "CSS3/CSS3 pictures/Рис. 20.13. Вращение объекта в трехмерном пространстве.jpg",
@@ -220,11 +213,7 @@
     "Daily/2024-06-15.md",
     "Полезности",
     "Obsidian/Создание ссылок на блоки.md",
-    "Obsidian/Работа с несколькими заметками.md",
-    "Obsidian/Создание внутренних ссылок.md",
     "CSS3/CSS3 pictures",
-    "JavaScript/Использование технологии асинхронного обмена данными.md",
-    "Фильмы и сериалы/Хорроры/Ссылки на топы хоррор-альманахов.md",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "JavaScript/JS JQuery",
     "JavaScript/JavaScript pictures",
