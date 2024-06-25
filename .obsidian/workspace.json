@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "978575a56ae51df1",
+        "id": "29d64edf7cdeb1b7",
         "type": "tabs",
         "children": [
           {
-            "id": "438d39c6ab638dd8",
+            "id": "6ef55c1ef63b0d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4331295bb5b073ce",
+  "active": "6ef55c1ef63b0d2e",
   "lastOpenFiles": [
-    "IT-Templates/Шаблон для заметок.md",
     "Python/OOP/Код для самотестирования на Python.md",
+    "IT-Templates/Шаблон для заметок.md",
     "Python/OOP/OOP pictures/Код самотестирования.md",
     "Python/Untitled",
     "Daily/2024-06-24.md",
