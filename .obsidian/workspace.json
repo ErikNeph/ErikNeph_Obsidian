@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Паттерн Итератор.md",
+                "file": "Python/OOP/Общие Паттерны Проектирования.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Паттерн Итератор.md",
+                "file": "Python/OOP/Общие Паттерны Проектирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Паттерн Итератор.md"
+                "file": "Python/OOP/Общие Паттерны Проектирования.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/OOP/Паттерн Итератор.md"
+                "file": "Python/OOP/Общие Паттерны Проектирования.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Паттерн Итератор.md",
+                "file": "Python/OOP/Общие Паттерны Проектирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +198,13 @@
   },
   "active": "938269d26e6c62dc",
   "lastOpenFiles": [
-    "Python/OOP/OOP pictures/Рис. 10.2. Функция - генератор и выражение-генератор.jpg",
-    "Python/OOP/Строки, сериализация и пути к файлам.md",
+    "Python/OOP/OOP pictures/Рис. 11.2. Сервер и клиент.jpg",
+    "Python/OOP/OOP pictures/Рис. 11.1. Паттерн Декоратор на UМL- диаграмме.jpg",
     "Python/OOP/Паттерн Итератор.md",
+    "Python/OOP/Общие Паттерны Проектирования.md",
+    "Python/OOP/Строки, сериализация и пути к файлам.md",
+    "Computer Science/Паттерны проектирования.md",
+    "Python/OOP/OOP pictures/Рис. 10.2. Функция - генератор и выражение-генератор.jpg",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Daily/2024-06-25.md",
     "Python/OOP/Наследование.md",
@@ -228,15 +232,11 @@
     "CSS3/CSS3 pictures/Рис. 20.10. Теперь слово переносится по достижении правого края.jpg",
     "CSS3/CSS3 pictures/Рис. 20.9. Слово имеет слишком большую ширину для своего контейнера.jpg",
     "CSS3/CSS3 pictures/Рис. 20.8. Вместо простого усечения текст завершается многоточием.jpg",
-    "CSS3/CSS3 pictures/Рис. 20.7. Текст автоматически усекается.jpg",
-    "CSS3/CSS3 pictures/Рис. 20.6. Применение тени к тексту.jpg",
     "Полезности/Интересные интернет ресурсы и не только.md",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
     "Цитаты/Цитаты об образовании.md",
     "Цитаты/Цитаты о науке и компьютеров.md",
     "CSS3/ID и классы в CSS.canvas",
-    "Базы данных/графы базы данных.md",
-    "CSS3/Базовые CSS-свойства.md",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "Полезности",
     "CSS3/CSS3 pictures",

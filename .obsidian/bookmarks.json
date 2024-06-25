@@ -313,6 +313,13 @@
               "path": "Python/OOP/Объекты в Python.md",
               "subpath": "#Аргумент self",
               "title": "Объекты в Python#Аргумент self bookmark"
+            },
+            {
+              "type": "file",
+              "ctime": 1719331314572,
+              "path": "Python/OOP/Общие Паттерны Проектирования.md",
+              "subpath": "#Полезный декоратор",
+              "title": "Python/OOP/Общие Паттерны Проектирования#Полезный декоратор bookmark"
             }
           ],
           "title": "Python OOP"
