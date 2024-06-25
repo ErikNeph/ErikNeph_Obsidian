@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aecfe7108026a937",
+        "id": "c1a89ef4f82a81a1",
         "type": "tabs",
         "children": [
           {
-            "id": "403448f86bf4a5b8",
+            "id": "938269d26e6c62dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/OOP/Паттерн Итератор.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/OOP/Паттерн Итератор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/OOP/Паттерн Итератор.md"
+              }
             }
           },
           {
@@ -131,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Python/OOP/Паттерн Итератор.md"
+              }
             }
           },
           {
@@ -140,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/OOP/Паттерн Итератор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +160,29 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "aa623bcfa397371d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cb7936990b01d48",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +196,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "403448f86bf4a5b8",
+  "active": "938269d26e6c62dc",
   "lastOpenFiles": [
+    "Python/OOP/OOP pictures/Рис. 10.2. Функция - генератор и выражение-генератор.jpg",
+    "Python/OOP/Строки, сериализация и пути к файлам.md",
+    "Python/OOP/Паттерн Итератор.md",
+    "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Daily/2024-06-25.md",
     "Python/OOP/Наследование.md",
     "Python/OOP/наследования.md",
@@ -202,17 +232,13 @@
     "CSS3/CSS3 pictures/Рис. 20.6. Применение тени к тексту.jpg",
     "Полезности/Интересные интернет ресурсы и не только.md",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
-    "CSS3/CSS3 pictures/Рис. 20.5. Перетекание текста по нескольким колонкам.jpg",
     "Цитаты/Цитаты об образовании.md",
     "Цитаты/Цитаты о науке и компьютеров.md",
     "CSS3/ID и классы в CSS.canvas",
     "Базы данных/графы базы данных.md",
     "CSS3/Базовые CSS-свойства.md",
-    "Техники Изучения и Обучения/Техника Фейнмана.md",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
-    "Daily/2024-06-15.md",
     "Полезности",
-    "Obsidian/Создание ссылок на блоки.md",
     "CSS3/CSS3 pictures",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "JavaScript/JS JQuery",
