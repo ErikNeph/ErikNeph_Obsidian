@@ -323,6 +323,34 @@
             }
           ],
           "title": "Python OOP"
+        },
+        {
+          "type": "group",
+          "ctime": 1719392594898,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1719392612860,
+              "path": "Python/OOP/Общие Паттерны Проектирования.md",
+              "subpath": "#Паттерн Стратегия",
+              "title": "Python/OOP/Общие Паттерны Проектирования#Паттерн Стратегия bookmark"
+            },
+            {
+              "type": "file",
+              "ctime": 1719392635076,
+              "path": "Python/OOP/Общие Паттерны Проектирования.md",
+              "subpath": "#Паттерн Наблюдатель",
+              "title": "Python/OOP/Общие Паттерны Проектирования#Паттерн Наблюдатель bookmark"
+            },
+            {
+              "type": "file",
+              "ctime": 1719392654679,
+              "path": "Python/OOP/Общие Паттерны Проектирования.md",
+              "subpath": "#Общие Паттерны Проектирования",
+              "title": "Python/OOP/Общие Паттерны Проектирования#Общие Паттерны Проектирования bookmark"
+            }
+          ],
+          "title": "Python Patterns"
         }
       ],
       "title": "Python"

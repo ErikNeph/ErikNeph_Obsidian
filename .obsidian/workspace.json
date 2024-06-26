@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a89ef4f82a81a1",
+        "id": "c4bc6e71eb45e850",
         "type": "tabs",
         "children": [
           {
-            "id": "938269d26e6c62dc",
+            "id": "7d825bfb96f0e18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,13 +196,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "7d825bfb96f0e18a",
   "lastOpenFiles": [
+    "Python/OOP/OOP pictures/Рис. 11.6. Регулярное выражение, имитирующее броски кубиков.jpg",
+    "Roadmap/Полезные ресурсы для программирования на Python.md",
+    "Python/OOP/Общие Паттерны Проектирования.md",
+    "Полезности/Интересные интернет ресурсы и не только.md",
+    "Python/OOP/OOP pictures/Рис. 11 .5. Паттерн Команда на UМL-диаграмме.jpg",
+    "Python/OOP/OOP pictures/Рис. 11.4 Паттерн Стратегия на UМL-диаграмме.jpg",
     "Python/OOP/OOP pictures/Рис. 11.З. Паттерн Наблюдатель на UМL-диаграмме.jpg",
     "Python/OOP/OOP pictures/Рис. 11.2. Сервер и клиент.jpg",
     "Python/OOP/OOP pictures/Рис. 11.1. Паттерн Декоратор на UМL- диаграмме.jpg",
     "Python/OOP/Паттерн Итератор.md",
-    "Python/OOP/Общие Паттерны Проектирования.md",
     "Python/OOP/Строки, сериализация и пути к файлам.md",
     "Computer Science/Паттерны проектирования.md",
     "Python/OOP/OOP pictures/Рис. 10.2. Функция - генератор и выражение-генератор.jpg",
@@ -228,12 +233,7 @@
     "CSS3/CSS3 pictures/Рис. 20.14. Объект поворачивается и меняет цвет при прохождении.jpg",
     "CSS3/CSS3 pictures/Рис. 20.13. Вращение объекта в трехмерном пространстве.jpg",
     "CSS3/CSS3 pictures/Рис. 20.12. Объект до и после трансформации.jpg",
-    "CSS3/CSS3 pictures/Рис. 20.11. Включить веб-шрифты Google не составляет труда.jpg",
     "CSS3/Введение в CSS.md",
-    "CSS3/CSS3 pictures/Рис. 20.10. Теперь слово переносится по достижении правого края.jpg",
-    "CSS3/CSS3 pictures/Рис. 20.9. Слово имеет слишком большую ширину для своего контейнера.jpg",
-    "Полезности/Интересные интернет ресурсы и не только.md",
-    "Roadmap/Полезные ресурсы для программирования на Python.md",
     "Цитаты/Цитаты об образовании.md",
     "Цитаты/Цитаты о науке и компьютеров.md",
     "CSS3/ID и классы в CSS.canvas",
