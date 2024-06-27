@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4bc6e71eb45e850",
+        "id": "26e25db89e55fcf7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d825bfb96f0e18a",
+            "id": "0925eac9907b57fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Общие Паттерны Проектирования.md",
+                "file": "JavaScript/Доступ к CSS из JavaScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Общие Паттерны Проектирования.md",
+                "file": "JavaScript/Доступ к CSS из JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Общие Паттерны Проектирования.md"
+                "file": "JavaScript/Доступ к CSS из JavaScript.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/OOP/Общие Паттерны Проектирования.md"
+                "file": "JavaScript/Доступ к CSS из JavaScript.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Общие Паттерны Проектирования.md",
+                "file": "JavaScript/Доступ к CSS из JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7d825bfb96f0e18a",
+  "active": "0925eac9907b57fc",
   "lastOpenFiles": [
+    "JavaScript/Доступ к CSS из JavaScript.md",
+    "Python/OOP/Общие Паттерны Проектирования.md",
+    "Python/OOP/Новые паттерны проектирования.md",
     "Python/OOP/OOP pictures/Рис. 11.9. Паттерн Синглтона UМL-диаграмме.jpg",
     "Python/OOP/OOP pictures/Рис. 11.8. Переходы состояний для разбора предложений NMEA.jpg",
     "Python/OOP/OOP pictures/таблица gps cимволов.jpg",
     "Python/OOP/OOP pictures/Рис. 11.7. Паттерн Состояние на UМL-диаграмме.jpg",
     "Python/OOP/OOP pictures/Рис. 11.6. Регулярное выражение, имитирующее броски кубиков.jpg",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
-    "Python/OOP/Общие Паттерны Проектирования.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
     "Python/OOP/OOP pictures/Рис. 11 .5. Паттерн Команда на UМL-диаграмме.jpg",
     "Python/OOP/OOP pictures/Рис. 11.4 Паттерн Стратегия на UМL-диаграмме.jpg",
@@ -214,7 +216,6 @@
     "Python/OOP/Паттерн Итератор.md",
     "Python/OOP/Строки, сериализация и пути к файлам.md",
     "Computer Science/Паттерны проектирования.md",
-    "Python/OOP/OOP pictures/Рис. 10.2. Функция - генератор и выражение-генератор.jpg",
     "Daily/2024-06-25.md",
     "Python/OOP/Наследование.md",
     "Python/OOP/наследования.md",
@@ -235,7 +236,6 @@
     "CSS3/Продвинутая стилизация страниц с помощью CSS3.md",
     "CSS3/Введение в CSS.md",
     "Цитаты/Цитаты об образовании.md",
-    "Цитаты/Цитаты о науке и компьютеров.md",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "Полезности",
