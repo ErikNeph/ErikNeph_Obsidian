@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ecad9e71eb36aae",
+        "id": "80c6fa5599df7029",
         "type": "tabs",
         "children": [
           {
-            "id": "3b129162d361984b",
+            "id": "627ca031fe19b333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Новые паттерны проектирования.md",
+                "file": "Python/OOP/Новые Паттерны Проектирования.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Новые паттерны проектирования.md",
+                "file": "Python/OOP/Новые Паттерны Проектирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Новые паттерны проектирования.md"
+                "file": "Python/OOP/Новые Паттерны Проектирования.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/OOP/Новые паттерны проектирования.md"
+                "file": "Python/OOP/Новые Паттерны Проектирования.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Новые паттерны проектирования.md",
+                "file": "Python/OOP/Новые Паттерны Проектирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +196,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b129162d361984b",
+  "active": "627ca031fe19b333",
   "lastOpenFiles": [
+    "UML/Часто используемые программы для создания диаграмм.md",
+    "Python/OOP/Новые Паттерны Проектирования.md",
+    "UML/Глоссарий терминов UML.md",
+    "Python/OOP/OOP pictures/Рис. 12.2. Паттерн Фасад.jpg",
     "Python/OOP/OOP pictures/Рис. 12.1. Паттерн Адаптер.jpg",
     "Python/OOP/Общие Паттерны Проектирования.md",
-    "Python/OOP/Новые паттерны проектирования.md",
     "JavaScript/JS JQuery/Введение в JQuery.md",
     "Знаменитые люди/Никола Тесла.md",
     "JavaScript/JS React/Введение в React.md",
@@ -214,9 +217,7 @@
     "JavaScript/JavaScript pictures/Рис. 21.2. Пример встроенного кода JavaScript, обрабатывающего прохождение указателя мыши над объектом.jpg",
     "JavaScript/JavaScript pictures/Таблица 21.1.2 Свойства объекта window.jpg",
     "JavaScript/JavaScript pictures/Таблица 21.1. Свойства объекта window.jpg",
-    "JavaScript/JavaScript pictures/Рис. 21.1. Изменение стилей из JavaScript.jpg",
     "JavaScript/JavaScript pictures/Untitled",
-    "Python/OOP/OOP pictures/Рис. 11.9. Паттерн Синглтона UМL-диаграмме.jpg",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
     "Python/OOP/Паттерн Итератор.md",
@@ -236,7 +237,6 @@
     "Untitled.md",
     "Daily/2024-05-29.md",
     "Daily/2024-05-25.md",
-    "Daily/2024-05-27.md",
     "LICENSE",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
