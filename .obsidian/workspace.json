@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80c6fa5599df7029",
+        "id": "eb2d11f339ddbca9",
         "type": "tabs",
         "children": [
           {
-            "id": "627ca031fe19b333",
+            "id": "2b76f4a4f3f4faf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Новые Паттерны Проектирования.md",
+                "file": "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Новые Паттерны Проектирования.md",
+                "file": "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Новые Паттерны Проектирования.md"
+                "file": "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/OOP/Новые Паттерны Проектирования.md"
+                "file": "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Новые Паттерны Проектирования.md",
+                "file": "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,12 +196,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "627ca031fe19b333",
+  "active": "2b76f4a4f3f4faf5",
   "lastOpenFiles": [
+    "Desktop OS/Linux/Linux.md",
+    "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md",
+    "Obsidian/Встраивание вложений в заметки.md",
+    "Desktop OS/Linux/Linux pictures/Ranking Linux Distributions for 2024 a tier list for my use case picutres.jpg",
+    "Desktop OS/Linux/Linux pictures",
+    "Desktop OS/Linux",
+    "Desktop OS",
+    "Python/OOP/Новые Паттерны Проектирования.md",
     "Python/OOP/OOP pictures/Рис. 12.7. Паттерн Абстрактная фабрика на примере таких карточных игр ,как покер и криббедж.jpg",
     "Python/OOP/OOP pictures/Рис. 12.6. Паттерн Абстрактная фабрика.jpg",
     "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
-    "Python/OOP/Новые Паттерны Проектирования.md",
     "Python/OOP/OOP pictures/Рис. 12.5. Ссылочная диаграмма.jpg",
     "Python/OOP/OOP pictures/Рис. 12.4. Сообщение GPS на UМL-диаграмме.jpg",
     "WEB/Всемирная паутина.md",
@@ -219,8 +226,6 @@
     "JavaScript/Доступ к CSS из JavaScript.md",
     "JavaScript/JavaScript pictures/Рис. 21.5. Объект плавно движется слева, одновременно меняя свой размер.jpg",
     "JavaScript/JavaScript pictures/Рис. 21.4. Поддержка показаний правильного времени с помощью прерываний.jpg",
-    "JavaScript/JavaScript pictures/Рис. 21.3. Вставка нового элемента в DOM.jpg",
-    "JavaScript/JavaScript pictures/Таблица 21.2.2 События и условия их наступления.jpg",
     "JavaScript/JavaScript pictures/Untitled",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
@@ -234,8 +239,6 @@
     "Python/OOP/Когда ОБЪЕКТЫ ОДИНАКОВЫ.md",
     "Python/OOP/КОГДА БЕЗ ООП НЕ ОБОЙТИСЬ.md",
     "Python/OOP/Код для самотестирования на Python.md",
-    "IT-Templates/Шаблон для заметок.md",
-    "Python/OOP/OOP pictures/Код самотестирования.md",
     "Python/Untitled",
     "LICENSE",
     "CSS3/ID и классы в CSS.canvas",
@@ -244,9 +247,6 @@
     "CSS3/CSS3 pictures",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "JavaScript/JS JQuery",
-    "JavaScript/JavaScript pictures",
-    "JavaScript",
-    "Computer Science/Форматы данных",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
