@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "0f54abccb25bcc4a",
+        "id": "5cfe9061fada0906",
         "type": "tabs",
         "children": [
           {
-            "id": "d6857793d9bab550",
+            "id": "28880f3ca7260c26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/OOP/Новые Паттерны Проектирования.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "502be498ae35edc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Полезности/Интересные интернет ресурсы и не только.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebd786f0286773c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Полезные ресурсы для программирования на Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"date\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Полезности/Интересные интернет ресурсы и не только.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Полезности/Интересные интернет ресурсы и не только.md"
+              }
             }
           },
           {
@@ -130,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Полезности/Интересные интернет ресурсы и не только.md"
+              }
             }
           },
           {
@@ -139,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Полезности/Интересные интернет ресурсы и не только.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,18 +224,35 @@
   },
   "active": "4331295bb5b073ce",
   "lastOpenFiles": [
+    "Roadmap/Полезные ресурсы для программирования на Python.md",
+    "Полезности/Интересные интернет ресурсы и не только.md",
+    "UML/Диаграмма классов — Class diagram.md",
+    "Desktop OS/Linux/Linux.md",
+    "Desktop OS/Linux/GNU.md",
+    "IDEs/Emacs.md",
+    "IDEs",
+    "Python/OOP/Новые Паттерны Проектирования.md",
+    "Python/OOP/OOP pictures/Рис. 12.10. Усложненный вариант паттерна Компоновщик.jpg",
+    "Obsidian/Встраивание вложений в заметки.md",
+    "Python/OOP/OOP pictures/Рис. 12.9. Паттерн Компоновщик.jpg",
+    "Python/OOP/Общие Паттерны Проектирования.md",
+    "Python/OOP/OOP pictures/Рис. 12.8. Абстрактная фабрика без абстрактных базовых классов.jpg",
+    "Python/OOP/Динамическое создание класса.md",
+    "Daily/2024-06-25.md",
+    "Daily/2024-06-24.md",
+    "Daily/2024-05-29.md",
+    "Daily/2024-05-27.md",
+    "Daily/2024-05-25.md",
+    "PHP/Введение в PHP.md",
     "IT-Templates/Шаблон для заметок.md",
     "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md",
-    "Desktop OS/Linux/Linux.md",
     "CSS3/CSS.md",
     "CSS3/Введение в CSS.md",
     "SQL SQLite3/Работа с несколькими таблицами.md",
-    "Obsidian/Встраивание вложений в заметки.md",
     "Desktop OS/Linux/Linux pictures/Ranking Linux Distributions for 2024 a tier list for my use case picutres.jpg",
     "Desktop OS/Linux/Linux pictures",
     "Desktop OS/Linux",
     "Desktop OS",
-    "Python/OOP/Новые Паттерны Проектирования.md",
     "Python/OOP/OOP pictures/Рис. 12.7. Паттерн Абстрактная фабрика на примере таких карточных игр ,как покер и криббедж.jpg",
     "Python/OOP/OOP pictures/Рис. 12.6. Паттерн Абстрактная фабрика.jpg",
     "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
@@ -205,28 +260,12 @@
     "Python/OOP/OOP pictures/Рис. 12.4. Сообщение GPS на UМL-диаграмме.jpg",
     "WEB/Всемирная паутина.md",
     "Python/OOP/OOP pictures/Рис. 12.3. Паттерн Легковес.jpg",
-    "Python/OOP/Общие Паттерны Проектирования.md",
     "WEB/IoT (Internet of Things).md",
     "UML/Часто используемые программы для создания диаграмм.md",
     "UML/Глоссарий терминов UML.md",
     "Python/OOP/OOP pictures/Рис. 12.2. Паттерн Фасад.jpg",
-    "Python/OOP/OOP pictures/Рис. 12.1. Паттерн Адаптер.jpg",
-    "JavaScript/JS JQuery/Введение в JQuery.md",
-    "Знаменитые люди/Никола Тесла.md",
-    "JavaScript/JS React/Введение в React.md",
     "JavaScript/JS React",
-    "JavaScript/Доступ к CSS из JavaScript.md",
-    "JavaScript/JavaScript pictures/Рис. 21.5. Объект плавно движется слева, одновременно меняя свой размер.jpg",
-    "JavaScript/JavaScript pictures/Рис. 21.4. Поддержка показаний правильного времени с помощью прерываний.jpg",
     "JavaScript/JavaScript pictures/Untitled",
-    "Roadmap/Полезные ресурсы для программирования на Python.md",
-    "Полезности/Интересные интернет ресурсы и не только.md",
-    "Python/OOP/Паттерн Итератор.md",
-    "Python/OOP/Строки, сериализация и пути к файлам.md",
-    "Computer Science/Паттерны проектирования.md",
-    "Daily/2024-06-25.md",
-    "Python/OOP/Наследование.md",
-    "Python/OOP/наследования.md",
     "Python/Untitled",
     "LICENSE",
     "CSS3/ID и классы в CSS.canvas",
@@ -234,7 +273,6 @@
     "Полезности",
     "CSS3/CSS3 pictures",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
-    "JavaScript/JS JQuery",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

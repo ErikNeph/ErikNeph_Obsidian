@@ -330,20 +330,6 @@
           "items": [
             {
               "type": "file",
-              "ctime": 1719392612860,
-              "path": "Python/OOP/Общие Паттерны Проектирования.md",
-              "subpath": "#Паттерн Стратегия",
-              "title": "Python/OOP/Общие Паттерны Проектирования#Паттерн Стратегия bookmark"
-            },
-            {
-              "type": "file",
-              "ctime": 1719392635076,
-              "path": "Python/OOP/Общие Паттерны Проектирования.md",
-              "subpath": "#Паттерн Наблюдатель",
-              "title": "Python/OOP/Общие Паттерны Проектирования#Паттерн Наблюдатель bookmark"
-            },
-            {
-              "type": "file",
               "ctime": 1719392654679,
               "path": "Python/OOP/Общие Паттерны Проектирования.md",
               "subpath": "#Общие Паттерны Проектирования",
@@ -626,6 +612,19 @@
         }
       ],
       "title": "RegEX bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1719930448620,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1719930422549,
+          "path": "UML/Диаграмма классов — Class diagram.md",
+          "title": "UML/Диаграмма классов — Class diagram bookmark"
+        }
+      ],
+      "title": "UML bookmarks"
     }
   ]
 }
