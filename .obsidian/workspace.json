@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "502be498ae35edc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Полезности/Интересные интернет ресурсы и не только.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebd786f0286773c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap/Полезные ресурсы для программирования на Python.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -113,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Полезности/Интересные интернет ресурсы и не только.md",
+                "file": "Python/OOP/Новые Паттерны Проектирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Полезности/Интересные интернет ресурсы и не только.md"
+                "file": "Python/OOP/Новые Паттерны Проектирования.md"
               }
             }
           },
@@ -166,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Полезности/Интересные интернет ресурсы и не только.md"
+                "file": "Python/OOP/Новые Паттерны Проектирования.md"
               }
             }
           },
@@ -176,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Полезности/Интересные интернет ресурсы и не только.md",
+                "file": "Python/OOP/Новые Паттерны Проектирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,16 +196,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4331295bb5b073ce",
+  "active": "28880f3ca7260c26",
   "lastOpenFiles": [
-    "Roadmap/Полезные ресурсы для программирования на Python.md",
+    "Computer Science/объектно-ориентированное программирование.md",
+    "Computer Science/Объектно-ориентированное проектирование.md",
+    "Computer Science/Форматы данных/TOML.md",
+    "Python/OOP/Новые Паттерны Проектирования.md",
+    "Computer Science/Форматы данных/YAML.md",
+    "JSОN.md",
+    "JavaScript/DOM.md",
+    "Базы данных/графы базы данных.md",
+    "графы.md",
+    "Computer Science/GUI.md",
+    "Python/OOP/Код для самотестирования на Python.md",
+    "Desktop OS/UNIX_Linux/Linux.md",
+    "Desktop OS/UNIX_Linux/GNU.md",
+    "Знаменитые люди/Линус Торвальдс.md",
+    "Computer Science/Форматы данных/XML.md",
+    "Computer Science/Форматы данных/Markdown.md",
+    "Computer Science/Форматы данных/RST.md",
+    "HTML5/HTML.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
+    "Roadmap/Полезные ресурсы для программирования на Python.md",
     "UML/Диаграмма классов — Class diagram.md",
-    "Desktop OS/Linux/Linux.md",
-    "Desktop OS/Linux/GNU.md",
     "IDEs/Emacs.md",
     "IDEs",
-    "Python/OOP/Новые Паттерны Проектирования.md",
     "Python/OOP/OOP pictures/Рис. 12.10. Усложненный вариант паттерна Компоновщик.jpg",
     "Obsidian/Встраивание вложений в заметки.md",
     "Python/OOP/OOP pictures/Рис. 12.9. Паттерн Компоновщик.jpg",
@@ -239,30 +228,15 @@
     "Python/OOP/OOP pictures/Рис. 12.8. Абстрактная фабрика без абстрактных базовых классов.jpg",
     "Python/OOP/Динамическое создание класса.md",
     "Daily/2024-06-25.md",
-    "Daily/2024-06-24.md",
-    "Daily/2024-05-29.md",
-    "Daily/2024-05-27.md",
-    "Daily/2024-05-25.md",
-    "PHP/Введение в PHP.md",
-    "IT-Templates/Шаблон для заметок.md",
-    "Desktop OS/Linux/Tier-List Linux Дистрибутивов за 2024 год.md",
-    "CSS3/CSS.md",
-    "CSS3/Введение в CSS.md",
-    "SQL SQLite3/Работа с несколькими таблицами.md",
-    "Desktop OS/Linux/Linux pictures/Ranking Linux Distributions for 2024 a tier list for my use case picutres.jpg",
-    "Desktop OS/Linux/Linux pictures",
-    "Desktop OS/Linux",
+    "Desktop OS/UNIX_Linux/Linux pictures/Ranking Linux Distributions for 2024 a tier list for my use case picutres.jpg",
+    "Desktop OS/UNIX_Linux/Linux pictures",
+    "Desktop OS/UNIX_Linux",
     "Desktop OS",
     "Python/OOP/OOP pictures/Рис. 12.7. Паттерн Абстрактная фабрика на примере таких карточных игр ,как покер и криббедж.jpg",
     "Python/OOP/OOP pictures/Рис. 12.6. Паттерн Абстрактная фабрика.jpg",
-    "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
     "Python/OOP/OOP pictures/Рис. 12.5. Ссылочная диаграмма.jpg",
     "Python/OOP/OOP pictures/Рис. 12.4. Сообщение GPS на UМL-диаграмме.jpg",
-    "WEB/Всемирная паутина.md",
     "Python/OOP/OOP pictures/Рис. 12.3. Паттерн Легковес.jpg",
-    "WEB/IoT (Internet of Things).md",
-    "UML/Часто используемые программы для создания диаграмм.md",
-    "UML/Глоссарий терминов UML.md",
     "Python/OOP/OOP pictures/Рис. 12.2. Паттерн Фасад.jpg",
     "JavaScript/JS React",
     "JavaScript/JavaScript pictures/Untitled",
