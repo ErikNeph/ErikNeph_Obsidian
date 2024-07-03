@@ -344,6 +344,20 @@
             }
           ],
           "title": "Python Patterns"
+        },
+        {
+          "type": "group",
+          "ctime": 1720038231750,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1720038245292,
+              "path": "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
+              "subpath": "#Шаблоны тестирования",
+              "title": "Python/OOP/Тестирование Объектно-Ориентированных Программ#Шаблоны тестирования bookamark"
+            }
+          ],
+          "title": "Python Tests"
         }
       ],
       "title": "Python"
