@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5f175f2308593033",
+        "id": "de62921543fb7fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "66df5200c72db07a",
+            "id": "38faf9ad1da761e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Templates/Шаблон для книги.md",
+                "file": "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7469d4c26939de72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Templates/Шаблон для книги.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -86,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Templates/Шаблон для книги.md",
+                "file": "Obsidian Templates/Шаблон для книги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Templates/Шаблон для книги.md"
+                "file": "Obsidian Templates/Шаблон для книги.md"
               }
             }
           },
@@ -139,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IT-Templates/Шаблон для книги.md"
+                "file": "Obsidian Templates/Шаблон для книги.md"
               }
             }
           },
@@ -149,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Templates/Шаблон для книги.md",
+                "file": "Obsidian Templates/Шаблон для книги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +210,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "7469d4c26939de72",
   "lastOpenFiles": [
-    "IT-Templates/Выдающийся человек (Шаблон).md",
+    "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
+    "Testing/Обезьяний патчинг (monkeypatching).md",
+    "Obsidian Templates/Шаблон для книги.md",
+    "Obsidian Templates/Шаблон для заметок.md",
+    "Nice Man.md",
+    "Red Sun 2080.md",
+    "New Moon Again.md",
+    "Obsidian Templates/Выдающийся человек (Шаблон).md",
     "Desktop OS/UNIX_Linux/Linux.md",
     "Desktop OS/UNIX_Linux/Minix.md",
     "Desktop OS/UNIX_Linux/GNU.md",
     "My test book.md",
-    "IT-Templates/Шаблон для книги.md",
-    "IT-Templates/Шаблон для заметок.md",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
-    "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
     "Python/OOP/Немного о статических методов.md",
     "Python/OOP/Новые Паттерны Проектирования.md",
     "Python/OOP/Общие Паттерны Проектирования.md",
@@ -222,10 +241,6 @@
     "Python/OOP/КОГДА БЕЗ ООП НЕ ОБОЙТИСЬ.md",
     "Daily/2024-05-27.md",
     "Computer Science/объектно-ориентированное программирование.md",
-    "Computer Science/Объектно-ориентированное проектирование.md",
-    "Computer Science/Форматы данных/TOML.md",
-    "Computer Science/Форматы данных/YAML.md",
-    "JSОN.md",
     "IDEs",
     "Python/OOP/OOP pictures/Рис. 12.10. Усложненный вариант паттерна Компоновщик.jpg",
     "Python/OOP/OOP pictures/Рис. 12.9. Паттерн Компоновщик.jpg",

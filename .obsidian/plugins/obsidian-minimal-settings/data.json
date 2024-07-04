@@ -1,7 +1,7 @@
 {
   "lightStyle": "minimal-light-white",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-catppuccin-light",
+  "lightScheme": "minimal-gruvbox-light",
   "darkScheme": "minimal-gruvbox-dark",
   "editorFont": "Fira Mono",
   "lineHeight": 1.5,
