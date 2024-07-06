@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a2d3dd677cffc8",
+        "id": "4ccf386f7c98ab07",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0ea4f941b355ce",
+            "id": "07a91addafc28af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,10 +196,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5f0ea4f941b355ce",
+  "active": "07a91addafc28af0",
   "lastOpenFiles": [
-    "Python/OOP/Новые Паттерны Проектирования.md",
+    "WEB/TCP_IP.md",
     "Python/OOP/Конкурентная Обработка Данных.md",
+    "TCP/IP.md",
+    "TCP",
+    "Python/OOP/OOP pictures/Рис. 14.1. Сборщик регистрационных записей в облаке.jpg",
+    "ТСР/IP.md",
+    "ТСР",
+    "Python/OOP/Новые Паттерны Проектирования.md",
     "Computer Science/Абстрактное синтаксическое дерево (AST).md",
     "Desktop OS/UNIX_Linux/Зомби-процесс.md",
     "Python/OOP/Код для самотестирования на Python.md",
@@ -224,9 +230,6 @@
     "Python/OOP/Немного о статических методов.md",
     "Python/OOP/Общие Паттерны Проектирования.md",
     "Testing/Фикстуры.md",
-    "Полезности/Интересные интернет ресурсы и не только.md",
-    "Testing/Тестовая пирамида Фаулера.md",
-    "Testing/TDD.md",
     "Testing",
     "Python/OOP/OOP pictures/Рис. 12.11. Паттерн Шаблонный метод.jpg",
     "IDEs",
@@ -241,10 +244,7 @@
     "Python/OOP/OOP pictures/Рис. 12.6. Паттерн Абстрактная фабрика.jpg",
     "Python/OOP/OOP pictures/Рис. 12.5. Ссылочная диаграмма.jpg",
     "Python/OOP/OOP pictures/Рис. 12.4. Сообщение GPS на UМL-диаграмме.jpg",
-    "Python/OOP/OOP pictures/Рис. 12.3. Паттерн Легковес.jpg",
     "JavaScript/JS React",
-    "JavaScript/JavaScript pictures/Untitled",
-    "Python/Untitled",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
