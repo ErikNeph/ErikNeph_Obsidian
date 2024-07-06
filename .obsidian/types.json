@@ -12,6 +12,7 @@
     "title": "text",
     "rating": "text",
     "icon": "text",
-    "ISBN": "text"
+    "ISBN": "text",
+    "authors": "multitext"
   }
 }
