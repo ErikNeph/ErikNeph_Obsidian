@@ -15,3 +15,7 @@ tags:
 
 - Сайт Online Python Tutor (http://www.pythontutor.com/) – прекрасный инструмент для наглядной демонстрации работы Python.
 ![[Online Python Tutor.jpg | 700]]
+
+
+- Потрясающий фреймворк для тестирования кода на python - https://docs.pytest.org/en/stable/index.html
+![[pytest_framework_main_url_page_2024.jpg|700]]
