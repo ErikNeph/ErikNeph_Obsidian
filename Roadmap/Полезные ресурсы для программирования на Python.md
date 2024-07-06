@@ -17,5 +17,5 @@ tags:
 ![[Online Python Tutor.jpg | 700]]
 
 
-- Потрясающий фреймворк для тестирования кода на python - https://docs.pytest.org/en/stable/index.html
+- Потрясающий фреймворк для тестирования кода на python, и название у него соответствующие [[pytest]] - https://docs.pytest.org/en/stable/index.html
 ![[pytest_framework_main_url_page_2024.jpg|700]]
