@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4ccf386f7c98ab07",
+        "id": "f60a53ba401e3103",
         "type": "tabs",
         "children": [
           {
-            "id": "07a91addafc28af0",
+            "id": "18437cfdad816421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Templates/Шаблон для книги.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de5b08e955cde66c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md"
+                "file": "JavaScript/JS JQuery/Введение в JQuery.md"
               }
             }
           },
@@ -154,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md"
+                "file": "JavaScript/JS JQuery/Введение в JQuery.md"
               }
             }
           },
@@ -164,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,8 +196,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "de5b08e955cde66c",
+  "active": "18437cfdad816421",
   "lastOpenFiles": [
+    "WEB/Content Delivery Network (CDN).md",
+    "JavaScript/JS JQuery/Введение в JQuery.md",
     "Obsidian Templates/Шаблон для книги.md",
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "11111.md",
@@ -248,8 +236,6 @@
     "Python/Python Testing/coverage.md",
     "Python/Python Testing",
     "Testing/Обезьяний патчинг (monkeypatching).md",
-    "Nice Man.md",
-    "Red Sun 2080.md",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "Testing",
     "Python/OOP/OOP pictures/Рис. 12.11. Паттерн Шаблонный метод.jpg",
