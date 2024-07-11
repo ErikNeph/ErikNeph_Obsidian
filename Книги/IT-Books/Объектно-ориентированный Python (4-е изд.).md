@@ -16,6 +16,7 @@ tags:
   - Books/Python
   - Books/Developing
   - Books/IT
+  - Reviews/IT_Books
 ---
 ![[Объектно-ориентированный Python 4-е изд. обложка.jpg]]
 

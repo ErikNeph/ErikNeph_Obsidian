@@ -80,12 +80,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -212,10 +212,13 @@
   },
   "active": "026174470c08d343",
   "lastOpenFiles": [
-    "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+    "Obsidian Templates/Шаблон для книги.md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
+    "Python/Framework Django/Django.md",
+    "Python/Framework Django",
     "JavaScript/JS JQuery/Введение в JQuery.md",
     "Книги/IT-Books/IT-Books pictures/Эрик Мэтиз - Изучаем пайтон 3-е издание.jpg",
+    "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "JavaScript/JavaScript pictures/Рис. 22.9. Проверка пользовательского ввода после отправки.jpg",
     "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
     "jQuery Mobile.md",
@@ -230,7 +233,6 @@
     "JavaScript/JavaScript pictures/Рис. 22.2. Воздействие сразу на несколько элементов.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.1. Изменение элементов с помощью jQuery.jpg",
     "WEB/Content Delivery Network (CDN).md",
-    "Obsidian Templates/Шаблон для книги.md",
     "11111.md",
     "again test.md",
     "Obsidian Templates/test.md",
@@ -251,14 +253,11 @@
     "ТСР/IP.md",
     "ТСР",
     "Python/OOP/Новые Паттерны Проектирования.md",
-    "Computer Science/Абстрактное синтаксическое дерево (AST).md",
-    "Desktop OS/UNIX_Linux/Зомби-процесс.md",
     "Git",
     "Python/Python Testing",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "Testing",
     "IDEs",
-    "Desktop OS/UNIX_Linux/Linux pictures",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
