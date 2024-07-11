@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "026174470c08d343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"authors\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +80,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -87,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
+                "file": "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md"
+                "file": "Книги/IT-Books/Изучаем пайтон 3-е издание.md"
               }
             }
           },
@@ -140,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md"
+                "file": "Книги/IT-Books/Изучаем пайтон 3-е издание.md"
               }
             }
           },
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
+                "file": "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +210,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "18437cfdad816421",
+  "active": "026174470c08d343",
   "lastOpenFiles": [
+    "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+    "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
+    "JavaScript/JS JQuery/Введение в JQuery.md",
+    "Книги/IT-Books/IT-Books pictures/Эрик Мэтиз - Изучаем пайтон 3-е издание.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.9. Проверка пользовательского ввода после отправки.jpg",
     "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
-    "JavaScript/JS JQuery/Введение в JQuery.md",
     "jQuery Mobile.md",
     "JavaScript/JavaScript pictures/Рис. 22.8. Определение момента входа указателя мыши в границы элемента.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.7. Перехват событий перемещения указателя мыши и нажатия ее кнопок.jpg",
@@ -214,15 +231,12 @@
     "JavaScript/JavaScript pictures/Рис. 22.1. Изменение элементов с помощью jQuery.jpg",
     "WEB/Content Delivery Network (CDN).md",
     "Obsidian Templates/Шаблон для книги.md",
-    "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "11111.md",
     "again test.md",
     "Obsidian Templates/test.md",
     "222.md",
     "Obsidian Templates/Выдающийся человек (Шаблон).md",
     "Obsidian Templates/Шаблон для заметок.md",
-    "Книги/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
-    "Книги/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. обложка.jpg",
     "Книги/IT-Books/IT-Books pictures",
     "Книги/IT-Books",
     "Книги",
