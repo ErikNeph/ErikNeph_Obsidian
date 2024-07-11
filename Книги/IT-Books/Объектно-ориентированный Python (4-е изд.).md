@@ -9,6 +9,7 @@ ISBN: 978-5-4461-1995-0
 read status: true
 rating: 6.5/10
 icon: 📚
+publishing company: Packt>
 tags:
   - Books
   - Reviews
