@@ -155,3 +155,199 @@ href="http://code.jquery.com/mobile/1.4.5/jquery.mobile 1.4.5.min.css">
 
 ### Синхронная связанность
 ---
+
+Данные по ссылкам, указывающим на другие домены или имеющим атрибуты **`rel="external", data-ajax="false"`** или **`target`**, будут загружаться в синхронном режиме, что приведет к полному обновлению страницы без анимированных переходов.
+
+Атрибуты **`rel="external"`** и **`data-ajax="false"`** приводят к одинаковому эффекту, но первый из них предназначен для ссылок на другой сайт или домен, а второй пригодится для предотвращений асинхронного режима загрузки любой страницы.
+
+Из-за ограничений, накладываемых мерами безопасности, jQuery Mobile загружает страницы со всех внешних доменов в синхронном режиме.
+
+>[!tip]
+>При использовании выгрузки HTML-файла асинхронную загрузку страниц придется отключить, поскольку этот способ извлечения веб-страницы конфликтует с заложенной в jQuery Mobile возможностью получения выгружаемого файла. Для данного конкретного случая наилучшим вариантом, наверное, станет помещение атрибута **`data-ajax="false"`** в элемент **`<form>`**:
+```html
+<form data-ajax='false' method='post'
+  action='dest_file' enctype='multipart/form-data'>
+```
+
+
+### Связанность внутри многостраничного документа
+---
+
+В одном HTML-документе может содержаться одна или несколько страниц. Последний вариант предполагает формирование структуры из **`<div>`**-элементов с указанием характера имеющихся на странице данных — **`data-role`**. Это позволяет создать в рамках *одного* HTML-документа небольшой сайт или приложение; библиотека jQuery Mobile просто отобразит на экране первую страницу, которая будет найдена в исходном порядке загрузки страниц.
+
+Если ссылка в многостраничном документе указывает на гипертекстовый элемент (например, **`#page2`**), среда станет искать охватывающий страницу **`<div>`**-элемент с атрибутом **`data-role`**, имеющим значение **`page`** и с заданными идентификатором ID (**`id="page2"`**). Если такая страница будет найдена, произойдет ее вывод на экран.
+
+Библиотека jQuery Mobile позволяет пользователям беспрепятственно перемещаться между всеми типами веб-страниц (внутренними, локальными или внешними). Для конечного пользователя все страницы будут выглядеть одинаково, за исключением внешних страниц, при вызове которых будет выводиться круговой индикатор загрузки Ajax, но внешние загруженные страницы будут заменять текущую страницу, в отличие от внутренних, которые вставляются в DOM, чтобы сохранить весь функционал jQuery Mobile. Во всех ситуациях jQuery Mobile обновляет страничный URL-хеш с целью поддержки функционирования кнопки возврата на предыдущую страницу. Этот также означает, что страницы jQuery Mobile могут индексироваться поисковыми механизмами и не имеют никаких барьеров где-нибудь в своем родном приложении.
+
+>[!danger]
+>При связывании из страницы, отображенной в формате для мобильных устройств и загруженной в асинхронном режиме в документ, в котором содержатся несколько внутренних страниц, к ссылке нужно добавить либо `rel="external"`, либо `data-ajax="false"`, чтобы принудительно вызвать полную перезагрузку страницы, вычищая асинхронный хеш из URL. В страницах, загруженных в асинхронном режиме, знак решетки (`#`) используется для отслеживания их истории, в то время как во множестве внутренних страниц этот знак используется в качестве признака внутренних страниц.
+
+
+### Смена страниц
+---
+
+Путем использования CSS-переходов jQuery Mobile может, при условии использования асинхронной навигации (включаемой по умолчанию), применять эффекты к любой ссылке на страницу или к отправке формы.
+
+Чтобы воспользоваться переходом, внутри тега **`<a>`** или **`<form>`** применяется атрибут **`data-transition`**:
+
+```html
+<a data-transition="slide" href="destination.html">Click me</a>
+```
+
+Этот атрибут поддерживает значения **`fade`** (начиная с версии 1.1 используется по умолчанию), **`pop`**, **`flip`**, **`turn`**, **`flow`**, **`slidefade`**, **`slide`** (использовалось по умолчанию до версии 1.1), **`slideup`**, **`slidedown`** и **`none`**.
+
+Например, значение **`slide`** вызывает наплыв новой страницы справа, при одновременном сдвиге текущей страницы влево. Эффект, вызываемый другими значениями, обусловливается их названиями.
+
+
+### Загрузка страницы, используемой в качестве диалогового окна
+---
+
+Новую страницу можно отобразить на экране в качестве диалогового окна, воспользовавшись атрибутом **`data-rel`** со значением **`dialog`**:
+
+```html
+<a data-rel="dialog" href="dialog.html">Open dialog</a>
+```
+
+Применение различных страничных переходов как к загрузке страниц, так и к диалогам при локальной (не по сети CDN) загрузке библиотек jQuery показано в **примере 23.2**. Он состоит из простой таблицы в два столбца, первый из которых предназначен для загрузки диалога, а второй — для загрузки новой страницы. Перечислен каждый из доступных типов переходов. Чтобы ссылки выглядели как кнопки, каждая из них снабжена атрибутом **`data-role`** со значением **`button`** (кнопки рассматриваются в разделе «Стильные кнопки» далее в этой главе).
+
+>**Пример 23.2.** Страничные переходы в jQuery Mobile
+```html
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Page Transitions</title> 
+    <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css">
+    <script src="jquery-2.2.4.min.js"></script>
+    <script src="jquery.mobile-1.4.5.min.js"></script>
+  </head> 
+  <body> 
+    <div data-role="page">
+      <div data-role="header">
+        <h1>jQuery Mobile Page Transitions</h1>
+      </div>
+      <div data-role="content"><table>
+        <tr><th><h3>fade</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="fade" data-role='button'>dialog</a>              </td>
+          <td><a href="page-template.html" data-transition="fade"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>pop</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="pop" data-role='button'>dialog</a></td>
+          <td><a href="page-template.html" data-transition="pop"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>flip</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="flip" data-role='button'>dialog</a>              </td>
+          <td><a href="page-template.html" data-transition="flip"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>turn</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="turn" data-role='button'>dialog</a>              </td>
+          <td><a href="page-template.html" data-transition="turn"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>flow</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="flow" data-role='button'>dialog</a>               </td>
+          <td><a href="page-template.html" data-transition="flow"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>slidefade</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="slidefade" data-                                       role='button'>dialog</a></td>
+          <td><a href="page-template.html" data-                                    transition="slidefade"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>slide</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="slide" data-role='button'>dialog</a>               </td>
+          <td><a href="page-template.html" data-transition="slide"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>slideup</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="slideup" data-role='button'>dialog</a>          </td>
+          <td><a href="page-template.html" data-                              transition="slideup"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>slidedown</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="slidedown" data-                                  role='button'>dialog</a></td>
+          <td><a href="page-template.html" data-                              transition="slidedown"
+           data-role='button'>page</a></td>
+        </tr><tr><th><h3>none</h3></th>
+          <td><a href="page-template.html" data-rel="dialog"
+           data-transition="none" data-role='button'>dialog</a>             </td>
+          <td><a href="page-template.html" data-transition="none"
+           data-role='button'>page</a></td></tr></table>
+      </div>
+      <div data-role="footer">
+        <h4><a href="http://tinyurl.com/jqm-trans">Official                    Demo</a></h4>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+Файл page-template.html:
+```html
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Single page template</title> 
+    <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css">
+    <script src="jquery-2.2.4.min.js"></script>
+    <script src="jquery.mobile-1.4.5.min.js"></script>
+  </head> 
+  <body> 
+    <div data-role="page">
+      <div data-role="header">
+        <h1>Single page</h1>
+      </div>
+      <div data-role="content">	
+        <p>This is a single page boilerplate template</p>
+      </div>
+      <div data-role="footer">
+        <h4>Footer content</h4>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+На **рис. 23.2** показаны результаты загрузки этого примера (сохраненного в файле transitions.html) в браузер, на **рис. 23.3** показывается в действии переход в виде переворота (flip). Кстати, переход по ссылке http://demos.jquerymobile.com/1.4.4/transitions/, приведенной в самом конце примера, приведет к сайту официальной демонстрации, где можно будет ознакомиться с этими эффектами более подробно.
+
+>![[Рис. 23.2. Применение переходов к страницам и диалогам.jpg]]
+>**Рис. 23.2.** Применение переходов к страницам и диалогам
+>![[Рис. 23.3. Flip-переход в действии.jpg]]
+>**Рис. 23.3.** Flip-переход в действии
+
+
+### Стильные кнопки
+---
+
+Простую ссылку совсем нетрудно показать в виде кнопки, не добавляя для этого свой собственный код CSS. Нужно лишь предоставить значение **`button`** используемому в элементе атрибуту **`data-role`**:
+
+```html
+<a data-role="button" href="news.html">Latest news</a>
+```
+
+Можно решать, будет ли эта кнопка шириной во все окно (по умолчанию), подобно **`<div>`**-элементу, или же показана как составляющая линейной структуры, подобно **`<span>`**-элементу. Для второго варианта атрибуту **`data-inline`** нужно присвоить значение **`true`**:
+
+```html
+<a data-role="button" data-inline="true" href="news.html">Latest      news</a>
+```
+
+Изменить способ отображения можно для любой кнопки, как созданной из ссылки, так и использованной из формы, для чего нужно сделать выбор между скругленными углами (по умолчанию) или прямыми углами и придать кнопке тень (по умолчанию) или показать ее без тени. Функции, используемые по умолчанию, можно выключить, присвоив соответствующим атрибутам **`datacorners`** и **`data-shadow`** значение **`false`**:
+
+```html
+<a data-role="button" data-inline="true" data-corners="false"
+  data-shadow="false" href="news.html">Latest news</a>
+```
+
+Более того, воспользовавшись атрибутом **`data-icon`**, можно даже добавить к копкам значки:
+
+```html
+<a data-role="button" data-inline="true" data-icon="home"
+  href="home.html">Home page</a>
+```

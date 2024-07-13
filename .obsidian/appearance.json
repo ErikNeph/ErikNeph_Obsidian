@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Things",
   "baseFontSize": 17,
   "interfaceFontFamily": "Source Code Pro,JetBrains Mono,Fira Mono",
   "textFontFamily": "Inter,Rubik,Fira Mono,JetBrains Mono,Roboto Mono,Cascadia Mono",
-  "monospaceFontFamily": "Cascadia Code,Fira Mono,Roboto Mono,Ruberoid,Rubik",
+  "monospaceFontFamily": "Roboto Mono,Cascadia Code,Fira Mono,Ruberoid,Rubik",
   "nativeMenus": false,
   "baseFontSizeAction": false
 }
