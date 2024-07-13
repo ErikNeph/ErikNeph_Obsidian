@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "cssTheme": "Things",
   "baseFontSize": 17,
-  "interfaceFontFamily": "Source Code Pro,JetBrains Mono,Fira Mono",
+  "interfaceFontFamily": "Source Code Pro ExtraLight,Source Code Pro,JetBrains Mono,Fira Mono",
   "textFontFamily": "JetBrains Mono,Fira Mono,Cascadia Mono,Inter,Roboto Mono,Ruberoid,Igra Sans,PP Neue Machina,Rubik",
   "monospaceFontFamily": "Cascadia Code,Roboto Mono,Fira Mono,Ruberoid,Rubik",
   "nativeMenus": false,

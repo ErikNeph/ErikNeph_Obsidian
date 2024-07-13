@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
+                "file": "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
+                "file": "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md"
+                "file": "JavaScript/JS JQuery/Введение в jQuery Mobile.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md"
+                "file": "JavaScript/JS JQuery/Введение в jQuery Mobile.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JS JQuery/Введение в JQuery.md",
+                "file": "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +198,10 @@
   },
   "active": "ca3421765063f60f",
   "lastOpenFiles": [
+    "WEB/Постепенное улучшение.md",
+    "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
+    "WEB/Адаптивный веб-дизайн.md",
+    "JavaScript/JS JQuery/Введение в JQuery.md",
     "JavaScript/JavaScript pictures/Рис. 22.19. Сравнение методов parents и parentsUntil.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.18. Обращение к родительским элементам с фильтром и без фильтра.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.17. Получение и установка размеров элементов.jpg",
@@ -208,9 +212,7 @@
     "JavaScript/JavaScript pictures/Рис. 22.12. Выдвижение абзаца.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.11. Текст проявился, став прозрачным на 50 %.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.10. Элемент в процессе появления.jpg",
-    "JavaScript/JS JQuery/Введение в JQuery.md",
     "Фильмы и сериалы/Лавкрафтовщина/Мультипликации по мотивам Лавкрафта.md",
-    "Фильмы и сериалы/Картинки фильмов и сериалов/Вперед! Няруко-сан обложка.jpg",
     "Знаменитые люди/Говард Филлипс Лавкрафт.md",
     "Лавкрафта.md",
     "Фильмы и сериалы/Лавкрафтовщина",
@@ -219,7 +221,6 @@
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
     "Python/Framework Django/Django.md",
     "Python/Framework Django",
-    "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
     "jQuery Mobile.md",
     "HTML5/Холсты в HTML5.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
@@ -238,7 +239,6 @@
     "Python/Python Testing/pytest.md",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
     "UML/Диаграмма классов — Class diagram.md",
-    "WEB/TCP_IP.md",
     "TCP",
     "ТСР",
     "Git",
