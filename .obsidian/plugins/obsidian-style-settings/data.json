@@ -121,5 +121,6 @@
   "minimal-style@@italic-color@@light": "#C5F800",
   "minimal-style@@italic-color@@dark": "#B9C719",
   "minimal-style@@code-normal@@light": "#AD8A1E",
-  "minimal-style@@code-normal@@dark": "#C59113"
+  "minimal-style@@code-normal@@dark": "#C59113",
+  "things-style@@h3-size": "1.3em"
 }

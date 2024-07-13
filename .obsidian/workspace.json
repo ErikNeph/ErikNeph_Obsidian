@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -197,6 +198,9 @@
   },
   "active": "ca3421765063f60f",
   "lastOpenFiles": [
+    "JavaScript/JavaScript pictures/Рис. 22.16. Документ с разнообразными элементами.jpg",
+    "JavaScript/JavaScript pictures/Рис. 22.15. Теперь ссылка полностью изменена.jpg",
+    "JavaScript/JavaScript pictures/Рис. 22.14. Извлечение и отображение HTML-содержимого элемента.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.13. Мячик, отскакивающий от границ окна браузера.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.12. Выдвижение абзаца.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.11. Текст проявился, став прозрачным на 50 %.jpg",
@@ -217,11 +221,8 @@
     "JavaScript/JavaScript pictures/Рис. 22.9. Проверка пользовательского ввода после отправки.jpg",
     "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
     "jQuery Mobile.md",
-    "JavaScript/JavaScript pictures/Рис. 22.8. Определение момента входа указателя мыши в границы элемента.jpg",
-    "JavaScript/JavaScript pictures/Рис. 22.7. Перехват событий перемещения указателя мыши и нажатия ее кнопок.jpg",
     "HTML5/Холсты в HTML5.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
-    "JavaScript/JavaScript pictures/Рис. 22.6. Обработка событий нажатия клавиш.jpg",
     "WEB/Content Delivery Network (CDN).md",
     "11111.md",
     "again test.md",
