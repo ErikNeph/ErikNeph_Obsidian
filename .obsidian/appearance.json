@@ -4,7 +4,7 @@
   "cssTheme": "Minimal",
   "baseFontSize": 17,
   "interfaceFontFamily": "JetBrains Mono,Source Code Pro,Fira Mono",
-  "textFontFamily": "Fira Mono,Cascadia Mono,Inter,Roboto Mono,Ruberoid,Igra Sans,PP Neue Machina,Rubik",
+  "textFontFamily": "Fira Mono,Cascadia Mono,Inter,Roboto Mono,Ruberoid,Igra Sans,PP Neue Machina,Rubik,JetBrains Mono",
   "monospaceFontFamily": "Cascadia Code,Roboto Mono,Fira Mono,Ruberoid,Rubik",
   "nativeMenus": false,
   "baseFontSizeAction": false

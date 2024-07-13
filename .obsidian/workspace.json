@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -198,6 +197,7 @@
   },
   "active": "ca3421765063f60f",
   "lastOpenFiles": [
+    "JavaScript/JavaScript pictures/Рис. 22.13. Мячик, отскакивающий от границ окна браузера.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.12. Выдвижение абзаца.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.11. Текст проявился, став прозрачным на 50 %.jpg",
     "JavaScript/JavaScript pictures/Рис. 22.10. Элемент в процессе появления.jpg",
@@ -222,7 +222,6 @@
     "HTML5/Холсты в HTML5.md",
     "Полезности/Интересные интернет ресурсы и не только.md",
     "JavaScript/JavaScript pictures/Рис. 22.6. Обработка событий нажатия клавиш.jpg",
-    "JavaScript/JavaScript pictures/Рис. 22.5. На кнопке 3 был сделан одинарный щелчок, и она ускользнула вверх.jpg",
     "WEB/Content Delivery Network (CDN).md",
     "11111.md",
     "again test.md",
