@@ -351,3 +351,199 @@ href="http://code.jquery.com/mobile/1.4.5/jquery.mobile 1.4.5.min.css">
 <a data-role="button" data-inline="true" data-icon="home"
   href="home.html">Home page</a>
 ```
+
+Существует на выбор более 50 готовых к применению значков. Все они созданы с использованием довольно мощного графического языка под названием [[Scalable Vector Graphics (SVG)|Scalable Vector Graphics (SVG)]], то есть масштабируемая векторная графика, а для устройств, не поддерживающих SVG, используется формат PNG, придающий значкам особую привлекательность на дисплеях с технологией Retina. Доступные значки можно увидеть на демонстрационной странице по адресу http://tinyurl.com/jqmicons.
+
+По умолчанию значки появляются слева от текста кнопки, но можно выбрать их размещение справа, выше либо ниже текста или же удалить любой текст, применив, соответственно, значения **`right`**, **`top`**, **`bottom`** или **`notext`** к атрибуту **`data-iconpos`**:
+
+```html
+<a data-role="button" data-inline="true" data-icon="home"
+   data-iconpos="right" href="home.html">Home page</a>
+```
+
+Если вы решите не отображать текст кнопки, то она будет показана круглой по умолчанию.
+
+И наконец, в завершение этого краткого обзора по стилизации кнопок рассмотрим вариант выбора уменьшенных кнопок (включая и их текст) путем присваивания атрибуту **`data-mini`** значения **`true`**:
+
+```html
+<a data-role="button" data-inline="true" data-icon="home"
+  data-mini="true" href="home.html">Home page</a>
+```
+
+В **примере 23.3** показывается подборка кнопок, созданных с применением различных стилей (без указания для краткости атрибутов **`href`**). Результат выполнения кода примера показан на **рис. 23.4**.
+
+>**Пример 23.3**. Разнообразные кнопочные элементы
+```html
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Buttons</title> 
+    <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css">
+    <script src="jquery-2.2.4.min.js"></script>
+    <script src="jquery.mobile-1.4.5.min.js"></script>
+  </head> 
+  <body> 
+    <div data-role="page">
+      <div data-role="header">
+        <h1>jQuery Mobile Buttons</h1>
+      </div>
+      <div data-role="content" style='text-align:center'>
+        <a data-role="button">Default</a>
+        <a data-role="button" data-inline="true">In-line</a>
+        <a data-role="button" data-inline="true"
+                              data-corners="false">Squared                                       corners</a>
+        <a data-role="button" data-inline="true"
+                              data-shadow="false">Unshadowed</a>
+        <a data-role="button" data-inline="true" data-                                         corners="false"
+                              data-shadow="false">Both</a><br>
+        <a data-role="button" data-inline="true"
+                              data-icon="home">Left icon</a>
+        <a data-role="button" data-inline="true" data-icon="home"
+                              data-iconpos="right">Right icon</a>
+        <a data-role="button" data-inline="true" data-icon="home"
+                              data-iconpos="top">Top icon</a>
+        <a data-role="button" data-inline="true" data-icon="home"
+                              data-iconpos="bottom">Bottomicon</a>         <br>
+        <a data-role="button" data-mini="true">Default Mini</a>
+      </div>
+      <div data-role="footer">
+        <h4><a href="http://tinyurl.com/jqmbuttons">Official                 Demo</a></h4>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+>![[Рис. 23.4. Ассортимент кнопочных стилей.jpg]]
+>**Рис. 23.4.** Ассортимент кнопочных стилей
+
+На самом деле, выбор стилевого оформления кнопок намного шире, и все необходимые вам подробности можно получить на сайте демонстрации кнопок по адресу http://tinyurl.com/jqmbuttons. А пока вполне сгодится и эта вводная информация.
+
+
+### Обработка списков
+---
+
+Что касается обработки списков, jQuery Mobile предоставляет широкий спектр простых в применении свойств, позволяющих существенно упростить работу. Все эти свойства доступны за счет присваивания значения **`listview`** атрибуту **`data-role`**, принадлежащему элементу **`<ul>`** или **`<ol>`**.
+
+К примеру, для создания простого неупорядоченного списка можно воспользоваться следующим кодом:
+
+```html
+<ul data-role="listview">
+  <li>Brocolli</li>
+  <li>Carrots</li>
+  <li>Lettuce</li>
+</ul>
+```
+
+Для получения упорядоченного списка нужно просто заменить открывающие и закрывающие теги **`<ul>`** тегами **`<ol>`**, и список станет пронумерованным.
+
+Любые ссылки внутри списка автоматически получат значок со стрелкой, встраиваемый и изображаемый в виде кнопки. ==Можно также вставить список, смешав его с другим содержимым страницы, для чего нужно присвоить атрибуту== **`data-inset`** значение **`true`**.
+
+В **примере 23.4** показывается, как эти разнообразные свойства работают на практике. Результат выполнения кода показан на **рис. 23.5.**
+
+>**Пример 23.4.** Подборка списков
+```html
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Lists</title> 
+    <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css">
+    <script src="jquery-2.2.4.min.js"></script>
+    <script src="jquery.mobile-1.4.5.min.js"></script>
+  </head> 
+  <body> 
+    <div data-role="page">
+      <div data-role="header">
+        <h1>jQuery Lists</h1>
+      </div>
+      <div data-role="content" style='text-align:center'>
+        <ul data-role="listview">
+          <li>An</li>
+          <li>Unordered</li>
+          <li>List</li>
+        </ul><br><br>
+        <ol data-role="listview">
+          <li>An</li>
+          <li>Ordered</li>
+          <li>List</li>
+        </ol><br>
+        <ul data-role="listview" data-inset="true">
+          <li>An</li>
+          <li>Inset Unordered</li>
+          <li>List</li>
+        </ul>
+        <ul data-role="listview" data-inset="true">
+          <li><a href='#'>An</a></li>
+          <li><a href='#'>Inset Unordered</a></li>
+          <li><a href='#'>Linked List</a></li>
+        </ul>
+      </div>
+      <div data-role="footer">
+        <h4><a href="http://tinyurl.com/jqmlists">Official                   Demo</a></h4>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+>![[Рис. 23.5. Упорядоченные и неупорядоченные, а также простые и вставленные списки.jpg]]
+>**Рис. 23.5.** Упорядоченные и неупорядоченные, а также простые и вставленные списки
+
+
+### Фильтруемые списки
+---
+
+Списки можно сделать фильтруемыми, присвоив атрибуту **`data-filter`** значение true, что приведет к появлению над списком поля поиска, по мере ввода в которое аргумента поиска из отображения списка будут автоматически удаляться не соответствующие этому аргументу элементы списка. Можно также присвоить значение **`true`** аргументу **`data-filter-reveal`**, в результате чего не будут показаны никакие элементы, пока пользователь не наберет в поле фильтра хотя бы одну букву, а затем будут отображаться только те элементы, которые соответствуют символам, набранным в поле фильтра.
+
+В **примере 23.5** показывается использование этих двух типов фильтруемых списков, отличающихся только тем, что к последнему добавлен код **`data-filter-reveal="true"`**.
+
+>**Пример 23.5.** Фильтруемый список и список с появлением элементов по мере ввода значения фильтра
+```html
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-          scale=1"> 
+    <title>Lists</title> 
+    <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css">
+    <script src="jquery-2.2.4.min.js"></script>
+    <script src="jquery.mobile-1.4.5.min.js"></script>
+  </head> 
+  <body> 
+    <div data-role="page">
+      <div data-role="header">
+        <h1>jQuery Lists</h1>
+      </div>
+      <div data-role="content" style='text-align:center'>
+        <ul data-role="listview" data-filter="true"
+            data-filter-placeholder="Search big cats..." data-                 inset="true">
+          <li>Cheetah</li>
+          <li>Cougar</li>
+          <li>Jaguar</li>
+          <li>Leopard</li>
+          <li>Lion</li>
+          <li>Snow Leopard</li>
+          <li>Tiger</li>
+        </ul>
+        <ul data-role="listview" data-filter="true" data-filter-             reveal="true"
+            data-filter-placeholder="Search big cats..." data-               inset="true">
+          <li>Cheetah</li>
+          <li>Cougar</li>
+          <li>Jaguar</li>
+          <li>Leopard</li>
+          <li>Lion</li>
+          <li>Snow Leopard</li>
+          <li>Tiger</li>
+        </ul>
+      </div>
+      <div data-role="footer">
+        <h4><a href="http://tinyurl.com/jqmlists">Official                   Demo</a></h4>
+      </div>
+    </div>
+  </body>
+</html>
+```
