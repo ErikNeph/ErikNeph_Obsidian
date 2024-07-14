@@ -9,7 +9,7 @@ tags:
   - jQueryMobile
   - Framework/JS
   - Framework
-read status: false
+read status: true
 aliases:
   - Краткое знакомство с jQuery Mobile
 ---
