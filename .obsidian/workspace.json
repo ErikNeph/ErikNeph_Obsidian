@@ -10,6 +10,7 @@
           {
             "id": "1ba40683280bedae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -199,10 +201,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4331295bb5b073ce",
+  "active": "1ba40683280bedae",
   "lastOpenFiles": [
-    "WEB/MVC (Model, View, Controller).md",
+    "JavaScript/Node.js/Node.js.md",
+    "JavaScript/Node.js",
     "JavaScript/JS React/Введение в React.md",
+    "Знаменитые люди/Алан Тьюринг.md",
+    "Roadmap/Полезные ресурсы для программирования на Python.md",
+    "WEB/MVC (Model, View, Controller).md",
     "Полезности/Интересные интернет ресурсы и не только.md",
     "JavaScript/JavaScript pictures/Рис. 24.1. Популярность jQuery, Angular и React в настоящее время по данным Google Trends.jpg",
     "PHP/ReactPHP.md",
@@ -236,17 +242,12 @@
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Obsidian Templates/Шаблон для книги.md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
-    "Python/Framework Django/Django.md",
     "Python/Framework Django",
-    "jQuery Mobile.md",
-    "HTML5/Холсты в HTML5.md",
-    "WEB/Content Delivery Network (CDN).md",
     "Книги/IT-Books/IT-Books pictures",
     "Книги/IT-Books",
     "Книги",
     "TCP",
     "ТСР",
-    "Git",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
