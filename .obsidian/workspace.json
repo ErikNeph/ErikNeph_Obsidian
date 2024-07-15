@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JS React/Введение в React.md",
+                "file": "HTML5/Введение в HTML5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JS React/Введение в React.md",
+                "file": "HTML5/Введение в HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JS React/Введение в React.md"
+                "file": "HTML5/Введение в HTML5.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "JavaScript/JS React/Введение в React.md"
+                "file": "HTML5/Введение в HTML5.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JS React/Введение в React.md",
+                "file": "HTML5/Введение в HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,16 @@
   },
   "active": "1ba40683280bedae",
   "lastOpenFiles": [
+    "WEB/WebSQL.md",
     "HTML5/Введение в HTML5.md",
+    "HTML5/Аудио и видео в HTML5.md",
+    "HTML5/HTML5 pictures/Рис. 25.3. Показ видео с помощью HTML5.jpg",
+    "HTML5/Другие свойства HTML5.md",
+    "HTML5/HTML5 pictures/Рис. 25.2. Местоположение пользователя применялось для отображения карты.jpg",
+    "HTML5/Холсты в HTML5.md",
+    "HTML5/HTML5 pictures/Рис. 25.1. Рисование японского флага на холсте HTML5.jpg",
+    "HTML5/HTML5 pictures",
+    "WEB/WebKit.md",
     "JavaScript/JS React/Введение в React.md",
     "HTML5/Untitled.md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
@@ -223,29 +232,20 @@
     "JavaScript/JS React/JSX (JavaScript XML).md",
     "Базы данных/Нормализация.md",
     "JavaScript/Angular/Angular Framework.md",
-    "README.md",
-    "Angular.md",
     "JavaScript/Angular",
-    "JavaScript/JS JQuery/Введение в jQuery Mobile.md",
-    "WEB/Apache Cordova.md",
     "JavaScript/JavaScript pictures/Рис. 23.8. Автоматическое разделение элементов списка по алфавиту.jpg",
     "JavaScript/JavaScript pictures/Рис. 23.7. Список, разделенный на категории.jpg",
     "JavaScript/JavaScript pictures/Рис. 23.6. Фильтруемый список и список с появлением элементов по мере ввода.jpg",
     "JavaScript/JavaScript pictures/Рис. 23.5. Упорядоченные и неупорядоченные, а также простые и вставленные списки.jpg",
     "JavaScript/JavaScript pictures/Рис. 23.4. Ассортимент кнопочных стилей.jpg",
-    "Computer Science/Языки программирования и разметок/Scalable Vector Graphics (SVG).md",
     "Computer Science/Языки программирования и разметок",
     "JavaScript/JavaScript pictures/Рис. 23.3. Flip-переход в действии.jpg",
-    "JavaScript/JavaScript pictures/Рис. 23.2. Применение переходов к страницам и диалогам.jpg",
-    "JavaScript/JavaScript pictures/Рис. 23.1. Отображение одностраничного шаблона jQuery Mobile в окне браузера.jpg",
-    "JavaScript/JavaScript pictures/Рис. 22.19. Сравнение методов parents и parentsUntil.jpg",
     "Фильмы и сериалы/Лавкрафтовщина",
     "Python/Framework Django",
     "Книги/IT-Books/IT-Books pictures",
     "Книги/IT-Books",
     "Книги",
     "TCP",
-    "ТСР",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
