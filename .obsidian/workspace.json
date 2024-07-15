@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f19cf4ad3d691121",
+        "id": "05f8ec02284efdba",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba40683280bedae",
+            "id": "465a3a57a25bdc29",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML5/Холсты в HTML5.md",
+                "file": "HTML5/Аудио и видео в HTML5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5ccfaee58e9eae0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML5/Другие свойства HTML5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML5/Холсты в HTML5.md",
+                "file": "HTML5/Другие свойства HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML5/Холсты в HTML5.md"
+                "file": "HTML5/Другие свойства HTML5.md"
               }
             }
           },
@@ -142,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "HTML5/Холсты в HTML5.md"
+                "file": "HTML5/Другие свойства HTML5.md"
               }
             }
           },
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML5/Холсты в HTML5.md",
+                "file": "HTML5/Другие свойства HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,49 +212,48 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1ba40683280bedae",
+  "active": "5ccfaee58e9eae0a",
   "lastOpenFiles": [
-    "WEB/WebKit.md",
+    "HTML5/Аудио и видео в HTML5.md",
+    "HTML5/HTML5 pictures/Рис. 27.4. Для управления видео был использован JavaScript.jpg",
+    "Computer Science/Форматы данных/Ogg.md",
+    "Computer Science/Форматы данных/WebM.md",
+    "UML/Диаграмма классов — Class diagram.md",
+    "UML/Диаграмма активностей — Activity diagram.md",
+    "UML/Глоссарий терминов UML.md",
+    "UML/Виды UML-диаграмм.md",
+    "Computer Science/Форматы данных/MP4.md",
+    "HTML5/HTML5 pictures/Рис. 27.3. Проигрывание HTML5-видео.jpg",
+    "HTML5/HTML5 pictures/Рис. 27.2. HTML5-аудио можно управлять с помощью JavaScript.jpg",
+    "HTML5/HTML5 pictures/Рис. 27.1. Проигрывание аудиофайла.jpg",
+    "WEB/MIME-типы(MIME-types).md",
+    "Computer Science/Форматы данных/AAC (Кодек).md",
+    "Computer Science/Кодек.md",
+    "Computer Science/Форматы данных/MPEG.md",
+    "Computer Science/Форматы данных/MP3.md",
     "HTML5/Холсты в HTML5.md",
-    "WEB/WebSQL.md",
+    "HTML5/HTML5 pictures/Рис. 26.4. Подборка различных линейных градиентов.jpg",
+    "HTML5/HTML5 pictures/Рис. 26.3. У центрального прямоугольника имеется горизонтальная градиентная заливка.jpg",
+    "HTML5/HTML5 pictures/Рис. 26.2. Рисование концентрических прямоугольников.jpg",
+    "Computer Science/Форматы данных/PNG.md",
+    "Computer Science/Форматы данных/JPEG.md",
+    "HTML5/HTML5 pictures/Рис. 26.1. Изображение справа скопировано с холста, показанного слева.jpg",
     "HTML5/Введение в HTML5.md",
+    "WEB/WebGL.md",
+    "WEB/WebKit.md",
+    "WEB/WebSQL.md",
     "2.md",
     "Obsidian/Встраивание вложений в заметки.md",
     "JavaScript/JavaScriptCore.md",
     "WEB/WebCore.md",
     "IT Companies/Apple.md",
     "IT Companies",
-    "IT Companies/KDE.md",
-    "IT Companies/Google.md",
-    "HTML5/Аудио и видео в HTML5.md",
     "HTML5/HTML5 pictures/Рис. 25.3. Показ видео с помощью HTML5.jpg",
-    "HTML5/Другие свойства HTML5.md",
     "HTML5/HTML5 pictures/Рис. 25.2. Местоположение пользователя применялось для отображения карты.jpg",
-    "HTML5/HTML5 pictures/Рис. 25.1. Рисование японского флага на холсте HTML5.jpg",
     "HTML5/HTML5 pictures",
-    "JavaScript/JS React/Введение в React.md",
-    "HTML5/Untitled.md",
-    "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
-    "JavaScript/DOM.md",
-    "Daily/Jul 14, 2024.md",
-    "Untitled.md",
-    "Git/Основные команды Git.md",
-    "Desktop OS/UNIX_Linux/Linux.md",
-    "Obsidian/test note.md",
-    "Daily/2024-06-25.md",
-    "Цитаты/Цитаты о науке и компьютеров.md",
-    "JavaScript/Node.js/Node.js.md",
     "JavaScript/Node.js",
-    "Знаменитые люди/Алан Тьюринг.md",
-    "JavaScript/JavaScript pictures/Рис. 24.1. Популярность jQuery, Angular и React в настоящее время по данным Google Trends.jpg",
     "JavaScript/Angular",
-    "JavaScript/JavaScript pictures/Рис. 23.8. Автоматическое разделение элементов списка по алфавиту.jpg",
-    "JavaScript/JavaScript pictures/Рис. 23.7. Список, разделенный на категории.jpg",
-    "JavaScript/JavaScript pictures/Рис. 23.6. Фильтруемый список и список с появлением элементов по мере ввода.jpg",
-    "JavaScript/JavaScript pictures/Рис. 23.5. Упорядоченные и неупорядоченные, а также простые и вставленные списки.jpg",
-    "JavaScript/JavaScript pictures/Рис. 23.4. Ассортимент кнопочных стилей.jpg",
     "Computer Science/Языки программирования и разметок",
-    "JavaScript/JavaScript pictures/Рис. 23.3. Flip-переход в действии.jpg",
     "Фильмы и сериалы/Лавкрафтовщина",
     "Python/Framework Django",
     "Книги/IT-Books/IT-Books pictures",
