@@ -10,7 +10,7 @@ tags:
   - Audio
   - Video
   - Formats
-read status: false
+read status: true
 aliases:
   - Видео и аудио в HTML5
 ---

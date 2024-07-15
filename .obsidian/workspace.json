@@ -8,23 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "465a3a57a25bdc29",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML5/Аудио и видео в HTML5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "5ccfaee58e9eae0a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,11 +18,11 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +200,12 @@
   },
   "active": "5ccfaee58e9eae0a",
   "lastOpenFiles": [
+    "HTML5/HTML5 pictures/Рис. 28.1. Интерактивная карта, выведенная с учетом местоположения пользователя.jpg",
+    "WEB/IP-адрес.md",
+    "HTML5/Другие свойства HTML5.md",
+    "WEB/MAC-адрес.md",
     "HTML5/Аудио и видео в HTML5.md",
+    "WEB/GPS.md",
     "HTML5/HTML5 pictures/Рис. 27.4. Для управления видео был использован JavaScript.jpg",
     "Computer Science/Форматы данных/Ogg.md",
     "Computer Science/Форматы данных/WebM.md",
@@ -243,10 +234,6 @@
     "WEB/WebKit.md",
     "WEB/WebSQL.md",
     "2.md",
-    "Obsidian/Встраивание вложений в заметки.md",
-    "JavaScript/JavaScriptCore.md",
-    "WEB/WebCore.md",
-    "IT Companies/Apple.md",
     "IT Companies",
     "HTML5/HTML5 pictures/Рис. 25.3. Показ видео с помощью HTML5.jpg",
     "HTML5/HTML5 pictures/Рис. 25.2. Местоположение пользователя применялось для отображения карты.jpg",
