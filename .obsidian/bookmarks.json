@@ -646,6 +646,19 @@
         }
       ],
       "title": "UML bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1720942762278,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1720942722922,
+          "path": "Git/Основные команды Git.md",
+          "title": "Основные команды Git bookmark"
+        }
+      ],
+      "title": "Git bookmarks"
     }
   ]
 }

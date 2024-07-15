@@ -8,9 +8,9 @@ tags:
   - UNIX/Linux
   - GNU
   - GNU/Linux
-read status: true
+read status: false
 aliases:
-  - История Linux
+  - Краткая история Linux
 ---
 ---
 # Linux
