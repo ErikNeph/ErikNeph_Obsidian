@@ -10,6 +10,7 @@ tags:
   - IT
   - IT/WEB
   - IT/HTML
+  - DOM
 read status: true
 aliases:
   - HTML5 немного базы
