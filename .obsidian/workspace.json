@@ -21,19 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9454dc4ba802ef04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/MIME-типы (MIME-types).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -213,6 +200,7 @@
   },
   "active": "5ccfaee58e9eae0a",
   "lastOpenFiles": [
+    "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
     "WEB/MIME-типы (MIME-types).md",
     "HTML5/Другие свойства HTML5.md",
     "HTML5/HTML5 pictures/Рис. 28.2. Чтение из локального хранилища двух ключей и их значений.jpg",
