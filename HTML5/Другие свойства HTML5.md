@@ -8,7 +8,7 @@ tags:
   - Web/HTML
   - IT
   - IT/WEB
-read status: false
+read status: true
 aliases:
   - другие свойства HTML5
 ---
