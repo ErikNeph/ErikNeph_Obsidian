@@ -8,14 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3c666b1b0454250",
+            "id": "4c76fe5bc6d89760",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e4eb24a3262f1339",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WEB/cookie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WEB/cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WEB/cookie.md"
+              }
             }
           },
           {
@@ -131,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "WEB/cookie.md"
+              }
             }
           },
           {
@@ -140,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WEB/cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +212,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4331295bb5b073ce",
+  "active": "e4eb24a3262f1339",
   "lastOpenFiles": [
+    "Computer Science/OC.md",
+    "Computer Science/Серверная операционная система.md",
+    "Desktop OS/UNIX_Linux/Unix.md",
+    "WEB/Wi-Fi.md",
     "WEB/cookie.md",
+    "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
+    "WEB/Интернет-браузер.md",
+    "WEB/Сайт.md",
+    "WEB/Клиент и сервер (Client and server).md",
+    "WEB/HTTP.md",
     "WEB/HTTPS-протокол.md",
     "Obsidian Templates/Шаблон для заметок.md",
     "Obsidian Templates/Шаблон для книги.md",
@@ -210,18 +246,9 @@
     "HTML5/Аудио и видео в HTML5.md",
     "WEB/GPS.md",
     "HTML5/HTML5 pictures/Рис. 27.4. Для управления видео был использован JavaScript.jpg",
-    "Computer Science/Форматы данных/Ogg.md",
-    "Computer Science/Форматы данных/WebM.md",
-    "UML/Диаграмма классов — Class diagram.md",
-    "UML/Диаграмма активностей — Activity diagram.md",
-    "UML/Глоссарий терминов UML.md",
-    "UML/Виды UML-диаграмм.md",
-    "Computer Science/Форматы данных/MP4.md",
     "HTML5/HTML5 pictures/Рис. 27.3. Проигрывание HTML5-видео.jpg",
     "HTML5/HTML5 pictures/Рис. 27.2. HTML5-аудио можно управлять с помощью JavaScript.jpg",
     "HTML5/HTML5 pictures/Рис. 27.1. Проигрывание аудиофайла.jpg",
-    "Computer Science/Форматы данных/AAC (Кодек).md",
-    "Computer Science/Кодек.md",
     "HTML5/HTML5 pictures/Рис. 26.4. Подборка различных линейных градиентов.jpg",
     "HTML5/HTML5 pictures/Рис. 26.3. У центрального прямоугольника имеется горизонтальная градиентная заливка.jpg",
     "IT Companies",
