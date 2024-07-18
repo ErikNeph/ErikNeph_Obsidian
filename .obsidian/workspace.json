@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "05f8ec02284efdba",
+        "id": "17f91d76c0e3b303",
         "type": "tabs",
         "children": [
           {
-            "id": "5ccfaee58e9eae0a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML5/Другие свойства HTML5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2a4a13a366d03973",
+            "id": "a3c666b1b0454250",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/SSL (Secure Sockets Layer).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/SSL (Secure Sockets Layer).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WEB/SSL (Secure Sockets Layer).md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "WEB/SSL (Secure Sockets Layer).md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/SSL (Secure Sockets Layer).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,16 +185,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2a4a13a366d03973",
+  "active": "4331295bb5b073ce",
   "lastOpenFiles": [
-    "WEB/WEB_pictures/SSL Рукопожатие диаграмма.jpg",
-    "Daily/Jul 17, 2024.md",
-    "WEB/SSL (Secure Sockets Layer).md",
-    "HTML5/Другие свойства HTML5.md",
-    "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
-    "WEB/MIME-типы (MIME-types).md",
-    "HTML5/HTML5 pictures/Рис. 28.2. Чтение из локального хранилища двух ключей и их значений.jpg",
     "WEB/cookie.md",
+    "WEB/HTTPS-протокол.md",
+    "Obsidian Templates/Шаблон для заметок.md",
+    "Obsidian Templates/Шаблон для книги.md",
+    "Obsidian Templates/Выдающийся человек (Шаблон).md",
+    "HTML5/Другие свойства HTML5.md",
+    "WEB/SSL (Secure Sockets Layer).md",
+    "WEB/MIME-типы (MIME-types).md",
+    "WEB/Запрос - ответ между клиентом и сервером.canvas",
+    "WEB/Всемирная паутина.md",
+    "WEB/Адаптивный веб-дизайн.md",
+    "WEB/TCP IP.md",
+    "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
+    "Daily/Jul 17, 2024.md",
+    "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
+    "HTML5/HTML5 pictures/Рис. 28.2. Чтение из локального хранилища двух ключей и их значений.jpg",
     "WEB/TLS (Transport Layer Security).md",
     "HTML5/HTML5 pictures/Рис. 28.1. Интерактивная карта, выведенная с учетом местоположения пользователя.jpg",
     "WEB/IP-адрес.md",
@@ -241,15 +222,8 @@
     "HTML5/HTML5 pictures/Рис. 27.1. Проигрывание аудиофайла.jpg",
     "Computer Science/Форматы данных/AAC (Кодек).md",
     "Computer Science/Кодек.md",
-    "Computer Science/Форматы данных/MPEG.md",
-    "Computer Science/Форматы данных/MP3.md",
-    "HTML5/Холсты в HTML5.md",
     "HTML5/HTML5 pictures/Рис. 26.4. Подборка различных линейных градиентов.jpg",
     "HTML5/HTML5 pictures/Рис. 26.3. У центрального прямоугольника имеется горизонтальная градиентная заливка.jpg",
-    "HTML5/HTML5 pictures/Рис. 26.2. Рисование концентрических прямоугольников.jpg",
-    "Computer Science/Форматы данных/PNG.md",
-    "Computer Science/Форматы данных/JPEG.md",
-    "HTML5/Введение в HTML5.md",
     "IT Companies",
     "HTML5/HTML5 pictures",
     "JavaScript/Node.js",
@@ -263,7 +237,6 @@
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
-    "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
