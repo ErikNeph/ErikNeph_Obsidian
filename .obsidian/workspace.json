@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a31e5611c242e3f",
+        "id": "8e71a3f9d9497cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "1696720965bd17b1",
+            "id": "eb30f118e7b8ad2c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,22 +23,7 @@
             }
           },
           {
-            "id": "fa061d099257b11a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Framework Django/Django.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7d5c45c07eea464a",
+            "id": "c3e127a141013a8c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -53,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,37 +214,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7d5c45c07eea464a",
+  "active": "c3e127a141013a8c",
   "lastOpenFiles": [
-    "WEB/CMS.md",
+    "Computer Science/Антивирус.md",
     "WEB/Веб-сервер.md",
+    "Computer Science/Настольный компьютер.md",
+    "WEB/HTTP File Server.md",
+    "Desktop OS/Windows/Windows.md",
+    "Desktop OS/Windows",
+    "IT Companies/Microsoft.md",
+    "WEB/LiteSpeed Web Server.md",
+    "WEB/Lighttpd.md",
+    "WEB/Обратный прокси.md",
+    "WEB/Nginx.md",
+    "WEB/Apache.md",
+    "WEB/Почтовый сервер.md",
+    "WEB/HTTPS.md",
+    "WEB/Динамически генерируемые страницы.md",
+    "WEB/Аутентификация.md",
+    "WEB/Авторизация.md",
+    "WEB/Журнал Сервера.md",
+    "Цитаты/Цитаты об образовании.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Python/Framework Django/Django.md",
+    "WEB/CMS.md",
     "Python/Python Web-Servers/uWSGI.md",
     "CSS3/CSS стили.md",
     "Python/Python Web-Servers/Tornado.md",
     "Python/Python Web-Servers/Waitress.md",
     "Python/Python Web-Servers/CherryPy.md",
-    "Python/Python Web-Servers/Gunicorn.md",
-    "Python/Python Web-Servers/Weakzeug.md",
     "Python/Python Web-Servers",
-    "WEB/Динамических веб-сервер.md",
-    "WEB/Статический веб-сервер.md",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
-    "WEB/HTTP-сервер.md",
-    "WEB/WebKit.md",
-    "JavaScript/JavaScriptCore.md",
-    "JavaScript/JavaScript.md",
-    "Daily/Jul 20, 2024.md",
-    "Python/Framework Django/Django.md",
-    "WEB/URL.md",
-    "Computer Science/Фреймворк.md",
-    "Python/Framework Django/urlresolver.md",
-    "Python/Python Base/Python.md",
     "Python/Python Base",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
-    "WEB/Интернет-браузер.md",
-    "Техники Изучения и Обучения/Техника Фейнмана.md",
-    "Obsidian/Obsidian.md",
-    "Computer Science/Форматы данных/PDF.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
@@ -277,7 +263,6 @@
     "Computer Science/Языки программирования и разметок",
     "Фильмы и сериалы/Лавкрафтовщина",
     "Python/Framework Django",
-    "Книги/IT-Books/IT-Books pictures",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
