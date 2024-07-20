@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5498858048b0e901",
+        "id": "2a31e5611c242e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "843d9f08cc64e9dd",
+            "id": "d194fccdd07f418b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WEB/Интернет-браузер.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -82,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WEB/Интернет-браузер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WEB/Интернет-браузер.md"
+              }
             }
           },
           {
@@ -131,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "WEB/Интернет-браузер.md"
+              }
             }
           },
           {
@@ -140,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WEB/Интернет-браузер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,34 +198,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "843d9f08cc64e9dd",
+  "active": "d194fccdd07f418b",
   "lastOpenFiles": [
-    "Базы данных/Графы базы данных.md",
+    "Computer Science/Форматы данных/PDF.md",
+    "Computer Science/OC.md",
+    "WEB/Интернет-браузер.md",
+    "Computer Science/djvu.md",
+    "Computer Science/Форматы данных/GIF.md",
+    "WEB/Всемирная паутина.md",
+    "WEB/Веб-сервер.md",
+    "WEB/Адаптивный веб-дизайн.md",
+    "Установки ПО и прочего/Web-soft/Установка сервера, предназначенного для разработки.md",
+    "WEB/WebSQL.md",
+    "WEB/MAC-адрес.md",
+    "WEB/IP-адрес.md",
+    "WEB/WebKit.md",
+    "WEB/WebCore.md",
+    "WEB/WebGL.md",
+    "WEB/Wi-Fi.md",
+    "WEB/TLS (Transport Layer Security).md",
+    "WEB/TCP IP.md",
     "Obsidian/Поиск.md",
+    "Базы данных/Графы базы данных.md",
     "Obsidian/Файловый менеджер.md",
     "Obsidian/Форматирование заметок.md",
     "Obsidian/Шаблоны.md",
     "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
     "WEB/Маршрутизатор.md",
-    "WEB/Веб-сервер.md",
     "WEB/DNS.md",
-    "PHP/PHP.md",
-    "Базы данных/SQL.md",
-    "WEB/cookie.md",
-    "Computer Science/OC.md",
-    "Computer Science/Серверная операционная система.md",
-    "Desktop OS/UNIX_Linux/Unix.md",
-    "WEB/Wi-Fi.md",
-    "WEB/Интернет-браузер.md",
-    "WEB/Сайт.md",
-    "WEB/Клиент и сервер (Client and server).md",
-    "WEB/HTTP.md",
-    "WEB/HTTPS-протокол.md",
-    "Obsidian Templates/Шаблон для заметок.md",
-    "Obsidian Templates/Шаблон для книги.md",
-    "Obsidian Templates/Выдающийся человек (Шаблон).md",
-    "HTML5/Другие свойства HTML5.md",
-    "WEB/SSL (Secure Sockets Layer).md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
