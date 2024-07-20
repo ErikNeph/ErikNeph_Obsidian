@@ -36,9 +36,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7d5c45c07eea464a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/Веб-сервер.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Framework Django/Django.md",
+                "file": "WEB/Веб-сервер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Framework Django/Django.md"
+                "file": "WEB/Веб-сервер.md"
               }
             }
           },
@@ -158,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Framework Django/Django.md"
+                "file": "WEB/Веб-сервер.md"
               }
             }
           },
@@ -168,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Framework Django/Django.md",
+                "file": "WEB/Веб-сервер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,18 +221,36 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fa061d099257b11a",
+  "active": "7d5c45c07eea464a",
   "lastOpenFiles": [
-    "WEB/URL.md",
+    "WEB/CMS.md",
+    "WEB/Веб-сервер.md",
+    "Python/Python Web-Servers/uWSGI.md",
+    "CSS3/CSS стили.md",
+    "Python/Python Web-Servers/Tornado.md",
+    "Python/Python Web-Servers/Waitress.md",
+    "Python/Python Web-Servers/CherryPy.md",
+    "Python/Python Web-Servers/Gunicorn.md",
+    "Python/Python Web-Servers/Weakzeug.md",
+    "Python/Python Web-Servers",
+    "WEB/Динамических веб-сервер.md",
+    "WEB/Статический веб-сервер.md",
+    "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
+    "WEB/HTTP-сервер.md",
+    "WEB/WebKit.md",
+    "JavaScript/JavaScriptCore.md",
+    "JavaScript/JavaScript.md",
+    "Daily/Jul 20, 2024.md",
     "Python/Framework Django/Django.md",
+    "WEB/URL.md",
     "Computer Science/Фреймворк.md",
     "Python/Framework Django/urlresolver.md",
     "Python/Python Base/Python.md",
@@ -227,22 +260,6 @@
     "Техники Изучения и Обучения/Техника Фейнмана.md",
     "Obsidian/Obsidian.md",
     "Computer Science/Форматы данных/PDF.md",
-    "Computer Science/OC.md",
-    "Computer Science/djvu.md",
-    "Computer Science/Форматы данных/GIF.md",
-    "WEB/Всемирная паутина.md",
-    "WEB/Веб-сервер.md",
-    "WEB/Адаптивный веб-дизайн.md",
-    "Установки ПО и прочего/Web-soft/Установка сервера, предназначенного для разработки.md",
-    "WEB/WebSQL.md",
-    "WEB/MAC-адрес.md",
-    "WEB/IP-адрес.md",
-    "WEB/WebKit.md",
-    "WEB/WebCore.md",
-    "WEB/WebGL.md",
-    "WEB/Wi-Fi.md",
-    "WEB/TLS (Transport Layer Security).md",
-    "WEB/TCP IP.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
@@ -253,7 +270,6 @@
     "HTML5/HTML5 pictures/Рис. 27.2. HTML5-аудио можно управлять с помощью JavaScript.jpg",
     "HTML5/HTML5 pictures/Рис. 27.1. Проигрывание аудиофайла.jpg",
     "HTML5/HTML5 pictures/Рис. 26.4. Подборка различных линейных градиентов.jpg",
-    "HTML5/HTML5 pictures/Рис. 26.3. У центрального прямоугольника имеется горизонтальная градиентная заливка.jpg",
     "IT Companies",
     "HTML5/HTML5 pictures",
     "JavaScript/Node.js",
@@ -262,7 +278,6 @@
     "Фильмы и сериалы/Лавкрафтовщина",
     "Python/Framework Django",
     "Книги/IT-Books/IT-Books pictures",
-    "Книги/IT-Books",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
