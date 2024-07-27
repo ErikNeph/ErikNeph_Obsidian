@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Логика/Формальная логика Аристотель.md",
+                "file": "Логика/Формальная логика Аристотеля.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Логика/Формальная логика Аристотель.md",
+                "file": "Логика/Формальная логика Аристотеля.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Логика/Формальная логика Аристотель.md"
+                "file": "Логика/Формальная логика Аристотеля.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Логика/Формальная логика Аристотель.md"
+                "file": "Логика/Формальная логика Аристотеля.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Логика/Формальная логика Аристотель.md",
+                "file": "Логика/Формальная логика Аристотеля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +214,11 @@
   },
   "active": "e2a8918455335130",
   "lastOpenFiles": [
+    "Логика/Классическая формальная логика.md",
+    "Логика/Формальная логика Аристотеля.md",
+    "Знаменитые люди/Аристотель.md",
+    "Аристотеля.md",
     "Знаменитые люди/Джон Стюарт Милль.md",
-    "Логика/Формальная логика Аристотель.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Логика",
     "Фильмы и сериалы/IT тематика/Игра в имитацию.md",
@@ -241,9 +244,6 @@
     "WEB/Nginx.md",
     "WEB/Apache.md",
     "WEB/Почтовый сервер.md",
-    "WEB/HTTPS.md",
-    "WEB/Динамически генерируемые страницы.md",
-    "WEB/Аутентификация.md",
     "Python/Python Web-Servers",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "Python/Python Base",
