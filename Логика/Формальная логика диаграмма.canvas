@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6bdf6ff897736e22","x":-600,"y":-260,"width":1120,"height":280,"color":"5","type":"group","label":"Основные формы мышления"},
+		{"id":"409b04373d768981","x":-220,"y":-420,"width":300,"height":120,"color":"4","type":"text","text":"**Логика** - наука о формах и законах правильного мышления."},
+		{"id":"341265d1623f8494","x":-227,"y":-240,"width":315,"height":60,"color":"5","type":"text","text":"**Основные формы мышления.**"},
+		{"id":"d0d7b58b718302bf","x":200,"y":-80,"width":300,"height":80,"color":"1","type":"text","text":"**Умозаключение** (дедукция, индукция и аналогия)"},
+		{"id":"70aa22b136b02757","x":-237,"y":-80,"width":334,"height":80,"color":"3","type":"text","text":"**Суждение** (субъект, предикат, связка и квантор)"},
+		{"id":"ef5c90558af14f73","x":-860,"y":100,"width":456,"height":231,"color":"2","type":"text","text":"***ОСНОВНЫЕ ЗАКОНЫ ЛОГИКИ***\n\n1. Закон тождества.\n2. Закон противоречия.\n3. Закон исключающего третьего.\n4. Закон достаточного основания."},
+		{"id":"7ff6c63418a72a26","x":200,"y":156,"width":420,"height":120,"color":"1","type":"text","text":"**Софизм** - это умышленное нарушение законов логики для внешне правильного доказательства ложной мысли. "},
+		{"id":"d5fb17d0d1d21dd8","x":-580,"y":-70,"width":140,"height":60,"color":"4","type":"text","text":"**Понятие**"}
+	],
+	"edges":[
+		{"id":"0188723f65215502","fromNode":"341265d1623f8494","fromSide":"bottom","toNode":"70aa22b136b02757","toSide":"top","color":"3"},
+		{"id":"e14d04be7f3b8930","fromNode":"341265d1623f8494","fromSide":"left","toNode":"d5fb17d0d1d21dd8","toSide":"top","color":"4"},
+		{"id":"85dc5b8f09f011b3","fromNode":"341265d1623f8494","fromSide":"right","toNode":"d0d7b58b718302bf","toSide":"top","color":"1"},
+		{"id":"f0808be5867647af","fromNode":"d5fb17d0d1d21dd8","fromSide":"right","toNode":"70aa22b136b02757","toSide":"left","color":"3"},
+		{"id":"c908eb25e5cb3d8e","fromNode":"70aa22b136b02757","fromSide":"right","toNode":"d0d7b58b718302bf","toSide":"left","color":"1"}
+	]
+}

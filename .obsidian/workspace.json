@@ -25,7 +25,6 @@
           {
             "id": "e2a8918455335130",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,8 +32,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -216,8 +214,9 @@
   },
   "active": "e2a8918455335130",
   "lastOpenFiles": [
-    "Python/Framework Django/Django.md",
+    "Логика/Формальная логика диаграмма.canvas",
     "Логика/Формальная логика Аристотеля.md",
+    "Python/Framework Django/Django.md",
     "Математика/Математика.md",
     "Математика",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
@@ -246,7 +245,6 @@
     "IT Companies/Microsoft.md",
     "WEB/LiteSpeed Web Server.md",
     "WEB/Lighttpd.md",
-    "WEB/Обратный прокси.md",
     "Python/Python Web-Servers",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "Python/Python Base",
