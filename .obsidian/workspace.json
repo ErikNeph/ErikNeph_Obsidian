@@ -36,22 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fd6a01564c8148bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Логика/Формальная логика Аристотеля.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +214,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fd6a01564c8148bb",
+  "active": "e2a8918455335130",
   "lastOpenFiles": [
     "Python/Framework Django/Django.md",
     "Логика/Формальная логика Аристотеля.md",
