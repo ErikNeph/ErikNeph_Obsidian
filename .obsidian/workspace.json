@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e2a8918455335130",
+            "id": "90cc10254bfa7a22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Логика/Формальная логика Аристотеля.md",
+                "file": "WEB/HTTP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Логика/Формальная логика Аристотеля.md",
+                "file": "WEB/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Логика/Формальная логика Аристотеля.md"
+                "file": "WEB/HTTP.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Логика/Формальная логика Аристотеля.md"
+                "file": "WEB/HTTP.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Логика/Формальная логика Аристотеля.md",
+                "file": "WEB/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,23 +212,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e2a8918455335130",
+  "active": "90cc10254bfa7a22",
   "lastOpenFiles": [
-    "Логика/Формальная логика диаграмма.canvas",
+    "WEB/IP-адрес.md",
+    "WEB/HTTP.md",
+    "WEB/TCP IP.md",
+    "Computer Science/Терминология Computer Science",
+    "Computer Science/Терминология Computer Science/API.md",
+    "WEB/Всемирная паутина.md",
+    "Всемирной паутины.md",
+    "WEB/Аутентификация.md",
+    "WEB/Веб-сервер.md",
+    "WEB/Авторизация.md",
+    "WEB/Адаптивный веб-дизайн.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Логика/Формальная логика Аристотеля.md",
+    "Логика/Классическая формальная логика.md",
+    "Логика/Формальная логика диаграмма.canvas",
     "Python/Framework Django/Django.md",
     "Математика/Математика.md",
     "Математика",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Знаменитые люди/Шерлок Холмс.md",
-    "Логика/Классическая формальная логика.md",
     "Знаменитые люди/Аристотель.md",
     "Аристотеля.md",
     "Знаменитые люди/Джон Стюарт Милль.md",
     "Логика",
     "Фильмы и сериалы/IT тематика/Игра в имитацию.md",
     "Obsidian Templates/Шаблон для фильма.md",
-    "WEB/Веб-сервер.md",
     "Obsidian Templates/Шаблон для выдающегося человека.md",
     "Obsidian Templates/Шаблон для сериала.md",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
@@ -236,15 +246,7 @@
     "Obsidian Templates/Шаблон для заметок.md",
     "Фильмы и сериалы/Лавкрафтовщина/Мультипликации по мотивам Лавкрафта.md",
     "Фильмы и сериалы/IT тематика",
-    "WEB/Сервер.md",
-    "Computer Science/Антивирус.md",
-    "Computer Science/Настольный компьютер.md",
-    "WEB/HTTP File Server.md",
-    "Desktop OS/Windows/Windows.md",
     "Desktop OS/Windows",
-    "IT Companies/Microsoft.md",
-    "WEB/LiteSpeed Web Server.md",
-    "WEB/Lighttpd.md",
     "Python/Python Web-Servers",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "Python/Python Base",
@@ -260,7 +262,6 @@
     "IT Companies",
     "HTML5/HTML5 pictures",
     "JavaScript/Node.js",
-    "JavaScript/Angular",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
