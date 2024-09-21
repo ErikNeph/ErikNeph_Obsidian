@@ -209,13 +209,15 @@
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "90cc10254bfa7a22",
   "lastOpenFiles": [
-    "WEB/IP-адрес.md",
+    "WEB/URI.md",
     "WEB/HTTP.md",
+    "WEB/IP-адрес.md",
     "WEB/TCP IP.md",
     "Computer Science/Терминология Computer Science",
     "Computer Science/Терминология Computer Science/API.md",
@@ -244,7 +246,6 @@
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "Obsidian Templates/Шаблон для книги.md",
     "Obsidian Templates/Шаблон для заметок.md",
-    "Фильмы и сериалы/Лавкрафтовщина/Мультипликации по мотивам Лавкрафта.md",
     "Фильмы и сериалы/IT тематика",
     "Desktop OS/Windows",
     "Python/Python Web-Servers",
