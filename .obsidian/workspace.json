@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "90cc10254bfa7a22",
+            "id": "eb69fe02f6488e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/HTTP.md",
+                "file": "WEB/DNS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/HTTP.md",
+                "file": "WEB/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/HTTP.md"
+                "file": "WEB/DNS.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WEB/HTTP.md"
+                "file": "WEB/DNS.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/HTTP.md",
+                "file": "WEB/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,10 +213,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90cc10254bfa7a22",
+  "active": "eb69fe02f6488e8f",
   "lastOpenFiles": [
-    "WEB/URI.md",
+    "WEB/FTP.md",
+    "WEB/DNS.md",
+    "WEB/GPS.md",
+    "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
     "WEB/HTTP.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "WEB/URI.md",
     "WEB/IP-адрес.md",
     "WEB/TCP IP.md",
     "Computer Science/Терминология Computer Science",
@@ -227,7 +232,6 @@
     "WEB/Веб-сервер.md",
     "WEB/Авторизация.md",
     "WEB/Адаптивный веб-дизайн.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Логика/Формальная логика Аристотеля.md",
     "Логика/Классическая формальная логика.md",
     "Логика/Формальная логика диаграмма.canvas",
@@ -241,11 +245,7 @@
     "Логика",
     "Фильмы и сериалы/IT тематика/Игра в имитацию.md",
     "Obsidian Templates/Шаблон для фильма.md",
-    "Obsidian Templates/Шаблон для выдающегося человека.md",
-    "Obsidian Templates/Шаблон для сериала.md",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
-    "Obsidian Templates/Шаблон для книги.md",
-    "Obsidian Templates/Шаблон для заметок.md",
     "Фильмы и сериалы/IT тематика",
     "Desktop OS/Windows",
     "Python/Python Web-Servers",
