@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/DNS.md",
+                "file": "WEB/Content Delivery Network (CDN).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/DNS.md",
+                "file": "WEB/Content Delivery Network (CDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/DNS.md"
+                "file": "WEB/Content Delivery Network (CDN).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WEB/DNS.md"
+                "file": "WEB/Content Delivery Network (CDN).md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/DNS.md",
+                "file": "WEB/Content Delivery Network (CDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,8 +215,9 @@
   },
   "active": "eb69fe02f6488e8f",
   "lastOpenFiles": [
-    "WEB/FTP.md",
+    "WEB/cookie.md",
     "WEB/DNS.md",
+    "WEB/FTP.md",
     "WEB/GPS.md",
     "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
     "WEB/HTTP.md",
@@ -244,7 +245,6 @@
     "Знаменитые люди/Джон Стюарт Милль.md",
     "Логика",
     "Фильмы и сериалы/IT тематика/Игра в имитацию.md",
-    "Obsidian Templates/Шаблон для фильма.md",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "Фильмы и сериалы/IT тематика",
     "Desktop OS/Windows",
