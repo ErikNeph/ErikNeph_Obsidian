@@ -5,6 +5,7 @@ tags:
   - IT/WEB
   - Web
   - Downloads
+  - ProgrammingTerminology
 read status: false
 aliases:
   - CDN

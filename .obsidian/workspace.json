@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "eb69fe02f6488e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/Content Delivery Network (CDN).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -103,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/Content Delivery Network (CDN).md",
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/Content Delivery Network (CDN).md"
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
               }
             }
           },
@@ -156,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WEB/Content Delivery Network (CDN).md"
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
               }
             }
           },
@@ -166,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/Content Delivery Network (CDN).md",
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,15 +198,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb69fe02f6488e8f",
+  "active": "eb30f118e7b8ad2c",
   "lastOpenFiles": [
-    "WEB/cookie.md",
+    "WEB/Content Delivery Network (CDN).md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "WEB/DNS.md",
+    "WEB/cookie.md",
     "WEB/FTP.md",
     "WEB/GPS.md",
     "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
     "WEB/HTTP.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "WEB/URI.md",
     "WEB/IP-адрес.md",
     "WEB/TCP IP.md",
@@ -244,7 +230,6 @@
     "Аристотеля.md",
     "Знаменитые люди/Джон Стюарт Милль.md",
     "Логика",
-    "Фильмы и сериалы/IT тематика/Игра в имитацию.md",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "Фильмы и сериалы/IT тематика",
     "Desktop OS/Windows",

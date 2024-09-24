@@ -4,6 +4,9 @@ date of creation: 2024-09-24T16:35:00
 tags:
   - Web
   - Internet
+  - IT
+  - IT/WEB
+  - ProgrammingTerminology
 read status: false
 aliases:
 ---
