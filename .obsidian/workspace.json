@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "6a646c086913254f",
+            "id": "e14c279c8139bbd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a646c086913254f",
+  "active": "e14c279c8139bbd0",
   "lastOpenFiles": [
-    "WEB/HTTP.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "WEB/FTP.md",
+    "WEB/HTTP.md",
     "WEB/DNS.md",
     "WEB/GPS.md",
     "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
@@ -224,7 +225,6 @@
     "WEB/HTTPS-протокол.md",
     "WEB/HTTPS.md",
     "WEB/HTTP-сервер.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "WEB/Content Delivery Network (CDN).md",
     "WEB/cookie.md",
     "WEB/URI.md",
