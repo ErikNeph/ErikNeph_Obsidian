@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6a646c086913254f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/FTP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -88,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+                "file": "WEB/FTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
+                "file": "WEB/FTP.md"
               }
             }
           },
@@ -141,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
+                "file": "WEB/FTP.md"
               }
             }
           },
@@ -151,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+                "file": "WEB/FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,16 +213,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb30f118e7b8ad2c",
+  "active": "6a646c086913254f",
   "lastOpenFiles": [
-    "WEB/Content Delivery Network (CDN).md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
-    "WEB/DNS.md",
-    "WEB/cookie.md",
+    "WEB/HTTP.md",
     "WEB/FTP.md",
+    "WEB/DNS.md",
     "WEB/GPS.md",
     "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
-    "WEB/HTTP.md",
+    "WEB/HTTP File Server.md",
+    "WEB/HTTPS-протокол.md",
+    "WEB/HTTPS.md",
+    "WEB/HTTP-сервер.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "WEB/Content Delivery Network (CDN).md",
+    "WEB/cookie.md",
     "WEB/URI.md",
     "WEB/IP-адрес.md",
     "WEB/TCP IP.md",
@@ -225,10 +244,6 @@
     "Python/Framework Django/Django.md",
     "Математика/Математика.md",
     "Математика",
-    "Знаменитые люди/Шерлок Холмс.md",
-    "Знаменитые люди/Аристотель.md",
-    "Аристотеля.md",
-    "Знаменитые люди/Джон Стюарт Милль.md",
     "Логика",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "Фильмы и сериалы/IT тематика",

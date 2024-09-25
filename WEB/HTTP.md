@@ -5,6 +5,9 @@ tags:
   - Web
   - Web/HTTP
   - HTTP
+  - Internet
+  - Protocol
+  - Web/Protocol
 read status: true
 aliases:
 ---
