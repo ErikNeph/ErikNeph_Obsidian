@@ -1,5 +1,9 @@
 {
 	"nodes":[
+		{"id":"d876b119ff8e1dec","x":-777,"y":-400,"width":290,"height":1240,"type":"group","label":"Браузер"},
+		{"id":"8657f0045a924f80","x":-20,"y":-400,"width":290,"height":1040,"type":"group","label":"Веб-Сервер"},
+		{"id":"e639c8c6c1072cfe","x":380,"y":-400,"width":290,"height":890,"type":"group","label":"Жесткий диск"},
+		{"id":"7d8a4cf3c5fde935","x":-366,"y":-400,"width":290,"height":360,"type":"group","label":"Интернет"},
 		{"id":"b7fc7bee67e0e6b7","type":"text","text":"Интернет","x":-295,"y":-380,"width":148,"height":60,"color":"3"},
 		{"id":"1611c706c0fcb142","type":"text","text":"Браузер","x":-706,"y":-380,"width":148,"height":60,"color":"3"},
 		{"id":"12ea5d6897cbe7b6","type":"text","text":"1","x":-840,"y":-290,"width":50,"height":60,"color":"1"},

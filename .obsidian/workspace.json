@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "c1fd3738ea1cd961",
+            "id": "594b06e66987403a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/Журнал Сервера.md",
-                "mode": "preview",
+                "file": "WEB/Маршрутизатор.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/Журнал Сервера.md",
+                "file": "WEB/Маршрутизатор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/Журнал Сервера.md"
+                "file": "WEB/Маршрутизатор.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WEB/Журнал Сервера.md"
+                "file": "WEB/Маршрутизатор.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/Журнал Сервера.md",
+                "file": "WEB/Маршрутизатор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,17 +213,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1fd3738ea1cd961",
+  "active": "594b06e66987403a",
   "lastOpenFiles": [
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "WEB/Маршрутизатор.md",
+    "WEB/Обратный прокси.md",
+    "WEB/Клиент и сервер (Client and server).md",
+    "WEB/Использование SFTP или FTPS.md",
+    "WEB/Интернет-браузер.md",
+    "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/Журнал Сервера.md",
+    "WEB/Динамических веб-сервер.md",
+    "WEB/Динамически генерируемые страницы.md",
+    "WEB/Всемирная паутина.md",
+    "WEB/Веб-сервер.md",
+    "WEB/Аутентификация.md",
+    "WEB/Адаптивный веб-дизайн.md",
+    "WEB/Авторизация.md",
     "WEB/IP-адрес.md",
     "WEB/Lighttpd.md",
-    "WEB/Динамических веб-сервер.md",
-    "WEB/Авторизация.md",
-    "WEB/Адаптивный веб-дизайн.md",
-    "WEB/Аутентификация.md",
-    "WEB/Веб-сервер.md",
     "Фильмы и сериалы/Хоррор тематика/Ссылки на топы хоррор-альманахов.md",
     "WEB/FTP.md",
     "WEB/HTTP.md",
@@ -233,14 +242,7 @@
     "WEB/HTTPS-протокол.md",
     "WEB/HTTPS.md",
     "WEB/HTTP-сервер.md",
-    "WEB/Content Delivery Network (CDN).md",
-    "WEB/cookie.md",
-    "WEB/URI.md",
-    "WEB/TCP IP.md",
     "Computer Science/Терминология Computer Science",
-    "Computer Science/Терминология Computer Science/API.md",
-    "WEB/Всемирная паутина.md",
-    "Всемирной паутины.md",
     "Логика/Формальная логика диаграмма.canvas",
     "Математика",
     "Логика",
@@ -250,7 +252,6 @@
     "Python/Python Web-Servers",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "Python/Python Base",
-    "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
     "HTML5/HTML5 pictures/Рис. 28.2. Чтение из локального хранилища двух ключей и их значений.jpg",
