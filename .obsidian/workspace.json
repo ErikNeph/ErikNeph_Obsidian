@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "e14c279c8139bbd0",
+            "id": "c1fd3738ea1cd961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/FTP.md",
-                "mode": "source",
+                "file": "WEB/Журнал Сервера.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/FTP.md",
+                "file": "WEB/Журнал Сервера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/FTP.md"
+                "file": "WEB/Журнал Сервера.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WEB/FTP.md"
+                "file": "WEB/Журнал Сервера.md"
               }
             }
           },
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/FTP.md",
+                "file": "WEB/Журнал Сервера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,9 +212,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e14c279c8139bbd0",
+  "active": "c1fd3738ea1cd961",
   "lastOpenFiles": [
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "WEB/Журнал Сервера.md",
+    "WEB/IP-адрес.md",
+    "WEB/Lighttpd.md",
+    "WEB/Динамических веб-сервер.md",
+    "WEB/Авторизация.md",
+    "WEB/Адаптивный веб-дизайн.md",
+    "WEB/Аутентификация.md",
+    "WEB/Веб-сервер.md",
+    "Фильмы и сериалы/Хоррор тематика/Ссылки на топы хоррор-альманахов.md",
     "WEB/FTP.md",
     "WEB/HTTP.md",
     "WEB/DNS.md",
@@ -228,21 +236,12 @@
     "WEB/Content Delivery Network (CDN).md",
     "WEB/cookie.md",
     "WEB/URI.md",
-    "WEB/IP-адрес.md",
     "WEB/TCP IP.md",
     "Computer Science/Терминология Computer Science",
     "Computer Science/Терминология Computer Science/API.md",
     "WEB/Всемирная паутина.md",
     "Всемирной паутины.md",
-    "WEB/Аутентификация.md",
-    "WEB/Веб-сервер.md",
-    "WEB/Авторизация.md",
-    "WEB/Адаптивный веб-дизайн.md",
-    "Логика/Формальная логика Аристотеля.md",
-    "Логика/Классическая формальная логика.md",
     "Логика/Формальная логика диаграмма.canvas",
-    "Python/Framework Django/Django.md",
-    "Математика/Математика.md",
     "Математика",
     "Логика",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",

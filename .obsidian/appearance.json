@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "Typomagical",
   "baseFontSize": 17,
-  "interfaceFontFamily": "JetBrains Mono,Fira Mono,Source Code Pro",
-  "textFontFamily": "Inter,Fira Mono,JetBrains Mono,Roboto Mono,Cascadia Mono",
+  "interfaceFontFamily": "JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
+  "textFontFamily": "Inter,Fira Mono,JetBrains Mono,Roboto Mono,Cascadia Mono,Spectral",
   "monospaceFontFamily": "FiraCode Nerd Font Mono,Cascadia Code,Fira Mono,Roboto Mono",
   "nativeMenus": false,
   "baseFontSizeAction": false
