@@ -125,7 +125,7 @@
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
   "typomagical-text@@body-ligatures": false,
   "typomagical-colour@@theme-variant": "obsidian",
-  "typomagical-colour@@background-color-enable": true,
+  "typomagical-colour@@background-color-enable": false,
   "typomagical-text@@mjx-font": "mathjax-font-typomagical",
   "typomagical-title@@font-title": "Bitter",
   "typomagical-title@@title-weight": 750,

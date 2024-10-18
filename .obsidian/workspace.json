@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "594b06e66987403a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/Маршрутизатор.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -103,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/Маршрутизатор.md",
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/Маршрутизатор.md"
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
               }
             }
           },
@@ -156,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WEB/Маршрутизатор.md"
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
               }
             }
           },
@@ -166,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/Маршрутизатор.md",
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,8 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "594b06e66987403a",
+  "active": "4331295bb5b073ce",
   "lastOpenFiles": [
+    "Установки ПО и прочего/Web-soft/Установка сервера, предназначенного для разработки.md",
+    "Python/Framework Django/Django.md",
+    "Python/Framework Django/urlresolver.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "WEB/Маршрутизатор.md",
     "WEB/Обратный прокси.md",
@@ -239,9 +227,6 @@
     "WEB/GPS.md",
     "WEB/HTTP и HTML - основы, заложенные Бернерсом-Ли.md",
     "WEB/HTTP File Server.md",
-    "WEB/HTTPS-протокол.md",
-    "WEB/HTTPS.md",
-    "WEB/HTTP-сервер.md",
     "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
     "Математика",
