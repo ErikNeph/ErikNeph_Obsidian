@@ -13,6 +13,7 @@
     "rating": "text",
     "icon": "text",
     "ISBN": "text",
-    "authors": "multitext"
+    "authors": "multitext",
+    "official site": "text"
   }
 }
