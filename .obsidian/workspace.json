@@ -19,7 +19,9 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Основные принципы Zettelkasten"
             }
           },
           {
@@ -32,11 +34,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TSMC"
+            }
+          },
+          {
+            "id": "5d4468cd00a9dfff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -71,7 +89,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -79,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -103,10 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Companies/TSMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -117,7 +140,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,9 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT Companies/TSMC.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -139,7 +164,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -147,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -155,9 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "IT Companies/TSMC.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -166,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Companies/TSMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +202,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -182,7 +212,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -190,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -213,10 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ee7250e3cf594e8",
+  "active": "5d4468cd00a9dfff",
   "lastOpenFiles": [
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "IT Companies/TSMC.md",
+    "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+    "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "IT Companies/Apple.md",
     "IT Companies/Google.md",
     "IT Companies/KDE.md",
@@ -240,8 +276,6 @@
     "WEB/Авторизация.md",
     "WEB/IP-адрес.md",
     "WEB/Lighttpd.md",
-    "Фильмы и сериалы/Хоррор тематика/Ссылки на топы хоррор-альманахов.md",
-    "WEB/FTP.md",
     "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
     "Математика",
