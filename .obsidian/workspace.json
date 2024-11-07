@@ -41,7 +41,8 @@
               "title": "Написание класса на Python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -140,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
+                "file": "Python/OOP_Simple/Написание класса на Python.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Основные принципы Zettelkasten"
+              "title": "Outline of Написание класса на Python"
             }
           },
           {
@@ -241,15 +243,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb30f118e7b8ad2c",
+  "active": "9ee7250e3cf594e8",
   "lastOpenFiles": [
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
     "Python/OOP_Simple/Написание класса на Python.md",
     "Python/OOP_Simple/OOP_Simple_pictures",
     "IT Companies/TSMC.md",
     "Python/OOP_Simple",
     "Цитаты/Цитаты о науке и компьютеров.md",
     "WEB/Клиент и сервер (Client and server).md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
     "IT Companies/Apple.md",
@@ -288,7 +291,6 @@
     "HTML5/HTML5 pictures/Рис. 27.4. Для управления видео был использован JavaScript.jpg",
     "HTML5/HTML5 pictures/Рис. 27.3. Проигрывание HTML5-видео.jpg",
     "HTML5/HTML5 pictures/Рис. 27.2. HTML5-аудио можно управлять с помощью JavaScript.jpg",
-    "HTML5/HTML5 pictures/Рис. 27.1. Проигрывание аудиофайла.jpg",
     "IT Companies",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",

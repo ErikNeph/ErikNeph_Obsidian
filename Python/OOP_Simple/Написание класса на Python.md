@@ -8,7 +8,7 @@ tags:
   - Programming
   - Programming/Python
   - IT
-read status: false
+read status: true
 aliases:
   - Как пишется простой класс на Python
 ---
@@ -31,3 +31,5 @@ class <ClassName>():
 	def <functionNameN>(self, <optional param1, ..., <optionalparamN>):
 	# тело функции
 ```
+
+![[Процесс создания экземпляра.jpg]]
