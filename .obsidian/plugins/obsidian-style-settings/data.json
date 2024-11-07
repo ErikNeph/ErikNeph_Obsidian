@@ -137,6 +137,5 @@
   "typomagical-title@@heading-ligatures": true,
   "typomagical-title@@line-height-headings": 1.3,
   "typomagical-images@@ss-image-caption": false,
-  "typomagical-text@@font-default": "Spectral",
-  "typomagical-text@@link-font": "ss-links-sc"
+  "typomagical-text@@font-default": "Spectral"
 }

@@ -27,32 +27,21 @@
           {
             "id": "9ee7250e3cf594e8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Companies/TSMC.md",
+                "file": "Python/OOP_Simple/Написание класса на Python.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "TSMC"
-            }
-          },
-          {
-            "id": "5d4468cd00a9dfff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Написание класса на Python"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -125,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT Companies/TSMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from TSMC"
             }
           },
           {
@@ -150,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Техники Изучения и Обучения/Основные принципы Zettelkasten.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Основные принципы Zettelkasten"
             }
           },
           {
@@ -184,9 +175,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "IT Companies/TSMC.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for TSMC"
             }
           },
           {
@@ -195,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT Companies/TSMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TSMC"
             }
           },
           {
@@ -247,12 +241,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d4468cd00a9dfff",
+  "active": "eb30f118e7b8ad2c",
   "lastOpenFiles": [
+    "Python/OOP_Simple/Написание класса на Python.md",
+    "Python/OOP_Simple/OOP_Simple_pictures",
     "IT Companies/TSMC.md",
+    "Python/OOP_Simple",
+    "Цитаты/Цитаты о науке и компьютеров.md",
+    "WEB/Клиент и сервер (Client and server).md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "IT Companies/Apple.md",
     "IT Companies/Google.md",
     "IT Companies/KDE.md",
@@ -262,7 +261,6 @@
     "Python/Framework Django/urlresolver.md",
     "WEB/Маршрутизатор.md",
     "WEB/Обратный прокси.md",
-    "WEB/Клиент и сервер (Client and server).md",
     "WEB/Использование SFTP или FTPS.md",
     "WEB/Интернет-браузер.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
@@ -273,9 +271,6 @@
     "WEB/Веб-сервер.md",
     "WEB/Аутентификация.md",
     "WEB/Адаптивный веб-дизайн.md",
-    "WEB/Авторизация.md",
-    "WEB/IP-адрес.md",
-    "WEB/Lighttpd.md",
     "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
     "Математика",
@@ -295,8 +290,6 @@
     "HTML5/HTML5 pictures/Рис. 27.2. HTML5-аудио можно управлять с помощью JavaScript.jpg",
     "HTML5/HTML5 pictures/Рис. 27.1. Проигрывание аудиофайла.jpg",
     "IT Companies",
-    "HTML5/HTML5 pictures",
-    "JavaScript/Node.js",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
