@@ -15,6 +15,7 @@
     "ISBN": "text",
     "authors": "multitext",
     "official site": "text",
-    "status complete": "checkbox"
+    "status complete": "checkbox",
+    "completion status": "checkbox"
   }
 }
