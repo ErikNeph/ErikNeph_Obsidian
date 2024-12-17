@@ -14,6 +14,7 @@
     "icon": "text",
     "ISBN": "text",
     "authors": "multitext",
-    "official site": "text"
+    "official site": "text",
+    "status complete": "checkbox"
   }
 }

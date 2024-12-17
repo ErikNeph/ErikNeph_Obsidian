@@ -25,6 +25,23 @@
             }
           },
           {
+            "id": "5ced95154521713a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Логика/Формальная логика Аристотеля.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Формальная логика Аристотеля"
+            }
+          },
+          {
             "id": "9ee7250e3cf594e8",
             "type": "leaf",
             "pinned": true,
@@ -40,9 +57,24 @@
               "icon": "lucide-file",
               "title": "Написание класса на Python"
             }
+          },
+          {
+            "id": "d06244fa9a9d2ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Companies/TSMC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSMC"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP_Simple/Написание класса на Python.md"
+                "file": "IT Companies/TSMC.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Написание класса на Python"
+              "title": "Outline of TSMC"
             }
           },
           {
@@ -243,11 +275,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ee7250e3cf594e8",
+  "active": "d06244fa9a9d2ffd",
   "lastOpenFiles": [
+    "IT Companies/Microsoft.md",
+    "IT Companies/Apple.md",
+    "IT Companies/Google.md",
+    "IT Companies/KDE.md",
+    "Python/OOP_Simple/Написание класса на Python.md",
+    "Логика/Формальная логика Аристотеля.md",
+    "Логика/Классическая формальная логика.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
-    "Python/OOP_Simple/Написание класса на Python.md",
     "Python/OOP_Simple/OOP_Simple_pictures",
     "IT Companies/TSMC.md",
     "Python/OOP_Simple",
@@ -255,10 +293,6 @@
     "WEB/Клиент и сервер (Client and server).md",
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
-    "IT Companies/Apple.md",
-    "IT Companies/Google.md",
-    "IT Companies/KDE.md",
-    "IT Companies/Microsoft.md",
     "Установки ПО и прочего/Web-soft/Установка сервера, предназначенного для разработки.md",
     "Python/Framework Django/Django.md",
     "Python/Framework Django/urlresolver.md",
@@ -273,7 +307,6 @@
     "WEB/Всемирная паутина.md",
     "WEB/Веб-сервер.md",
     "WEB/Аутентификация.md",
-    "WEB/Адаптивный веб-дизайн.md",
     "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
     "Математика",
