@@ -42,39 +42,24 @@
             }
           },
           {
-            "id": "9ee7250e3cf594e8",
+            "id": "8201d46b46d0e287",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP_Simple/Написание класса на Python.md",
+                "file": "Computer Science/Терминология Computer Science/Обратные вызовы (callback).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Написание класса на Python"
-            }
-          },
-          {
-            "id": "3d155b6f6f47dc34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Логика/Формальная логика Аристотеля.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Формальная логика Аристотеля"
+              "title": "Обратные вызовы (callback)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Логика/Формальная логика Аристотеля.md"
+                "file": "Computer Science/Терминология Computer Science/Обратные вызовы (callback).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Формальная логика Аристотеля"
+              "title": "Outline of Обратные вызовы (callback)"
             }
           },
           {
@@ -275,8 +260,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d155b6f6f47dc34",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
+    "Python/OOP_Simple/Написание класса на Python.md",
+    "Computer Science/Терминология Computer Science/Обратные вызовы (callback).md",
+    "Логика/Формальная логика Аристотеля.md",
     "JavaScript/JS React/Введение в React.md",
     "JavaScript/JS React/JSX (JavaScript XML).md",
     "JavaScript/Node.js/Node.js.md",
@@ -285,8 +273,6 @@
     "Obsidian Templates/Шаблон для фильма.md",
     "Obsidian Templates/Шаблон для заметок.md",
     "Obsidian Templates/Шаблон для выдающегося человека.md",
-    "Python/OOP_Simple/Написание класса на Python.md",
-    "Логика/Формальная логика Аристотеля.md",
     "IT Companies/TSMC.md",
     "IT Companies/Microsoft.md",
     "IT Companies/Apple.md",
@@ -305,7 +291,6 @@
     "Python/Framework Django/Django.md",
     "Python/Framework Django/urlresolver.md",
     "WEB/Маршрутизатор.md",
-    "WEB/Обратный прокси.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
