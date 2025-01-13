@@ -140,5 +140,8 @@
   "typomagical-text@@font-default": "Spectral",
   "minimal-advanced@@animations": "default",
   "minimal-advanced@@font-ui-small": 14,
-  "minimal-advanced@@font-ui-smaller": 12
+  "minimal-advanced@@font-ui-smaller": 12,
+  "encore-settings@@theme-dark": "encore-theme-dark",
+  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@encore-translucency-strength": 0.25
 }
