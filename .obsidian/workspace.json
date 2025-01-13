@@ -245,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,9 +262,16 @@
   },
   "active": "a12fab6e1b228a54",
   "lastOpenFiles": [
+    "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
+    "Python/OOP_Simple/Простая терминология ООП (Python).md",
+    "Python/OOP/Немного о статических методов.md",
+    "Python/OOP/Наследование.md",
+    "Python/OOP/КОГДА БЕЗ ООП НЕ ОБОЙТИСЬ.md",
+    "Python/OOP/Классы данных.md",
+    "WEB/MVC (Model, View, Controller).md",
+    "MVC.md",
     "Лекарства/Полезные Лекарства.md",
     "WEB/FTP.md",
-    "Python/OOP_Simple/Простая терминология ООП (Python).md",
     "Логика/Формальная логика Аристотеля.md",
     "Git/Основные команды Git.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
@@ -282,16 +289,9 @@
     "Obsidian Templates/Шаблон для заметок.md",
     "Obsidian Templates/Шаблон для выдающегося человека.md",
     "IT Companies/TSMC.md",
-    "IT Companies/Microsoft.md",
-    "IT Companies/Apple.md",
-    "IT Companies/Google.md",
-    "IT Companies/KDE.md",
-    "Логика/Классическая формальная логика.md",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
     "Python/OOP_Simple/OOP_Simple_pictures",
     "Python/OOP_Simple",
-    "Цитаты/Цитаты о науке и компьютеров.md",
-    "WEB/Клиент и сервер (Client and server).md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
