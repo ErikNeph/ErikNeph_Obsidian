@@ -316,6 +316,12 @@
             },
             {
               "type": "file",
+              "ctime": 1736859118093,
+              "path": "Python/OOP_Simple/Простая терминология ООП (Python).md",
+              "title": "Простая терминология ООП (Python) bookmark"
+            },
+            {
+              "type": "file",
               "ctime": 1719331314572,
               "path": "Python/OOP/Общие Паттерны Проектирования.md",
               "subpath": "#Полезный декоратор",
