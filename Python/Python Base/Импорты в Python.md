@@ -1,0 +1,58 @@
+---
+title: Импорты в Python
+date of creation: 2025-01-14T18:38:00
+tags:
+  - Python
+  - Developing
+  - Useful
+  - IT
+  - IT/Python
+read status: true
+completion status: 
+aliases:
+  - Интересные фишки с импортами на Python
+---
+---
+# Импорты в Python
+
+Для начала необходимо знать, что ключевое слово **import** на самом деле декоратор функции с именем **`__import__`**. Вот уже знакомый способ импортировать модуль:
+
+```shell
+>>>import itertools
+>>>itertools
+<module 'itertools' (built-in)>
+```
+
+Это точный эквивалент этого метода:
+
+```shell
+>>>itertools = __import__("itertools")
+>>>itertools
+<module 'itertools' (built-in)>
+```
+
+Также можно имитировать ключевое слово **`as`**, используя два эквивалента ниже:
+
+```shell
+>>>import itertools as it
+>>>it
+<module 'itertools' (built-in)>
+```
+
+Это второй пример:
+
+```shell
+>>>it = __import__("itertools")
+>>>it
+<module 'itertools' (built-in)>
+```
+
+Хотя **`import`** - ключевое слово Python, на самом деле это просто функция, доступная через имя **`__import__`**. Знать функцию **`__import__`** очень полезно в некоторых (крайних) случаях, когда нужно импортировать модуль с заранее неизвестным именем, например:
+
+```shell
+>>>random = __import__("RANDOM".lower())
+>>>random
+<module 'random' from 'C:\\Users\\...\\AppData\\Local\\...\\Python\\Python311\\Lib\\random.py'>
+```
+
+Не забывайте, что импортированные модули ведут себя как объекты, атрибуты которых (классы, функции, переменные и т. д.) являются объектами.
