@@ -209,5 +209,15 @@
       ],
       "key": "R"
     }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }
