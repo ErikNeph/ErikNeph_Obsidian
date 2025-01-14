@@ -6,6 +6,7 @@ tags:
   - Web/Cookies
   - Web/Data
   - Data
+  - Metadata
 read status: false
 aliases:
   - Cookie-файлы

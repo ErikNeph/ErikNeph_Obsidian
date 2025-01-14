@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "d24b8f4f60fe79f9",
+            "id": "1a9d64c12b119c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -275,11 +275,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d24b8f4f60fe79f9",
+  "active": "1a9d64c12b119c8e",
   "lastOpenFiles": [
-    "WEB/HTTP.md",
+    "WEB/cookie.md",
     "Python/Python Base/Полезные стандартные модули на Python.md",
     "Python/OOP_Simple/Простая терминология ООП (Python).md",
+    "WEB/SMTP.md",
+    "WEB/HTTP.md",
     "Obsidian Templates/Шаблон для заметок.md",
     "Логика/Формальная логика Аристотеля.md",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
@@ -303,8 +305,6 @@
     "JavaScript/Node.js/Node.js.md",
     "Obsidian Templates/Шаблон для книги.md",
     "Obsidian Templates/Шаблон для сериала.md",
-    "Obsidian Templates/Шаблон для фильма.md",
-    "Obsidian Templates/Шаблон для выдающегося человека.md",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
     "Python/OOP_Simple/OOP_Simple_pictures",
     "Python/OOP_Simple",
