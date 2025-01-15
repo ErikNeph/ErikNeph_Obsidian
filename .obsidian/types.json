@@ -6,7 +6,7 @@
     "time": "date",
     "date": "datetime",
     "date of death": "date",
-    "date of creation": "datetime",
+    "date of creation": "date",
     "date of birth": "date",
     "Read status": "checkbox",
     "title": "text",

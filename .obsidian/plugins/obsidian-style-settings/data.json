@@ -5,7 +5,7 @@
   "things-style@@mobile-black-background": false,
   "things-style@@fancy-highlight": true,
   "minimal-advanced@@styled-scrollbars": true,
-  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@cursor": "pointer",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "blue-topaz-theme@@background-image-settings-switch": false,
