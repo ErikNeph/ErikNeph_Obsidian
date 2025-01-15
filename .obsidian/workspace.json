@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/Полезные стандартные модули на Python.md",
+                "file": "Python/Python Base/Правила PEP 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полезные стандартные модули на Python"
+              "title": "Правила PEP 8"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "8497717392abc7dd",
   "lastOpenFiles": [
-    "Python/OOP_Simple/Простая терминология ООП (Python).md",
     "Python/Python Base/Полезные стандартные модули на Python.md",
+    "Python/Python Base/Правила PEP 8.md",
+    "Python/OOP_Simple/Простая терминология ООП (Python).md",
     "Python/Python Base/Импорт это декоратор функции.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Obsidian Templates/Шаблон для заметок.md",
@@ -284,7 +285,6 @@
     "Python/OOP/Наследование.md",
     "Python/OOP/КОГДА БЕЗ ООП НЕ ОБОЙТИСЬ.md",
     "Python/OOP/Классы данных.md",
-    "WEB/MVC (Model, View, Controller).md",
     "Лекарства",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
     "Python/OOP_Simple/OOP_Simple_pictures",

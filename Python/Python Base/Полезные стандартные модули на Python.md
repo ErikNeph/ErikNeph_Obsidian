@@ -40,6 +40,7 @@ aliases:
 ```python
 import asyncio
 
+
 async def reader1(sock):
     loop = asyncio.get_event_loop() 
     while (data := await loop.sock_recv(sock, 8192)):
@@ -89,6 +90,12 @@ b'hello'
 ```
 
 Сходная функциональность предоставляется модулем **base64** и методами **`hex()`** и **`fromhex()`** типа **`bytes`**.
+
+
+## Модуль bisect
+---
+
+Предоставляет алгоритмы деления пополам для сортировки списков (алгоритм бинарного поиска и проч.).
 
 
 ## Модуль cgi (Удален начиная с версии Python 3.13)
