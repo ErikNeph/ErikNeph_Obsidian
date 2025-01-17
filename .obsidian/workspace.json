@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "Основные принципы Zettelkasten"
             }
+          },
+          {
+            "id": "9e0ac2de16abdc75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Математика для программирования/Арифметическая прогрессия.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Арифметическая прогрессия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,9 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb30f118e7b8ad2c",
+  "active": "9e0ac2de16abdc75",
   "lastOpenFiles": [
-    "Математика/Математика для программирования/Алгоритм получения цифр  n-значного числа.md",
+    "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
+    "Математика/Математика для программирования/Арифметическая прогрессия.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Математика/Математика для программирования/Транзитивность.md",
     "Математика/Без названия.md",
@@ -253,7 +270,6 @@
     "Цитаты/Цитаты об образовании.md",
     "Знаменитые люди/Карл Саган.md",
     "WEB/cookie.md",
-    "WEB/SMTP.md",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Лекарства",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
