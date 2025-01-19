@@ -211,7 +211,7 @@
           "title": "Cookie-файлы, сессии и аутентификация#Использование **cookie** в PHP bookmark"
         }
       ],
-      "title": "php bookmarks"
+      "title": "PHP bookmarks"
     },
     {
       "type": "group",
@@ -678,6 +678,19 @@
         }
       ],
       "title": "Math bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1737287010428,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1737287024699,
+          "path": "Terminals/Полезные команды в PowerShell7.md",
+          "title": "Полезные команды в PowerShell7 bookmark"
+        }
+      ],
+      "title": "Terminals bookmarks"
     }
   ]
 }
