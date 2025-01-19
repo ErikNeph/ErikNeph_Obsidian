@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Математика для программирования/Транзитивность.md",
+                "file": "Terminals/Полезные команды в PowerShell7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транзитивность"
+              "title": "Полезные команды в PowerShell7"
             }
           }
         ],
@@ -131,7 +131,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -176,10 +176,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Python/Python Base/Импорт это декоратор функции.md"
+                "file": "Python/Python Base/Запуск программы python.exe.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Импорт это декоратор функции"
+              "title": "Свойства файла для Запуск программы python.exe"
             }
           },
           {
@@ -243,10 +243,13 @@
   },
   "active": "9e0ac2de16abdc75",
   "lastOpenFiles": [
-    "Математика/Математика для программирования/Арифметическая прогрессия.md",
     "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Terminals/Полезные команды в PowerShell7.md",
+    "Terminals",
+    "Математика/Математика для программирования/Арифметическая прогрессия.md",
     "Математика/Математика для программирования/Транзитивность.md",
+    "Python/Python Base/Запуск программы python.exe.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Математика/Без названия.md",
     "Математика/Математика для программирования",
     "Математика/Математика.md",
@@ -268,8 +271,6 @@
     "Python/OOP/Атрибуты и поведение.md",
     "Цитаты/Цитаты о науке и компьютеров.md",
     "Цитаты/Цитаты об образовании.md",
-    "Знаменитые люди/Карл Саган.md",
-    "WEB/cookie.md",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Лекарства",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
@@ -283,7 +284,6 @@
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "Фильмы и сериалы/IT тематика",
     "Desktop OS/Windows",
-    "Python/Python Web-Servers",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
