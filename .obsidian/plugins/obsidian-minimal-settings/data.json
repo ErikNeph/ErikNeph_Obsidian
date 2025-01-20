@@ -1,8 +1,8 @@
 {
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-atom-light",
-  "darkScheme": "minimal-atom-dark",
+  "lightScheme": "minimal-ayu-light",
+  "darkScheme": "minimal-ayu-dark",
   "editorFont": "JetBrains Mono",
   "lineHeight": 1.5,
   "lineWidth": 40,

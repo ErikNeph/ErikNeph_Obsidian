@@ -1,5 +1,4 @@
 {
-  "things-style@@h6-color": "#2AB937",
   "things-style@@active-line": true,
   "things-style@@fancy-code": true,
   "things-style@@mobile-black-background": false,
@@ -98,7 +97,7 @@
   "aura@@aura-tooltip-toggle": false,
   "aura@@aura-neon-list": false,
   "aura@@italic-color": "rgb(var(--cpt-purple))",
-  "things-style@@default-font-color": false,
+  "things-style@@default-font-color": true,
   "things-style@@h2-color": "#650AE7",
   "things-style@@h2-underline": false,
   "minimal-advanced@@mobile-toolbar-off": false,
