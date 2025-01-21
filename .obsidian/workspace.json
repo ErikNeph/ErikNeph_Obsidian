@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Code Examples/Последовательность Фибоначчи на Python.md",
+                "file": "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Последовательность Фибоначчи на Python"
+              "title": "Алгоритм получения цифр n-значного числа"
             }
           }
         ],
@@ -243,6 +243,7 @@
   },
   "active": "9e0ac2de16abdc75",
   "lastOpenFiles": [
+    "Python/Python Base/Python.md",
     "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
     "Python/Python Code Examples/Последовательность Фибоначчи на Python.md",
     "Python/Python Code Examples",
@@ -271,7 +272,6 @@
     "Obsidian/Заголовок YAML.md",
     "Obsidian/Встраивание вложений в заметки.md",
     "Obsidian/Obsidian.md",
-    "Obsidian/Использование Obsidian URI.md",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Лекарства",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
