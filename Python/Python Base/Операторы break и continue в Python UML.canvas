@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"22a1702082966a05","type":"group","x":-780,"y":-260,"width":900,"height":340,"color":"2","label":"break прерывает цикл, но последующие инструкции будут выполнены"},
+		{"id":"a5d2b026d8c67b6e","type":"group","x":140,"y":-260,"width":600,"height":340,"color":"3","label":"continue всего лишь пропускает итерацию"},
+		{"id":"4fa2fad10466d562","type":"text","text":"while - цикл","x":160,"y":-240,"width":185,"height":60,"color":"2"},
+		{"id":"dedfbf6c37b7a369","type":"text","text":"инструкции","x":232,"y":-120,"width":165,"height":60,"color":"3"},
+		{"id":"89e34527607d67a8","type":"text","text":"continue","x":232,"y":0,"width":155,"height":60,"color":"4"},
+		{"id":"5fc58f5c2f5f0822","type":"text","text":"break","x":-680,"y":-120,"width":165,"height":60,"color":"1"},
+		{"id":"32bd8f9b19a598dd","type":"text","text":"while - цикл","x":-760,"y":-240,"width":180,"height":60,"color":"2"},
+		{"id":"753e3725c3e19533","type":"text","text":"инструкции","x":-684,"y":0,"width":169,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"ac221b01d99d33c2","fromNode":"5fc58f5c2f5f0822","fromSide":"right","toNode":"753e3725c3e19533","toSide":"right","color":"1"},
+		{"id":"876518bc7ac2d8aa","fromNode":"89e34527607d67a8","fromSide":"right","toNode":"4fa2fad10466d562","toSide":"right","color":"4"}
+	]
+}
