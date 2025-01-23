@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#IT/Programming_language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,6 +244,9 @@
   "active": "9160355fe5f90cb7",
   "lastOpenFiles": [
     "Obsidian Templates/Шаблон для заметок.md",
+    "Знаменитые люди/Гвидо ван Россум.md",
+    "JavaScript/Функции, объекты и массивы в JavaScript.md",
+    "PHP/Выражения и управление процессом выполнения программы в PHP.md",
     "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
     "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
     "Python/Python Base/Запуск программы python.exe.md",
@@ -270,9 +273,6 @@
     "Математика/Математика для программирования",
     "Математика/Математика.md",
     "Python/Python Base/Правила PEP 8.md",
-    "Python/OOP_Simple/Простая терминология ООП (Python).md",
-    "Установки ПО и прочего/Web-soft/Установка сервера, предназначенного для разработки.md",
-    "Логика/Формальная логика Аристотеля.md",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Лекарства",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",

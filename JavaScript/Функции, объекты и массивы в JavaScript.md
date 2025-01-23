@@ -3,15 +3,15 @@ date of creation: 2024-06-11T21:43:00
 tags:
   - JavaScript
   - JS
-  - IT/Programming_language
   - WebDeveloping/JS
   - Web/JS
   - Arrays
   - Programming/JS
   - ProgrammingLanguage/JS
   - OOP/JS
-  - objects/JS
   - Functions/JS
+  - Objects/JS
+  - IT/ProgrammingLanguage
 aliases:
   - Объекты и массивы в JavaScript
   - Функции и ООП в JavaScript
