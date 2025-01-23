@@ -370,6 +370,19 @@
             }
           ],
           "title": "Python Tests"
+        },
+        {
+          "type": "group",
+          "ctime": 1737554506217,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1737554473974,
+              "path": "Python/Python Base/Запуск программы python.exe.md",
+              "title": "Запуск программы python.exe bookmark"
+            }
+          ],
+          "title": "Python Base"
         }
       ],
       "title": "Python"

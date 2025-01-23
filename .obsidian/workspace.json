@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "9e0ac2de16abdc75",
+            "id": "9160355fe5f90cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/break и continue в Python.md",
+                "file": "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "break и continue в Python"
+              "title": "Дзен Python пояснение от Эла Свейгарта"
             }
           }
         ],
@@ -241,20 +241,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e0ac2de16abdc75",
+  "active": "9160355fe5f90cb7",
   "lastOpenFiles": [
+    "Obsidian Templates/Шаблон для заметок.md",
+    "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
+    "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
+    "Python/Python Base/Запуск программы python.exe.md",
+    "Python/Python Base/Импорт это декоратор функции.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Python/Python Base/break и continue в Python.md",
     "Obsidian/Форматирование заметок.md",
     "break and continue в Python UML.md",
-    "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
     "Python/Python Base/Python.md",
     "Python/Python Code Examples/Последовательность Фибоначчи на Python.md",
     "Python/Python Code Examples",
     "Математика/Математика для программирования/Математические средние значения.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Математика/Математика для программирования/Евклидово расстояние.md",
-    "Obsidian Templates/Шаблон для заметок.md",
     "Математика/Математика для программирования/Арифметическая прогрессия.md",
     "Terminals/Полезные команды в PowerShell7.md",
     "Python/OOP/Новые Паттерны Проектирования.md",
@@ -263,12 +266,10 @@
     "WEB/Веб-сервер.md",
     "Terminals",
     "Математика/Математика для программирования/Транзитивность.md",
-    "Python/Python Base/Запуск программы python.exe.md",
     "Математика/Без названия.md",
     "Математика/Математика для программирования",
     "Математика/Математика.md",
     "Python/Python Base/Правила PEP 8.md",
-    "Python/Python Base/Импорт это декоратор функции.md",
     "Python/OOP_Simple/Простая терминология ООП (Python).md",
     "Установки ПО и прочего/Web-soft/Установка сервера, предназначенного для разработки.md",
     "Логика/Формальная логика Аристотеля.md",
