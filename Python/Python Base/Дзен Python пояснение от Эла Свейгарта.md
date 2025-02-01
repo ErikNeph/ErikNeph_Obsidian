@@ -11,7 +11,7 @@ tags:
   - Philisophy
 read status: true
 completion status: true
-aliases:
+aliases: []
 ---
 ---
 # Дзен [[Python]] пояснение от Эла Свейгарта
