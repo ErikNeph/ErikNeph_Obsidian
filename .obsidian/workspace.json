@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "71b3e092266cd03b",
+            "id": "dc9872e00512aba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/IT-Books/SQL Быстрое погружение.md",
+                "file": "Obsidian Templates/Шаблон для книги.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Быстрое погружение"
+              "title": "Шаблон для книги"
             }
           }
         ],
@@ -241,16 +241,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71b3e092266cd03b",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
-    "Книги/IT-Books/Теоретический минимум по Computer Science.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Книги/IT-Books/SQL Быстрое погружение.md",
+    "Книги/IT-Books/Теоретический минимум по Computer Science.md",
     "Книги/IT-Books/IT-Books pictures/Без названия.md",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Книги/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Книги/IT-Books/IT-Books pictures/Теоретический минимум по Computer Science.jpg",
     "Obsidian Templates/Шаблон для книги.md",
     "Obsidian Templates/Шаблон для заметок.md",
