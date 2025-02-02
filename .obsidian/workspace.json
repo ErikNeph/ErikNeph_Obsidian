@@ -25,23 +25,6 @@
             }
           },
           {
-            "id": "fef51bea7fd1f296",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Testing/Схема работы Selenium.canvas",
-                "viewState": {
-                  "x": -500,
-                  "y": -130,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Схема работы Selenium"
-            }
-          },
-          {
             "id": "5eb46ac7f8c5b015",
             "type": "leaf",
             "state": {
@@ -56,8 +39,7 @@
               "title": "Selenium"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +91,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -258,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5eb46ac7f8c5b015",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
     "Testing/Схема работы Selenium.canvas",
     "Testing/Selenium.md",

@@ -710,6 +710,19 @@
         }
       ],
       "title": "Terminals bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1738488435393,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1738488453600,
+          "path": "Testing/Схема работы Selenium.canvas",
+          "title": "Схема работы Selenium bookmark"
+        }
+      ],
+      "title": "Tests bookmarks"
     }
   ]
 }

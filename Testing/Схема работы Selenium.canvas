@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"45393fe6518ff84e","x":-760,"y":-280,"width":250,"height":60,"color":"4","type":"text","text":"Chromedriver"},
+		{"id":"45393fe6518ff84e","x":-760,"y":-280,"width":250,"height":60,"color":"4","type":"text","text":"[[Selenium#^c3eb79|Chromedriver]]"},
 		{"id":"7087d15a36d9de9d","type":"text","text":"[[Selenium]] + [[Selenium#^4e16fc|WebDriver]]","x":-1240,"y":-280,"width":260,"height":60,"color":"6"},
 		{"id":"8130fd932e145f16","x":-300,"y":-280,"width":250,"height":60,"color":"1","type":"text","text":"Browser"},
 		{"id":"480477a36c0d0f32","x":-1211,"y":-100,"width":202,"height":60,"color":"6","type":"text","text":"Тут пишем код"},
