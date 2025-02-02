@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"45393fe6518ff84e","x":-760,"y":-280,"width":250,"height":60,"color":"4","type":"text","text":"Chromedriver"},
+		{"id":"7087d15a36d9de9d","type":"text","text":"[[Selenium]] + [[Selenium#^4e16fc|WebDriver]]","x":-1240,"y":-280,"width":260,"height":60,"color":"6"},
+		{"id":"8130fd932e145f16","x":-300,"y":-280,"width":250,"height":60,"color":"1","type":"text","text":"Browser"},
+		{"id":"480477a36c0d0f32","x":-1211,"y":-100,"width":202,"height":60,"color":"6","type":"text","text":"Тут пишем код"},
+		{"id":"44930bce5796c1de","x":-755,"y":-110,"width":245,"height":80,"color":"4","type":"text","text":"Переводит код в действия и говорит браузеру что делать"},
+		{"id":"faeb6108ee8d0e31","x":-300,"y":-100,"width":250,"height":60,"color":"1","type":"text","text":"Обрабатывает действия"}
+	],
+	"edges":[
+		{"id":"0e9c0c5dfafcfe94","fromNode":"7087d15a36d9de9d","fromSide":"right","toNode":"45393fe6518ff84e","toSide":"left","color":"6"},
+		{"id":"a3b3bac8982efcaf","fromNode":"45393fe6518ff84e","fromSide":"right","toNode":"8130fd932e145f16","toSide":"left","color":"4"}
+	]
+}

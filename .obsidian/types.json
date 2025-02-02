@@ -16,6 +16,7 @@
     "authors": "multitext",
     "official site": "text",
     "status complete": "checkbox",
-    "completion status": "checkbox"
+    "completion status": "checkbox",
+    "date read": "date"
   }
 }

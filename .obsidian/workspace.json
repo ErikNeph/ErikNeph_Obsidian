@@ -25,22 +25,39 @@
             }
           },
           {
-            "id": "dc9872e00512aba7",
+            "id": "fef51bea7fd1f296",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Testing/Схема работы Selenium.canvas",
+                "viewState": {
+                  "x": -500,
+                  "y": -130,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Схема работы Selenium"
+            }
+          },
+          {
+            "id": "5eb46ac7f8c5b015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Templates/Шаблон для книги.md",
+                "file": "Testing/Selenium.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблон для книги"
+              "title": "Selenium"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,39 +258,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "5eb46ac7f8c5b015",
   "lastOpenFiles": [
+    "Testing/Схема работы Selenium.canvas",
+    "Testing/Selenium.md",
+    "Computer Science/Терминология Computer Science/API.md",
+    "Git/Основные команды Git.md",
+    "Testing/Обезьяний патчинг (monkeypatching).md",
+    "Testing/TDD.md",
+    "Testing/Фикстуры.md",
+    "Testing/Тестовая пирамида Фаулера.md",
+    "Базы данных/Графы базы данных.md",
+    "Базы данных/Нормализация.md",
+    "Базы данных/База данных.md",
+    "Базы данных/Проектирование базы данных.md",
+    "Базы данных/MariaDB - клон MySQL.md",
+    "Базы данных/MySQL.md",
+    "Базы данных/SQL-инъекции.md",
+    "Базы данных/SQL.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Без названия",
+    "SQL SQLite3/Запросы, операторы, условия и ключевые слова.md",
+    "Книги/IT-Books/Простой Python 2-е издание.md",
+    "Цитаты/Цитаты о науке и компьютеров.md",
+    "Python/Python Base/Python.md",
+    "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
+    "Terminals/Полезные команды в PowerShell7.md",
+    "Obsidian Templates/Шаблон для книги.md",
     "Книги/IT-Books/SQL Быстрое погружение.md",
     "Книги/IT-Books/Теоретический минимум по Computer Science.md",
     "Книги/IT-Books/IT-Books pictures/Без названия.md",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
-    "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
-    "Книги/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
-    "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
     "Книги/IT-Books/IT-Books pictures/Теоретический минимум по Computer Science.jpg",
-    "Obsidian Templates/Шаблон для книги.md",
-    "Obsidian Templates/Шаблон для заметок.md",
     "Книги/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
-    "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
-    "Python/Python Base/Запуск программы python.exe.md",
-    "Лекарства/Полезные коктейли.md",
-    "Лекарства/Полезные Лекарства.md",
-    "Знаменитые люди/Гвидо ван Россум.md",
-    "JavaScript/Функции, объекты и массивы в JavaScript.md",
-    "PHP/Выражения и управление процессом выполнения программы в PHP.md",
-    "Математика/Математика для программирования/Алгоритм получения цифр n-значного числа.md",
-    "Python/Python Base/Импорт это декоратор функции.md",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
-    "Python/Python Base/break и continue в Python.md",
-    "Obsidian/Форматирование заметок.md",
-    "break and continue в Python UML.md",
-    "Python/Python Base/Python.md",
-    "Python/Python Code Examples/Последовательность Фибоначчи на Python.md",
     "Python/Python Code Examples",
-    "Математика/Математика для программирования/Математические средние значения.md",
-    "Математика/Математика для программирования/Евклидово расстояние.md",
-    "Математика/Математика для программирования/Арифметическая прогрессия.md",
     "Terminals",
     "Математика/Математика для программирования",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
@@ -287,11 +306,9 @@
     "Математика",
     "Логика",
     "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
-    "Фильмы и сериалы/IT тематика",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
-    "HTML5/HTML5 pictures/Рис. 28.2. Чтение из локального хранилища двух ключей и их значений.jpg",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
