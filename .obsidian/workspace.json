@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/Интернирование строк в Python.md",
+                "file": "Python/Python Base/Использование астериска при создании вариадических функций.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интернирование строк в Python"
+              "title": "Использование астериска при создании вариадических функций"
             }
           }
         ],
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -242,8 +243,9 @@
   },
   "active": "c441687542e0a9d8",
   "lastOpenFiles": [
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Python/Python Base/Интернирование строк в Python.md",
+    "Python/Python Base/Использование астериска при создании вариадических функций.md",
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Python/Python Base/Python Шпаргалка Основы.pdf",
     "Python/Python Base/Импорт это декоратор функции.md",
     "Python/Python Base/Python Лучшая Шпаргалка.pdf",
@@ -275,7 +277,6 @@
     "Базы данных/Проектирование базы данных.md",
     "Базы данных/MariaDB - клон MySQL.md",
     "Базы данных/MySQL.md",
-    "Базы данных/SQL-инъекции.md",
     "Без названия",
     "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
