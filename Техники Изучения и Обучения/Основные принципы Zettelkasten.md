@@ -5,7 +5,7 @@ tags:
   - Useful
   - Education
   - Obsidian
-  - Meta-Learning
+  - MetaLearning
 read status: true
 aliases:
 ---

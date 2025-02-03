@@ -9,6 +9,7 @@ tags:
   - Python
   - Python/Tests
   - Automation
+  - Python/Automation
 read status: true
 completion status: true
 aliases:

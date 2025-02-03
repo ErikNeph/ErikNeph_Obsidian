@@ -84,6 +84,12 @@
           "path": "PHP/Практикум по программированию на PHP.md",
           "subpath": "#XHTML или HTML5?",
           "title": "Практикум по программированию на PHP#XHTML или HTML5? bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1738609381728,
+          "path": "WEB/API Protocols Таблица.pdf",
+          "title": "API Protocols Таблица bookmark"
         }
       ],
       "title": "WEB bookmarks"
@@ -380,6 +386,18 @@
               "ctime": 1737554473974,
               "path": "Python/Python Base/Запуск программы python.exe.md",
               "title": "Запуск программы python.exe bookmark"
+            },
+            {
+              "type": "file",
+              "ctime": 1738608133019,
+              "path": "Python/Python Base/Python Лучшая Таблица.pdf",
+              "title": "Таблица Python bookmark"
+            },
+            {
+              "type": "file",
+              "ctime": 1738608620378,
+              "path": "Python/Python Base/Python Таблица структур данных.pdf",
+              "title": "Python Таблица структур данных bookmark"
             }
           ],
           "title": "Python Base"
@@ -723,6 +741,19 @@
         }
       ],
       "title": "Tests bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1738610756173,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1738610781619,
+          "path": "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf",
+          "title": "Таблица VSCode горячие клавиши bookmark"
+        }
+      ],
+      "title": "IDE's and Text Editors bookmark"
     }
   ]
 }

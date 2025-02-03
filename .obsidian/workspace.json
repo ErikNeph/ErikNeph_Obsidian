@@ -28,34 +28,16 @@
             "id": "5eb46ac7f8c5b015",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Testing/Selenium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Selenium"
-            }
-          },
-          {
-            "id": "c45cb6d2e7fa732d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "Таблица VSCode горячие клавиши"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:cocktails",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,16 +238,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c45cb6d2e7fa732d",
+  "active": "5eb46ac7f8c5b015",
   "lastOpenFiles": [
+    "PHP/Кратко о PHP.md",
+    "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf",
+    "IDE's and Text Editors/VSCode",
+    "PHP/Выражения и управление процессом выполнения программы в PHP.md",
+    "PHP/Введение в PHP.md",
+    "PHP/Массивы в PHP.md",
+    "Python/Python Base/Python Таблица структур данных.pdf",
+    "Python/Python Base/Python Лучшая Таблица.pdf",
+    "WEB/API Protocols Таблица.pdf",
+    "WEB/Динамически генерируемые страницы.md",
+    "Computer Science/Computer Science pictures",
     "Testing/Selenium.md",
     "Testing/Схема работы Selenium.canvas",
+    "Testing/Фикстуры.md",
+    "Логика/Формальная логика Аристотеля.md",
+    "Техники Изучения и Обучения/Техника Фейнмана.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Логика/Классическая формальная логика.md",
+    "README.md",
     "Computer Science/Терминология Computer Science/API.md",
     "Git/Основные команды Git.md",
     "Testing/Обезьяний патчинг (monkeypatching).md",
     "Testing/TDD.md",
-    "Testing/Фикстуры.md",
     "Testing/Тестовая пирамида Фаулера.md",
     "Базы данных/Графы базы данных.md",
     "Базы данных/Нормализация.md",
@@ -277,15 +274,7 @@
     "Базы данных/SQL.md",
     "Без названия",
     "SQL SQLite3/Запросы, операторы, условия и ключевые слова.md",
-    "Книги/IT-Books/Простой Python 2-е издание.md",
-    "Цитаты/Цитаты о науке и компьютеров.md",
-    "Python/Python Base/Python.md",
     "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
-    "Terminals/Полезные команды в PowerShell7.md",
-    "Obsidian Templates/Шаблон для книги.md",
-    "Книги/IT-Books/SQL Быстрое погружение.md",
-    "Книги/IT-Books/Теоретический минимум по Computer Science.md",
-    "Книги/IT-Books/IT-Books pictures/Без названия.md",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
     "Книги/IT-Books/IT-Books pictures/Теоретический минимум по Computer Science.jpg",
     "Книги/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
@@ -294,16 +283,10 @@
     "Terminals",
     "Математика/Математика для программирования",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
-    "Лекарства",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
-    "Python/OOP_Simple/OOP_Simple_pictures",
-    "Python/OOP_Simple",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
-    "Computer Science/Терминология Computer Science",
     "Логика/Формальная логика диаграмма.canvas",
-    "Математика",
-    "Логика",
-    "Фильмы и сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
+    "Фильмы и Сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
     "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
