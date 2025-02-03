@@ -390,14 +390,20 @@
             {
               "type": "file",
               "ctime": 1738608133019,
-              "path": "Python/Python Base/Python Лучшая Таблица.pdf",
-              "title": "Таблица Python bookmark"
+              "path": "Python/Python Base/Python Лучшая Шпаргалка.pdf",
+              "title": "Таблица Шпаргалка bookmark"
             },
             {
               "type": "file",
               "ctime": 1738608620378,
-              "path": "Python/Python Base/Python Таблица структур данных.pdf",
-              "title": "Python Таблица структур данных bookmark"
+              "path": "Python/Python Base/Python Шпаргалка структур данных.pdf",
+              "title": "Python Шпаргалка структур данных bookmark"
+            },
+            {
+              "type": "file",
+              "ctime": 1738611583022,
+              "path": "Python/Python Base/Python Шпаргалка Основы.pdf",
+              "title": "Python Шпаргалка Основы bookmark"
             }
           ],
           "title": "Python Base"

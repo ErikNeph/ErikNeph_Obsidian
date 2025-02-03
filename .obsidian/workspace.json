@@ -25,15 +25,18 @@
             }
           },
           {
-            "id": "5eb46ac7f8c5b015",
+            "id": "c441687542e0a9d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf"
+                "file": "Python/Python Base/Интернирование строк в Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Таблица VSCode горячие клавиши"
+              "icon": "lucide-file",
+              "title": "Интернирование строк в Python"
             }
           }
         ],
@@ -93,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -238,25 +240,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5eb46ac7f8c5b015",
+  "active": "c441687542e0a9d8",
   "lastOpenFiles": [
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Python/Python Base/Интернирование строк в Python.md",
+    "Python/Python Base/Python Шпаргалка Основы.pdf",
+    "Python/Python Base/Импорт это декоратор функции.md",
+    "Python/Python Base/Python Лучшая Шпаргалка.pdf",
+    "Python/Python Base/Python Шпаргалка структур данных.pdf",
+    "Testing/Selenium.md",
     "PHP/Кратко о PHP.md",
     "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf",
     "IDE's and Text Editors/VSCode",
     "PHP/Выражения и управление процессом выполнения программы в PHP.md",
     "PHP/Введение в PHP.md",
     "PHP/Массивы в PHP.md",
-    "Python/Python Base/Python Таблица структур данных.pdf",
-    "Python/Python Base/Python Лучшая Таблица.pdf",
     "WEB/API Protocols Таблица.pdf",
     "WEB/Динамически генерируемые страницы.md",
     "Computer Science/Computer Science pictures",
-    "Testing/Selenium.md",
     "Testing/Схема работы Selenium.canvas",
     "Testing/Фикстуры.md",
     "Логика/Формальная логика Аристотеля.md",
     "Техники Изучения и Обучения/Техника Фейнмана.md",
-    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Логика/Классическая формальная логика.md",
     "README.md",
     "Computer Science/Терминология Computer Science/API.md",
@@ -271,9 +276,7 @@
     "Базы данных/MariaDB - клон MySQL.md",
     "Базы данных/MySQL.md",
     "Базы данных/SQL-инъекции.md",
-    "Базы данных/SQL.md",
     "Без названия",
-    "SQL SQLite3/Запросы, операторы, условия и ключевые слова.md",
     "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
     "Книги/IT-Books/IT-Books pictures/Теоретический минимум по Computer Science.jpg",
@@ -281,7 +284,6 @@
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Python/Python Code Examples",
     "Terminals",
-    "Математика/Математика для программирования",
     "Python/OOP/OOP pictures/Рис. 10.1 . Абстракция для lterable.jpg",
     "Python/OOP_Simple/OOP_Simple_pictures/Процесс создания экземпляра.jpg",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
