@@ -2,5 +2,12 @@
 
 **ErikNeph_Obsidian** - представляет собой мою базу знаний написанной с помощью приложения [Obsidian](https://obsidian.md/), использующий популярный формат markdown. Моя база знаний может послужить примером создания вашей базы знаний (напримере моей). Я старался сделать мое хранилище Obsidian максимально понятным и интуитивным, вложенность папок в моем хранилище три уровня.
 
+**Я использую следующие плагины для Obsidian (на что и вам рекомендую данные плагины для работы в Obsidian):**
 
-This is where my Obsidian knowledge base is kept.
+- Calendar
+- Iconize
+- Git
+- Beautitab
+- Style Settings
+- Minimal Theme Settings
+
