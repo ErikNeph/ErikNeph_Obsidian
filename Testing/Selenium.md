@@ -10,7 +10,7 @@ tags:
   - Python/Tests
   - Automation
 read status: true
-completion status: false
+completion status: true
 aliases:
   - Selenium на Python
 ---
@@ -25,6 +25,6 @@ aliases:
 
 ![[Схема работы Selenium.canvas|Схема работы Selenium]]
 
->[!info]
+>[!danger]
 >**Selenium** - не является инструментом автоматизации тестирования, **это инструмент для управления браузером.**
 
