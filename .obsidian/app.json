@@ -8,6 +8,5 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": false,
-  "showRibbon": true,
   "readableLineLength": true
 }
