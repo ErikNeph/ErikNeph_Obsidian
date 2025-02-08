@@ -22,6 +22,7 @@ aliases:
 
 [Задача на wiki](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F)
 
+**Решение**:
 ```python
 def pascal(n):
     # Базовый случай: нулевая строка
@@ -50,3 +51,24 @@ n = int(input("Введите номер строки: "))
 print(pascal(n))
 ```
 
+
+**Оптимизированная версия**:
+```python
+def pascal(n):
+    row = [1]
+    for i in range(1, n + 1):
+        # Создаём новую строку, начиная с 1
+        new_row = [1]
+        # Вычисляем элементы строки
+        for j in range(1, i):
+            new_row.append(row[j - 1] + row[j])
+        # Добавляем последний элемент
+        new_row.append(1)
+        # Обновляем текущую строку
+        row = new_row
+    return row
+
+# Пример использования
+n = int(input("Введите номер строки: "))
+print(pascal(n))
+```
