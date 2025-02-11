@@ -12,6 +12,7 @@ tags:
   - Practicum
   - Task
   - Problem
+  - Education
 read status: true
 completion status: true
 aliases:
@@ -20,7 +21,8 @@ aliases:
 ---
 # Треугольник Паскаля на Python
 
-[Задача на wiki](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F)
+<p><a href="https://commons.wikimedia.org/wiki/File:%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F.svg" alt="Треугольник Паскаля.svg" height="462" width="640"></a><br>Авторство: <a href="https://en.wikipedia.org/wiki/ru:User:KleverI" class="extiw" title="w:ru:User:KleverI">KleverI</a> из <a href="https://en.wikipedia.org/wiki/ru:" class="extiw" title="w:ru:">русский Википедия</a>, <a href="https://creativecommons.org/licenses/by-sa/1.0" title="Creative Commons Attribution-Share Alike 1.0">CC BY-SA 1.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7549020">Ссылка</a></p>
+[Задача на wiki](https://commons.wikimedia.org/wiki/File:%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F.svg)
 
 **Решение**:
 ```python
