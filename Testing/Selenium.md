@@ -2,19 +2,17 @@
 title: Selenium
 date of creation: 2025-02-02T14:06:00
 tags:
-  - Test
-  - Tests
   - Developing
   - Developing/Tests
   - Python
   - Python/Tests
   - Automation
   - Python/Automation
+  - Automation/Tests
 read status: true
 completion status: true
 aliases:
   - Selenium на Python
----
 ---
 # Selenium
 

@@ -17,6 +17,8 @@
     "official site": "text",
     "status complete": "checkbox",
     "completion status": "checkbox",
-    "date read": "date"
+    "date read": "date",
+    "date of writing": "date",
+    "date the note was written": "date"
   }
 }
