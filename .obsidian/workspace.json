@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/Полезные стандартные модули на Python.md",
+                "file": "Computer Science/Алгоритмы/Порядки нотации O-большое.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Полезные стандартные модули на Python"
+              "title": "Порядки нотации O-большое"
             }
           }
         ],
@@ -259,6 +259,11 @@
   },
   "active": "1f6ee8e26f81c862",
   "lastOpenFiles": [
+    "Алгоритмы",
+    "Computer Science/Алгоритмы/Алгоритм бинарного поиска.md",
+    "Computer Science/Алгоритмы/Порядки нотации O-большое.md",
+    "Python/Python Base/Полезные стандартные модули на Python.md",
+    "Computer Science/Алгоритмы",
     "Testing/Selenium.md",
     "Python/Python Problems/Треугольник Паскаля на Python.md",
     "Python/Python Problems",
@@ -284,11 +289,7 @@
     "Цитаты/Цитаты об образовании.md",
     "CSS3/Введение в CSS.md",
     "CSS3/ID и классы в CSS.canvas",
-    "Python/Python Base/Использование астериска при создании вариадических функций.md",
-    "Полезности/Интересные интернет ресурсы и не только.md",
-    "Python/Python Base/Интернирование строк в Python.md",
     "Python/Python Base/Python Шпаргалка Основы.pdf",
-    "Python/Python Base/Импорт это декоратор функции.md",
     "Python/Python Base/Python Лучшая Шпаргалка.pdf",
     "Python/Python Base/Python Шпаргалка структур данных.pdf",
     "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf",
@@ -296,7 +297,6 @@
     "WEB/API Protocols Таблица.pdf",
     "Computer Science/Computer Science pictures",
     "Testing/Схема работы Selenium.canvas",
-    "Без названия",
     "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
     "Книги/IT-Books/IT-Books pictures/Теоретический минимум по Computer Science.jpg",
