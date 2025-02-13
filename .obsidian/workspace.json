@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945,
-    "collapsed": true
+    "width": 415.51103591918945
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -244,17 +243,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "4331295bb5b073ce",
   "lastOpenFiles": [
-    "Знаменитые люди/Тим Петерс.md",
+    "Знаменитые люди/Алан Тьюринг.md",
+    "Знаменитые люди/Картинки знаменитых людей/Alan_Turing_(1951)_(crop).jpg",
+    "Математика/Математика для программирования/Числа Трибоначи.md",
+    "Полезности/Интересные интернет ресурсы и не только.md",
+    "Знаменитые люди/Картинки знаменитых людей",
+    "Obsidian Templates/Шаблон для выдающегося человека.md",
     "Testing/Selenium.md",
+    "Computer Science/Алгоритмы/Порядки нотации O-большое.md",
+    "Знаменитые люди/Тим Петерс.md",
     "Obsidian Templates/Шаблон для фильма.md",
     "Obsidian Templates/Шаблон для сериала.md",
     "Фильмы и Сериалы/IT тематика/Игра в имитацию.md",
-    "Computer Science/Алгоритмы/Порядки нотации O-большое.md",
     "Obsidian Templates/Шаблон для заметок.md",
     "Obsidian Templates/Шаблон для книги.md",
-    "Obsidian Templates/Шаблон для выдающегося человека.md",
     "Computer Science/Алгоритмы/Алгоритм Timsort.md",
     "алгоритм Timsort.md",
     "Алгоритмы",
@@ -271,10 +275,6 @@
     "JavaScript/JS Base/Изучение JavaScript.md",
     "JavaScript/JS Base/Выражения и управление процессом выполнения сценариев в JavaScript.md",
     "JavaScript/JS Base/Проверка данных и обработка ошибок в JavaScript и PHP.md",
-    "JavaScript/JS Base/Функции, объекты и массивы в JavaScript.md",
-    "JavaScript/JS Base/JavaScriptCore.md",
-    "JavaScript/JS Base/JavaScript.md",
-    "JavaScript/JS Base/Доступ к CSS из JavaScript.md",
     "JavaScript/JS Base",
     "CSS3/ID и классы в CSS.canvas",
     "Python/Python Base/Python Шпаргалка Основы.pdf",
@@ -282,7 +282,6 @@
     "Python/Python Base/Python Шпаргалка структур данных.pdf",
     "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf",
     "IDE's and Text Editors/VSCode",
-    "WEB/API Protocols Таблица.pdf",
     "Testing/Схема работы Selenium.canvas",
     "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
@@ -296,7 +295,6 @@
     "Фильмы и Сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
     "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "WEB/WEB pictures/SSL Рукопожатие диаграмма.jpg",
-    "HTML5/HTML5 pictures/Рис. 28.4. На данный момент iframe получил 29 сообщений.jpg",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "Untitled.canvas",
