@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Диаграммы Эйлера-Венна при решении задач.md",
+                "file": "Python/Python Base/Множества в Python (краткая версия).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Диаграммы Эйлера-Венна при решении задач"
+              "title": "Множества в Python (краткая версия)"
             }
           }
         ],
@@ -261,8 +261,9 @@
   },
   "active": "f339d3b76427f705",
   "lastOpenFiles": [
-    "Математика/Множества в математике.md",
     "Математика/Диаграммы Эйлера-Венна при решении задач.md",
+    "Python/Python Base/Множества в Python (краткая версия).md",
+    "Математика/Множества в математике.md",
     "Obsidian/Форматирование заметок.md",
     "Testing/Selenium.md",
     "Знаменитые люди/Алан Тьюринг.md",
@@ -291,7 +292,6 @@
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Книги/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
     "Книги/IT-Books/Изучаем пайтон 3-е издание.md",
-    "JavaScript/JS Base/Изучение JavaScript.md",
     "JavaScript/JS Base",
     "CSS3/ID и классы в CSS.canvas",
     "Python/Python Base/Python Шпаргалка Основы.pdf",
