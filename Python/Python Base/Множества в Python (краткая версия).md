@@ -90,7 +90,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1.intersection(m
 Результат выполнения приведенного ниже кода:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1 & myset2 print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset1 & myset2
+print(myset3)
 ```
 
 аналогичен предыдущему.
@@ -104,7 +107,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1 & myset2 print
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1.difference(myset2) print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset1.difference(myset2)
+print(myset3)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -118,7 +124,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1.difference(mys
 Результат выполнения приведенного ниже кода:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1 - myset2 print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset1 - myset2
+print(myset3)
 ```
 
 аналогичен предыдущему.
@@ -128,7 +137,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1 - myset2 print
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset2.difference(myset1) print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset2.difference(myset1)
+print(myset3)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -146,7 +158,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset2.difference(mys
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1.symmetric_difference(myset2) print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset1.symmetric_difference(myset2)
+print(myset3)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -160,7 +175,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1.symmetric_diff
 Результат выполнения приведенного ниже кода:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1 ^ myset2 print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset1 ^ myset2
+print(myset3)
 ```
 
 аналогичен предыдущему.
@@ -179,7 +197,9 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1 ^ myset2 print
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.update(myset2) # изменяем множество myset1 print(myset1)
+myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8}
+# изменяем множество myset1 print(myset1)
+myset1.update(myset2)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -191,7 +211,9 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.update(myset2) # изм
 Аналогичный результат получается, если использовать оператор `|=`:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 |= myset2 print(myset1)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset1 |= myset2 print(myset1)
 ```
 
 ### Метод intersection\_update()
@@ -201,7 +223,10 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 |= myset2 print(myset1)
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.intersection_update(myset2) # изменяем множество myset1 print(myset1)
+myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} 
+# изменяем множество myset1 
+myset1.intersection_update(myset2)
+print(myset1)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -213,7 +238,9 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.intersection_update(mys
 Аналогичный результат получается, если использовать оператор `&=`:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 &= myset2 print(myset1)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset1 &= myset2 print(myset1)
 ```
 
 ### Метод difference\_update()
@@ -223,7 +250,11 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 &= myset2 print(myset1)
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.difference_update(myset2) # изменяем множество myset1 print(myset1)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+# изменяем множество myset1 
+myset1.difference_update(myset2)
+print(myset1)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -235,7 +266,8 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.difference_update(myset
 Аналогичный результат получается, если использовать оператор `-=`:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 -= myset2 print(myset1)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8} myset1 -= myset2 print(myset1)
 ```
 
 ### Метод symmetric\_difference\_update()
@@ -245,7 +277,11 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 -= myset2 print(myset1)
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.symmetric_difference_update(myset2) # изменяем множество myset1 print(myset1)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+# изменяем множество myset1
+myset1.symmetric_difference_update(myset2)
+print(myset1)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -257,7 +293,9 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1.symmetric_difference_up
 Аналогичный результат получается, если использовать оператор `^=`:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 ^= myset2 print(myset1)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset1 ^= myset2 print(myset1)
 ```
 
 ## Примечания
@@ -267,19 +305,36 @@ myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset1 ^= myset2 print(myset1)
 Приведенный ниже код:
 
 ```python
-mylist = [2021, 2020, 2019, 2018, 2017, 2016] mytuple = (2021, 2020, 2016) mystr = 'abcd' myset = {2009, 2010, 2016} print(myset.union(mystr)) # объединяем со строкой print(myset.intersection(mylist)) # пересекаем со списком print(myset.difference(mytuple)) # находим разность с кортежем
+mylist = [2021, 2020, 2019, 2018, 2017, 2016]
+mytuple = (2021, 2020, 2016)
+mystr = 'abcd'
+# объединяем со строкой
+myset = {2009, 2010, 2016} print(myset.union(mystr))
+print(myset.intersection(mylist))
+# пересекаем со списком
+print(myset.difference(mytuple))
+# находим разность с кортежем
 ```
 
 выводит (порядок элементов может отличаться):
 
 ```no
-{2016, 'c', 'b', 'a', 'd', 2009, 2010} {2016} {2009, 2010}
+{2016, 'c', 'b', 'a', 'd', 2009, 2010}
+{2016}
+{2009, 2010}
 ```
 
 Приведенный ниже код:
 
 ```python
-mylist = [2021, 2020, 2019, 2018, 2017, 2016] mytuple = (2021, 2020, 2016) mystr = 'abcd' myset = {2009, 2010, 2016} print(myset | mystr) print(myset & mylist) print(myset - mytuple)
+mylist = [2021, 2020, 2019, 2018, 2017, 2016]
+mytuple = (2021, 2020, 2016)
+mystr = 'abcd'
+myset = {2009, 2010, 2016}
+
+print(myset | mystr)
+print(myset & mylist)
+print(myset - mytuple)
 ```
 
 приводит к возникновению ошибок:

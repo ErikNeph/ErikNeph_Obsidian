@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Things",
+  "theme": "obsidian",
+  "cssTheme": "",
   "baseFontSize": 17,
   "interfaceFontFamily": "JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
   "textFontFamily": "Inter,JetBrains Mono,Fira Mono,Roboto Mono,Cascadia Mono,Spectral",
