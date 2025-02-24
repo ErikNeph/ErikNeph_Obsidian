@@ -9,6 +9,8 @@ tags:
   - Automation
   - Python/Automation
   - Automation/Tests
+  - Test
+  - Tests
 read status: true
 completion status: true
 aliases:
@@ -69,4 +71,3 @@ aliases:
 
 >[!danger]
 >**Важно: индексация элементов в Xpath идет не с 0 как в [[Python]], а с 1**
-

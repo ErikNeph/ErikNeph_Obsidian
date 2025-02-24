@@ -74,7 +74,7 @@
   "things-style@@floating-button-off": false,
   "aura-theme-settings@@aura-theme-dark": "aura-soft",
   "aura@@cpt-accent": "var(--cpt-aura)",
-  "aura@@aura-colorshemes-light": "default",
+  "aura@@aura-colorshemes-light": "aura-colorschemes-light-origin",
   "aura@@aura-colorshemes-dark": "default",
   "aura@@aura-active-line": "aura-no-highlight",
   "aura@@aura-neon-headings": false,

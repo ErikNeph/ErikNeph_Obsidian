@@ -42,7 +42,10 @@ aliases:
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8} myset3 = myset1.union(myset2) print(myset3)
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
+myset3 = myset1.union(myset2)
+print(myset3)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -184,7 +187,7 @@ print(myset3)
 аналогичен предыдущему.
 
 >[!info]
-![|50](https://ucarecdn.com/d8ca2d33-0d4a-45df-88a3-580d71d8ed20/)Обратите внимание: для операции симметрической разности порядок множеств неважен, на то она и симметрическая: `myset1 ^ myset2 == myset2 ^ myset1`.
+![|35](https://ucarecdn.com/d8ca2d33-0d4a-45df-88a3-580d71d8ed20/)Обратите внимание: для операции симметрической разности порядок множеств неважен, на то она и симметрическая: `myset1 ^ myset2 == myset2 ^ myset1`.
 
 ## Методы множеств, изменяющие текущие множества
 
@@ -348,7 +351,16 @@ TypeError: unsupported operand type(s) for |: 'set' and 'str' TypeError: unsuppo
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5, 6} myset2 = {2, 3, 4, 5} myset3 = {5, 6, 7, 8} union1 = myset1.union(myset2, myset3) union2 = myset1 | myset2 | myset3 difference1 = myset1.difference(myset2, myset3) difference2 = myset1 - myset2 - myset3 # порядок выполнения слева-направо print(union1 == union2) print(difference1 == difference2)
+myset1 = {1, 2, 3, 4, 5, 6}
+myset2 = {2, 3, 4, 5}
+myset3 = {5, 6, 7, 8}
+union1 = myset1.union(myset2, myset3)
+union2 = myset1 | myset2 | myset3
+difference1 = myset1.difference(myset2, myset3)
+difference2 = myset1 - myset2 - myset3
+# порядок выполнения слева-направо
+print(union1 == union2)
+print(difference1 == difference2)
 ```
 
 выводит:
@@ -362,7 +374,13 @@ True True
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5, 6} myset2 = {2, 3, 4, 7} myset3 = {6, 20, 30} symdifference = myset1 ^ myset2 ^ myset3 # порядок выполнения слева-направо print(symdifference)
+myset1 = {1, 2, 3, 4, 5, 6}
+myset2 = {2, 3, 4, 7}
+myset3 = {6, 20, 30}
+symdifference = myset1 ^ myset2 ^ myset
+
+# порядок выполнения слева-направо
+print(symdifference)
 ```
 
 выводит (порядок элементов может отличаться):
@@ -374,7 +392,10 @@ myset1 = {1, 2, 3, 4, 5, 6} myset2 = {2, 3, 4, 7} myset3 = {6, 20, 30} symdiffer
  Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5, 6} myset2 = {2, 3, 4, 7} myset3 = {6, 20, 30} symdifference = myset1.symmetric_difference(myset2, myset3) print(symdifference)
+myset1 = {1, 2, 3, 4, 5, 6}
+myset2 = {2, 3, 4, 7}
+myset3 = {6, 20, 30}
+symdifference = myset1.symmetric_difference(myset2, myset3) print(symdifference)
 ```
 
 приводит к ошибке:
