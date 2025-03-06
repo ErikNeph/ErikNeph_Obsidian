@@ -200,7 +200,8 @@ print(myset3)
 Приведенный ниже код:
 
 ```python
-myset1 = {1, 2, 3, 4, 5} myset2 = {3, 4, 6, 7, 8}
+myset1 = {1, 2, 3, 4, 5}
+myset2 = {3, 4, 6, 7, 8}
 # изменяем множество myset1 print(myset1)
 myset1.update(myset2)
 ```
@@ -270,7 +271,9 @@ print(myset1)
 
 ```python
 myset1 = {1, 2, 3, 4, 5}
-myset2 = {3, 4, 6, 7, 8} myset1 -= myset2 print(myset1)
+myset2 = {3, 4, 6, 7, 8}
+myset1 -= myset2
+print(myset1)
 ```
 
 ### Метод symmetric\_difference\_update()
