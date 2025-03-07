@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.51103591918945
+    "width": 415.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -260,10 +261,11 @@
   },
   "active": "9321b37300d1d02a",
   "lastOpenFiles": [
-    "Книги/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
-    "Testing/Selenium.md",
+    "Computer Science/Терминология Computer Science/Unicode.md",
     "Книги/IT-Books/Python - к вершинам мастерства (2-е издание).md",
     "Книги/IT-Books/Сам себе программист.md",
+    "Книги/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
+    "Testing/Selenium.md",
     "Книги/IT-Books/Теоретический минимум по Computer Science.md",
     "Книги/IT-Books/Простой Python 2-е издание.md",
     "Книги/IT-Books/IT-Books pictures/Сам себе программист.jpg",
@@ -310,7 +312,6 @@
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Логика/Формальная логика диаграмма.canvas",
     "Фильмы и Сериалы/Картинки фильмов и сериалов/Игра в имитацию постер.jpg",
-    "WEB/WEB pictures/HTTP Ответ и запрос Диаграмма.jpg",
     "Техники Изучения и Обучения/Техника Фейнмана UML.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "Untitled.canvas",
