@@ -12,6 +12,7 @@ read status: true
 completion status: true
 aliases:
   - Быстрые старт в PowerShell7
+  - PowerShell7 быстрый старт
 ---
 ---
 # Полезные команды в PowerShell7
@@ -103,7 +104,7 @@ al@ubuntu:~/someFolder/someSubFolder$ ls hello.py
 
 В Windows перемещение исходного файла или папки в другую папку выполняется командой **`move [исходный файл или папка] [приемная папка]`**. Команда **`mv [исходный файл или папка] [приемная папка]`** делает то же самое в macOS и Linux.
 
-```bash
+```shell
 al@ubuntu:~/someFolder$ ls hello.py someSubFolder
 al@ubuntu:~/someFolder$ mv hello.py someSubFolder al@ubuntu:~/someFolder$ ls
 someSubFolder al@ubuntu:~/someFolder$ cd someSubFolder/ al@ubuntu:~/someFolder/someSubFolder$ ls hello.py
