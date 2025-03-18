@@ -42,18 +42,18 @@
             }
           },
           {
-            "id": "91e7da899f76a135",
+            "id": "67e2bc10b735a378",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP_Simple/Простая терминология ООП (Python).md",
+                "file": "Roadmap/Направления в Python в формате PlantUML.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Простая терминология ООП (Python)"
+              "title": "Направления в Python в формате PlantUML"
             }
           }
         ],
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP_Simple/Простая терминология ООП (Python).md",
+                "file": "Testing/Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Простая терминология ООП (Python)"
+              "title": "Обратные ссылки для Selenium"
             }
           },
           {
@@ -261,16 +261,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91e7da899f76a135",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
+    "Python/Python Libraries/Matplotlib.md",
+    "Roadmap/Направления в Python в формате PlantUML.md",
+    "Python/Python Frameworks/Pandas.md",
+    "Python/Python Libraries/NumPy.md",
+    "Python/Python Frameworks",
+    "Python/Python F.md",
+    "Python/Python Libraries",
+    "Testing/Selenium.md",
+    "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
+    "WEB/Маршрутизатор.md",
+    "Логика/Формальная логика Аристотеля.md",
+    "Математика/Математика для программирования/Евклидово расстояние.md",
+    "Python/OOP/Атрибуты и поведение.md",
+    "Python/OOP_Simple/Простая терминология ООП (Python).md",
+    "Python/OOP_Simple/Написание класса на Python.md",
     "Python/OOP/Тестирование Объектно-Ориентированных Программ.md",
     "Python/OOP/Конкурентная Обработка Данных.md",
     "Python/OOP/Общие Паттерны Проектирования.md",
     "Python/OOP/Новые Паттерны Проектирования.md",
-    "Python/OOP_Simple/Простая терминология ООП (Python).md",
     "Python/Python Base/Множества в Python (краткая версия).md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
-    "Testing/Selenium.md",
     "Testing/Схема работы Selenium.canvas",
     "Terminals/Полезные команды в PowerShell7.md",
     "Книги/IT-Books/Python - к вершинам мастерства (2-е издание).md",
@@ -280,20 +293,9 @@
     "Computer Science/Терминология Computer Science/Unicode.md",
     "Книги/IT-Books/Сам себе программист.md",
     "Книги/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
-    "Книги/IT-Books/Теоретический минимум по Computer Science.md",
-    "Книги/IT-Books/Простой Python 2-е издание.md",
     "Книги/IT-Books/IT-Books pictures/Сам себе программист.jpg",
-    "Цитаты/Цитаты об образовании и психологии.md",
-    "Computer Science/Алгоритмы/Алгоритм бинарного поиска.md",
-    "Computer Science/Алгоритмы/Алгоритм Timsort.md",
-    "Language Models/Шаблоны запросов наставника ChatGPT.md",
     "Language Models",
-    "Математика/Диаграммы Эйлера-Венна при решении задач.md",
-    "Математика/Множества в математике.md",
-    "Знаменитые люди/Алан Тьюринг.md",
     "Знаменитые люди/Картинки знаменитых людей/Alan_Turing_(1951)_(crop).jpg",
-    "Математика/Математика для программирования/Числа Трибоначи.md",
-    "Полезности/Интересные интернет ресурсы и не только.md",
     "Знаменитые люди/Картинки знаменитых людей",
     "Алгоритмы",
     "Computer Science/Алгоритмы",
@@ -302,8 +304,6 @@
     "CSS3/ID и классы в CSS.canvas",
     "Python/Python Base/Python Шпаргалка Основы.pdf",
     "Python/Python Base/Python Лучшая Шпаргалка.pdf",
-    "Python/Python Base/Python Шпаргалка структур данных.pdf",
-    "IDE's and Text Editors/VSCode/Таблица VSCode горячие клавиши.pdf",
     "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
     "Книги/IT-Books/IT-Books pictures/SQL быстрое погружение.jpg",
     "Книги/IT-Books/IT-Books pictures/Теоретический минимум по Computer Science.jpg",

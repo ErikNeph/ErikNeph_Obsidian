@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Things",
   "baseFontSize": 17,
   "interfaceFontFamily": "JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
@@ -8,5 +8,5 @@
   "monospaceFontFamily": "Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
   "nativeMenus": false,
   "baseFontSizeAction": false,
-  "showRibbon": false
+  "showRibbon": true
 }
