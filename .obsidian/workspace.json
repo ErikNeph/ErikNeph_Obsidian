@@ -261,10 +261,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "01e89dce8f9dcd4b",
   "lastOpenFiles": [
-    "Testing/Selenium.md",
+    "Python/Python Libraries/requests.md",
     "Roadmap/Направления в Python в формате PlantUML.md",
+    "Testing/Selenium.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Docker/Docker.md",
     "Docker",
@@ -291,7 +292,6 @@
     "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
     "WEB/Маршрутизатор.md",
     "Логика/Формальная логика Аристотеля.md",
-    "Математика/Математика для программирования/Евклидово расстояние.md",
     "Testing/Схема работы Selenium.canvas",
     "Книги/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
     "Книги/IT-Books/IT-Books pictures/Сам себе программист.jpg",
