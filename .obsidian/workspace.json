@@ -25,25 +25,9 @@
             }
           },
           {
-            "id": "2712b22b93374cbb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Selenium.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Selenium"
-            }
-          },
-          {
             "id": "01e89dce8f9dcd4b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -52,12 +36,13 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Направления в Python в формате PlantUML"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,10 +248,15 @@
   },
   "active": "01e89dce8f9dcd4b",
   "lastOpenFiles": [
-    "Python/Python Libraries/requests.md",
+    "IT Companies/OpenAI.md",
     "Roadmap/Направления в Python в формате PlantUML.md",
-    "Testing/Selenium.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Testing/Selenium.md",
+    "UML/Что такое UML-диаграммы.md",
+    "UML/Глоссарий терминов UML.md",
+    "UML/Диаграмма активностей — Activity diagram.md",
+    "UML/Диаграмма прецедентов — Use-case diagram.md",
+    "Python/Python Libraries/requests.md",
     "Docker/Docker.md",
     "Docker",
     "Git/Git.md",
@@ -285,13 +275,8 @@
     "Python/Python Libraries/os.md",
     "Python/Python Libraries/NumPy.md",
     "Python/Python Frameworks/Flask.md",
-    "Python/Python Frameworks/Pandas.md",
     "Python/Python Frameworks",
-    "Python/Python F.md",
     "Python/Python Libraries",
-    "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
-    "WEB/Маршрутизатор.md",
-    "Логика/Формальная логика Аристотеля.md",
     "Testing/Схема работы Selenium.canvas",
     "Книги/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
     "Книги/IT-Books/IT-Books pictures/Сам себе программист.jpg",
