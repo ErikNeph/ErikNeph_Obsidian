@@ -261,10 +261,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b1c8acfbec0bd59",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
-    "Python/OOP/Объекты в Python.md",
+    "Computer Science/Терминология Computer Science/DRY.md",
     "Python/Jinja.md",
+    "Python/OOP/Объекты в Python.md",
     "Roadmap/Направления в Python в формате PlantUML.md",
     "WEB/Коды состояния HTTP.md",
     "Python/Python Frameworks/Как взаимодействует FastAPI.canvas",
@@ -291,7 +292,6 @@
     "Python/Python Libraries/TensorFlow.md",
     "Python/Python Standard Libraries/math.md",
     "Python/Python Standard Libraries/random.md",
-    "Computer Science/Терминология Computer Science/Data Science.md",
     "Python/Python Frameworks",
     "Python/Python Libraries",
     "Testing/Схема работы Selenium.canvas",
