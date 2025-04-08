@@ -407,6 +407,31 @@
             }
           ],
           "title": "Python Base"
+        },
+        {
+          "type": "group",
+          "ctime": 1742949330778,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1742949362922,
+              "path": "Python/Python Frameworks/Как взаимодействует FastAPI.canvas",
+              "title": "Как взамодействует FastAPI bookmark"
+            }
+          ],
+          "title": "Python FastAPI"
+        },
+        {
+          "type": "group",
+          "ctime": 1742949344838,
+          "items": [],
+          "title": "Python Django"
+        },
+        {
+          "type": "group",
+          "ctime": 1742949352697,
+          "items": [],
+          "title": "Python Flask"
         }
       ],
       "title": "Python"
