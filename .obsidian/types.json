@@ -19,6 +19,7 @@
     "completion status": "checkbox",
     "date read": "date",
     "date of writing": "date",
-    "date the note was written": "date"
+    "date the note was written": "date",
+    "documentation": "text"
   }
 }
