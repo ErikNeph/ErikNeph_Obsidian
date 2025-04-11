@@ -6,7 +6,7 @@ tags:
   - Framework/Python
   - Python/Backend
   - Developing/Python
-read status: false
+read status: true
 completion status: false
 documentation: https://fastapi.tiangolo.com/ru/
 aliases:
