@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap/Направления в Python в формате PlantUML.md",
+                "file": "WEB/TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Направления в Python в формате PlantUML"
+              "title": "Обратные ссылки для TCP IP"
             }
           },
           {
@@ -263,9 +263,11 @@
   },
   "active": "bb1e82ad12208ffd",
   "lastOpenFiles": [
+    "WEB/TCP IP.md",
+    "Python/Python Standard Libraries/math.md",
+    "Roadmap/Направления в Python в формате PlantUML.md",
     "WEB/WEB pictures/Модель OSI таблица.jpg",
     "WEB/UDP.md",
-    "WEB/TCP IP.md",
     "WEB/SMTP.md",
     "WEB/SSH.md",
     "WEB/OSI.md",
@@ -282,7 +284,6 @@
     "Desktop OS/Windows/Windows.md",
     "Desktop OS/MacOS/MacOS.md",
     "Desktop OS/MacOS",
-    "Roadmap/Направления в Python в формате PlantUML.md",
     "WEB/WEB pictures/URN_diagram.jpg",
     "Протокол.md",
     "WEB/WEB pictures/URI_diagram.jpg",
@@ -311,7 +312,6 @@
     "Computer Science/Алгоритмы",
     "Python/Python Problems",
     "CSS3/ID и классы в CSS.canvas",
-    "Книги/IT-Books/IT-Books pictures/Простой Python 2-е издание.jpg",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Логика/Формальная логика диаграмма.canvas",
