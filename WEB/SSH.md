@@ -1,10 +1,10 @@
 ---
-title: Windows
-date of creation: 2025-04-11T21:47:00
+title: SSH
+date of creation: 2025-04-11T22:02:00
 tags: 
 read status: false
 completion status: false
 aliases:
 ---
-# Windows
+# SSH
 ---

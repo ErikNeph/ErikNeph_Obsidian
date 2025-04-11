@@ -1,10 +1,10 @@
 ---
-title: Windows
-date of creation: 2025-04-11T21:47:00
+title: IPv6
+date of creation: 2025-04-11T21:56:00
 tags: 
 read status: false
 completion status: false
 aliases:
 ---
-# Windows
+# IPv6
 ---

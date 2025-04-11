@@ -6,6 +6,7 @@ tags:
   - Terminology
   - Web/Terminology
   - Internet
+  - IT
   - IT/WEB
 read status: true
 completion status: false
