@@ -1,10 +1,10 @@
 ---
-title: GPS
-date of creation: 2025-04-13T01:20:00
+title: SSL
+date of creation: 2025-04-13T01:22:00
 tags: 
 read status: false
 completion status: false
 aliases:
 ---
-# GPS
+# SSL
 ---

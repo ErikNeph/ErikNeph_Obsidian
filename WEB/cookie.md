@@ -10,6 +10,9 @@ tags:
 read status: false
 aliases:
   - Cookie-файлы
+  - cookies
+  - Cookies
+  - Cookie
 ---
 ---
 # cookie
@@ -24,7 +27,6 @@ aliases:
 - дату и время посещения сайта;
 - версию [[OC|ОС]] и браузера;
 - клики и переходы.
-
 
 
 ## Как работают cookies
