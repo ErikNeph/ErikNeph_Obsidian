@@ -140,7 +140,7 @@
   "minimal-advanced@@font-ui-small": 14,
   "minimal-advanced@@font-ui-smaller": 12,
   "encore-settings@@theme-dark": "encore-theme-dark",
-  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@encore-translucency-strength": 0.25,
   "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
   "shiba-theme-settings@@shiba-accent-style": true,
@@ -153,5 +153,10 @@
   "shiba-theme-settings@@shiba-toggle-indent-colors": false,
   "shiba-theme-settings@@shiba-toggle-indent-colors-accent": false,
   "shiba-theme-settings@@shib-hide-scrollbars": false,
-  "shiba-theme-settings@@shib-styled-scrollbars": true
+  "shiba-theme-settings@@shib-styled-scrollbars": true,
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-disable-grain": false,
+  "encore-settings@@encore-disable-clickability-fix": false,
+  "encore-settings@@encore-disable-logo-on-hr": false,
+  "encore-settings@@encore-highlight-border": false
 }
