@@ -1,11 +1,11 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Encore",
+  "cssTheme": "Things",
   "baseFontSize": 17,
   "interfaceFontFamily": "JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
   "textFontFamily": "OverpassM Nerd Font Mono,Overpass Mono,Inter,JetBrains Mono,Fira Mono,Roboto Mono,Cascadia Mono,Spectral",
-  "monospaceFontFamily": "Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
+  "monospaceFontFamily": "JetBrains Mono,Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
   "nativeMenus": false,
   "baseFontSizeAction": false,
   "showRibbon": true
