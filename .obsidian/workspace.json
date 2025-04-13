@@ -95,7 +95,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -248,9 +249,11 @@
   },
   "active": "01e89dce8f9dcd4b",
   "lastOpenFiles": [
+    "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
+    "Roadmap/Направления в Python в формате PlantUML.md",
+    "AWS.md",
     "WEB/Идентификация.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
-    "Roadmap/Направления в Python в формате PlantUML.md",
     "WEB/Авторизация.md",
     "WEB/Аутентификация.md",
     "WEB/Токен.md",
@@ -274,7 +277,6 @@
     "WEB/IPv6.md",
     "WEB/IPv4.md",
     "WEB/URI.md",
-    "WEB/URL.md",
     "Desktop OS/MacOS",
     "WEB/WEB pictures/URN_diagram.jpg",
     "WEB/WEB pictures/URI_diagram.jpg",

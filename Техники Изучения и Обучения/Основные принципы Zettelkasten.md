@@ -7,7 +7,10 @@ tags:
   - Obsidian
   - MetaLearning
 read status: true
+completion status: true
 aliases:
+  - Zettelkasten
+  - Метод Zettelkasten
 ---
 ---
 # **Основные принципы Zettelkasten**
