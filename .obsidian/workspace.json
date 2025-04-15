@@ -40,9 +40,24 @@
               "icon": "lucide-file",
               "title": "Направления в Python в формате PlantUML"
             }
+          },
+          {
+            "id": "4718dc9564c689b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/FastAPI/FastAPI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,8 +261,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01e89dce8f9dcd4b",
+  "active": "4718dc9564c689b7",
   "lastOpenFiles": [
+    "WEB/GET-метод.md",
+    "Python/FastAPI/FastAPI.md",
+    "WEB/POST-метод.md",
+    "WEB/OpenAPI.md",
+    "Python/Python Libraries/Pydantic.md",
+    "Roadmap/Направления в Python в формате PlantUML.md",
+    "Python/FastAPI",
+    "Python/Python Frameworks/Pandas.md",
     "Книги/IT-Books/Чистый код для продолжающих.md",
     "Python/Python Base/Python.md",
     "Obsidian Templates/Шаблон для книги.md",
@@ -263,18 +286,11 @@
     "Книги/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Terminals/Полезные команды в PowerShell7.md",
     "Python/Python Standard Libraries/random.md",
-    "Roadmap/Направления в Python в формате PlantUML.md",
     "README.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
     "Daily/2024-06-25.md",
     "Daily/2024-05-25.md",
     "Daily/2024-05-27.md",
-    "Daily/2024-05-29.md",
-    "Daily/2024-06-24.md",
-    "Цитаты/Цитаты об образовании и психологии.md",
-    "CI_CD.md",
-    "AWS.md",
-    "WEB/Идентификация.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",
     "Desktop OS/MacOS",
@@ -296,7 +312,6 @@
     "Знаменитые люди/Картинки знаменитых людей",
     "Алгоритмы",
     "Computer Science/Алгоритмы",
-    "Python/Python Problems",
     "CSS3/ID и классы в CSS.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Логика/Формальная логика диаграмма.canvas",

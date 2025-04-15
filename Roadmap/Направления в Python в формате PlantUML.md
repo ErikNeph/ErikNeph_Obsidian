@@ -71,7 +71,7 @@ aliases:
 
 **План действий:**
 
-1. Установи numpy, pandas, [[matplotlib]] (pip install).
+1. Установи numpy, [[pandas]], [[matplotlib]] (pip install).
 2. Начни с [[NumPy]]: массивы и простые вычисления.
 3. Перейди к [[Pandas]]: работа с таблицами.
 4. Освой визуализацию с [[Matplotlib]]/Seaborn.
