@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/FastAPI/FastAPI.md",
+                "file": "Python/Python Base/Функция print() в Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FastAPI"
+              "title": "Функция print() в Python"
             }
           }
         ],
@@ -110,7 +110,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -263,8 +264,11 @@
   },
   "active": "4718dc9564c689b7",
   "lastOpenFiles": [
-    "WEB/GET-метод.md",
+    "PHP/Функции и объекты PHP.md",
+    "Python/Python Base/Функция print() в Python.md",
     "Python/FastAPI/FastAPI.md",
+    "Цитаты/Цитаты об образовании и психологии.md",
+    "WEB/GET-метод.md",
     "WEB/POST-метод.md",
     "WEB/OpenAPI.md",
     "Python/Python Libraries/Pydantic.md",
@@ -288,9 +292,6 @@
     "Python/Python Standard Libraries/random.md",
     "README.md",
     "Техники Изучения и Обучения/Основные принципы Zettelkasten.md",
-    "Daily/2024-06-25.md",
-    "Daily/2024-05-25.md",
-    "Daily/2024-05-27.md",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",
     "Desktop OS/MacOS",
@@ -300,7 +301,7 @@
     "WEB/WEB pictures/URN_URL_URI_diagram.jpg",
     "WEB/WEB pictures/URN_diagramm.jpg",
     "WEB/WEB pictures/URI URL URN.png",
-    "Python/Python Frameworks/Как взаимодействует FastAPI.canvas",
+    "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Python/Python Standard Libraries",
     "Docker",
     "Python/Python Frameworks",

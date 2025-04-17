@@ -11,6 +11,7 @@ completion status: false
 documentation: https://fastapi.tiangolo.com/ru/
 aliases:
   - Fastapi
+  - fastapi
 ---
 # FastAPI
 ---
