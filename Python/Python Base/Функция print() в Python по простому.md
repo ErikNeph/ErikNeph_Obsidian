@@ -75,7 +75,7 @@ with open("log.txt", "w", encoding="utf-8") as f:
 
 **Пример:**
 
-```lua
+```python
 import time
 
 print("Загрузка", end="", flush=True)
