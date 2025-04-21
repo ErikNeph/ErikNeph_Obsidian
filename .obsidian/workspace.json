@@ -175,10 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python Base/Импорт это декоратор функции.md"
+                "file": "Psychology/Рефрейминг.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Импорт это декоратор функции"
+              "title": "Структура Рефрейминг"
             }
           },
           {
@@ -276,7 +279,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "390e6316c758ea03",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
     "Computer Science/Терминология Computer Science/Энтропия ПО.md",
     "Psychology/Рефрейминг.md",
