@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a46340056d92870e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta-Learning/Основные принципы Zettelkasten.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Основные принципы Zettelkasten"
-            }
-          },
-          {
-            "id": "01e89dce8f9dcd4b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap/Направления в Python в формате PlantUML.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Направления в Python в формате PlantUML"
-            }
-          },
-          {
             "id": "f820588448939b90",
             "type": "leaf",
             "pinned": true,
@@ -59,12 +25,27 @@
             }
           },
           {
+            "id": "537e13f1f2cccd52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
             "id": "117a94db3ba47f8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конкурентность.md",
+                "file": "Computer Science/Терминология Computer Science/Конкурентность.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -72,39 +53,9 @@
               "icon": "lucide-file",
               "title": "Конкурентность"
             }
-          },
-          {
-            "id": "390e6316c758ea03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Рефрейминг.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Рефрейминг"
-            }
-          },
-          {
-            "id": "dbef8ac74ece7df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Терминология Computer Science/Энтропия ПО.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Энтропия ПО"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -311,23 +261,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "117a94db3ba47f8e",
+  "active": "537e13f1f2cccd52",
   "lastOpenFiles": [
     "Python/Python Standard Libraries/asyncio.md",
+    "Computer Science/Терминология Computer Science/Конкурентность.md",
+    "README.md",
     "Computer Science/Терминология Computer Science/Энтропия ПО.md",
     "Psychology/Рефрейминг.md",
-    "Конкурентность.md",
-    "Computer Science/Терминология Computer Science/IO.md",
     "Meta-Learning/Основные принципы Zettelkasten.md",
+    "Roadmap/Направления в Python в формате PlantUML.md",
+    "Computer Science/Терминология Computer Science/IO.md",
     "Go",
     "Computer Science/Терминология Computer Science/Ревью кода.md",
     "Python/Python Base/Функция print() в Python по простому.md",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
-    "Roadmap/Направления в Python в формате PlantUML.md",
     "Computer Science/Терминология Computer Science/API.md",
     "WEB/IP адрес.md",
-    "Базы данных/СУБД.md",
-    "Базы данных/MariaDB - клон MySQL.md",
+    "Databases/СУБД.md",
+    "Databases/MariaDB - клон MySQL.md",
     "5.md",
     "Python/Python Base/Полезные стандартные модули на Python.md",
     "Python/Python Standard Libraries/re (библиотека на python).md",
@@ -340,7 +291,6 @@
     "csv (библиотека).md",
     "Computer Science/Форматы данных/CSV.md",
     "Python/Python Standard Libraries/collections.md",
-    "Python/Python Base/Основные типы данных в Python по простому.md",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Psychology",
     "DevOPS",
@@ -348,7 +298,7 @@
     "Career/Без названия",
     "Career",
     "Python/FastAPI",
-    "Книги/IT-Books/IT-Books pictures/Чистый код для продолжающих.jpg",
+    "Books/IT-Books/IT-Books pictures/Чистый код для продолжающих.jpg",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",
     "Desktop OS/MacOS",
@@ -362,10 +312,10 @@
     "Python/Python Standard Libraries",
     "Docker",
     "Testing/Схема работы Selenium.canvas",
-    "Книги/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
-    "Книги/IT-Books/IT-Books pictures/Сам себе программист.jpg",
+    "Books/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
+    "Books/IT-Books/IT-Books pictures/Сам себе программист.jpg",
     "CSS3/ID и классы в CSS.canvas",
-    "Логика/Формальная логика диаграмма.canvas",
+    "Logic/Формальная логика диаграмма.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
     "SQL SQLite3/Профессий для работы на SQL.canvas",
     "Untitled.canvas"
