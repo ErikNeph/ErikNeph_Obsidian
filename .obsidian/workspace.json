@@ -262,8 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "123193761585311a",
   "lastOpenFiles": [
+    "Python/Python Base/Python Base Pictures/как работает оператор await на диаграмме.jpg",
+    "Python/Python Base/Python Base Pictures",
     "Python/Python Standard Libraries/asyncio.md",
     "Python/Python Base/Основы синтаксиса async await и сопрограмм.md",
     "Computer Science/Терминология Computer Science/Конкурентность.md",
@@ -291,7 +293,6 @@
     "Meta-Learning/Техника Фейнмана.md",
     "Python/Python Standard Libraries/urllib.md",
     "Python/Python Standard Libraries/logging.md",
-    "Python/Python Standard Libraries/json (библиотека на python).md",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Psychology",
     "DevOPS",
@@ -311,7 +312,6 @@
     "WEB/WEB pictures/URI URL URN.png",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Python/Python Standard Libraries",
-    "Docker",
     "Testing/Схема работы Selenium.canvas",
     "Books/IT-Books/IT-Books pictures/Python к вершинам мастерства (2-е издание).jpg",
     "Books/IT-Books/IT-Books pictures/Сам себе программист.jpg",
