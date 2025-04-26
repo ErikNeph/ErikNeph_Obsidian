@@ -1,5 +1,5 @@
 ---
-title: Roadmap для подготовки к собеседованию на Middle+ или Senior Python Developer в Globerce Capital
+title: Roadmap для подготовки к собеседованию на Middle+ или Senior Python Developer
 date of creation: 2025-04-20T17:46:00
 tags:
   - "#Developing"
@@ -14,7 +14,7 @@ completion status: false
 aliases:
   - Подготовка к собеседованию на Middle Python Developer
 ---
-# Roadmap для подготовки к собеседованию на Middle+ или Senior Python Developer в Globerce Capital
+# Roadmap для подготовки к собеседованию на Middle+ или Senior Python Developer
 ---
 
 ## 1. Основы Python
@@ -43,39 +43,39 @@ aliases:
 
 - **Django**: ORM, маршрутизация, шаблоны.
     
-- **FastAPI**: создание API, асинхронность, валидация данных с Pydantic.
+- **FastAPI**: создание [[API]], асинхронность, валидация данных с [[Pydantic]].
     
-- **Django REST Framework (DRF)**: сериализаторы, вьюсеты, аутентификация, пагинация.
+- **Django REST Framework (DRF)**: сериализаторы, вьюсеты, [[аутентификация]], [[пагинация]].
     
 
 ### Практика:
 
-- Создай REST API на DRF (например, CRUD для ecommerce).
+- Создай [[REST API]] на [[DRF]] (например, [[CRUD]] для ecommerce).
     
-- Напиши асинхронное приложение на FastAPI (например, обработка заказов).
+- Напиши асинхронное приложение на [[FastAPI]] (например, обработка заказов).
     
 
 ## 3. Асинхронное программирование
 
 ### Что изучить:
 
-- Основы asyncio: async/await, корутины, цикл событий.
+- Основы asyncio: [[Основы синтаксиса async await и сопрограмм|async await]], [[asyncio|корутины]], цикл событий.
     
-- Асинхронные библиотеки: aiohttp, aiopg.
+- Асинхронные библиотеки: [[aiohttp]], [[aiopg]].
     
 
 ### Практика:
 
-- Реализуй асинхронный клиент для стороннего API (например, Telegram или платежной системы).
+- Реализуй асинхронный клиент для стороннего [[API]] (например, Telegram или платежной системы).
     
 
 ## 4. Базы данных
 
 ### Что изучить:
 
-- **PostgreSQL**: SQL-запросы, индексы, транзакции, оптимизация производительности.
+- **PostgreSQL**: [[SQL-запросы]], индексы, транзакции, оптимизация производительности.
     
-- Интеграция с Python: psycopg2, Django ORM.
+- Интеграция с Python: psycopg2, [[Django ORM]].
     
 
 ### Практика:
@@ -98,9 +98,9 @@ aliases:
 
 ### Практика:
 
-- Разверни приложение в Docker с Redis для кэширования.
+- Разверни приложение в [[Docker]] с [[Redis]] для кэширования.
     
-- Настрой очередь задач с RabbitMQ.
+- Настрой очередь задач с [[RabbitMQ]].
     
 
 ## 6. Микросервисная архитектура
@@ -121,9 +121,9 @@ aliases:
 
 ### Что изучить:
 
-- Unit-тестирование: unittest, pytest.
+- Unit-тестирование: [[unittest]], [[pytest]].
     
-- Мокирование зависимостей (например, с unittest.mock).
+- Мокирование зависимостей (например, с `unittest.mock`).
     
 
 ### Практика:
@@ -176,7 +176,7 @@ aliases:
 
 # Где искать информацию
 
-- **Документация**: Python, Django, FastAPI, DRF, Asyncio, PostgreSQL, Redis, RabbitMQ, Docker.
+- **Документация**: [[Python]], [[Django]], [[FastAPI]], [[DRF]], [[Asyncio]], [[PostgreSQL]], [[Redis]], [[RabbitMQ]], [[Docker]].
     
 - **Книги**:
     
