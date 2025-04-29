@@ -60,13 +60,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
+                "file": "Usefuls/Интересные интернет ресурсы и не только.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Моделирование длительных операции с помощью sleep"
+              "title": "Интересные интернет ресурсы и не только"
             }
           },
           {
@@ -75,13 +75,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/Индексация и срезы строк в Python.md",
+                "file": "Python/Python Base/Цикл for в Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Индексация и срезы строк в Python"
+              "title": "Цикл for в Python"
             }
           }
         ],
@@ -294,12 +294,19 @@
   },
   "active": "cd1502c7b9c01977",
   "lastOpenFiles": [
-    "Python/Python Standard Libraries/asyncio.md",
-    "Python/Python Base/Индексация и срезы строк в Python.md",
-    "Computer Science/Терминология Computer Science/CPU-bound.md",
+    "Python/Python Base/Условные конструкции if, elif, else на Python.md",
+    "Python/Python Base/Цикл for в Python.md",
     "Computer Science/Терминология Computer Science/Конкурентность.md",
-    "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
+    "Python/Python Standard Libraries/asyncio.md",
     "Python/Python Base/Основы синтаксиса async await и сопрограмм.md",
+    "Usefuls/Интересные интернет ресурсы и не только.md",
+    "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
+    "Logic/Формальная логика Аристотеля.md",
+    "Python/Python Base/Индексация и срезы строк в Python.md",
+    "Python/Python Standard Libraries/re (библиотека на python).md",
+    "Python/Python Standard Libraries/re.md",
+    "Computer Science/Терминология Computer Science/Регулярные выражения.md",
+    "Computer Science/Терминология Computer Science/CPU-bound.md",
     "Roadmap/Roadmap для подготовки к собеседованию на Middle+ или Senior Python Developer.md",
     "WEB/Веб-сервер.md",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма 2.jpg",
@@ -318,15 +325,8 @@
     "Computer Science/Терминология Computer Science/Энтропия ПО.md",
     "Psychology/Рефрейминг.md",
     "Meta-Learning/Основные принципы Zettelkasten.md",
-    "Roadmap/Направления в Python в формате PlantUML.md",
-    "Computer Science/Терминология Computer Science/IO.md",
     "Go",
-    "Computer Science/Терминология Computer Science/Ревью кода.md",
-    "Python/Python Base/Функция print() в Python по простому.md",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
-    "WEB/IP адрес.md",
-    "Databases/СУБД.md",
-    "Databases/MariaDB - клон MySQL.md",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Psychology",
     "DevOPS",

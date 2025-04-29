@@ -7,6 +7,7 @@ tags:
 read status: false
 completion status: false
 aliases:
+  - re
 ---
 # re (библиотека на python)
 ---

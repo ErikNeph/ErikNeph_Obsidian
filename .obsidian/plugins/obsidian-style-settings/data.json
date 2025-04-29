@@ -158,5 +158,7 @@
   "encore-settings@@encore-disable-grain": false,
   "encore-settings@@encore-disable-clickability-fix": false,
   "encore-settings@@encore-disable-logo-on-hr": false,
-  "encore-settings@@encore-highlight-border": false
+  "encore-settings@@encore-highlight-border": false,
+  "minimal-style@@hl2@@dark": "#FF0000",
+  "minimal-style@@hl2@@light": "#FF0000"
 }
