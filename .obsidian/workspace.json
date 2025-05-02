@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Base/Конкурентное выполнение запросов с помощью gather.md",
+                "file": "Testing/Виды тестирования.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Конкурентное выполнение запросов с помощью gather"
+              "title": "Виды тестирования"
             }
           },
           {
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:post",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,12 +292,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f405cdcc690d2ea",
+  "active": "117a94db3ba47f8e",
   "lastOpenFiles": [
-    "Python/Python Base/Основы синтаксиса async await и сопрограмм.md",
-    "Python/Python Standard Libraries/asyncio.md",
-    "Python/Python Base/Конкурентное выполнение запросов с помощью gather.md",
+    "Testing/Виды тестирования.md",
     "Computer Science/Терминология Computer Science/Конкурентность.md",
+    "Python/Python Base/Основы синтаксиса async await и сопрограмм.md",
+    "Testing/Юнит-тесты.md",
+    "Python/Python Base/Конкурентное выполнение запросов с помощью gather.md",
+    "Python/Python Standard Libraries/asyncio.md",
+    "WEB/POST-метод.md",
     "Usefuls/Интересные интернет ресурсы и не только.md",
     "Python/Python Base/Цикл for в Python.md",
     "Python/Python Base/Условные конструкции if, elif, else на Python.md",
@@ -322,9 +325,6 @@
     "Python/OOP/Конкурентная Обработка Данных.md",
     "Python/Python Base/GIL (Global Interpreter Lock).md",
     "Python/Python Base/CPython.md",
-    "README.md",
-    "Computer Science/Терминология Computer Science/Энтропия ПО.md",
-    "Psychology/Рефрейминг.md",
     "Go",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",

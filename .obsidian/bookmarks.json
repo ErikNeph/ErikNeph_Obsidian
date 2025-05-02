@@ -769,6 +769,13 @@
           "ctime": 1738488453600,
           "path": "Testing/Схема работы Selenium.canvas",
           "title": "Схема работы Selenium bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1746095682576,
+          "path": "Testing/Виды тестирования.md",
+          "subpath": "#Что следует и чего не следует делать в тестировании",
+          "title": "Что следует и чего не следует делать в тестировании bookmark"
         }
       ],
       "title": "Tests bookmarks"
