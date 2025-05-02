@@ -791,7 +791,7 @@
           "title": "Таблица VSCode горячие клавиши bookmark"
         }
       ],
-      "title": "IDE's and Text Editors bookmark"
+      "title": "IDE's and Text Editors bookmarks"
     },
     {
       "type": "group",
@@ -805,6 +805,19 @@
         }
       ],
       "title": "Meta Learning bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1746177465804,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1746177497857,
+          "path": "Usefuls/Как эффективно читать профессиональную литературу.md",
+          "title": "Как эффективно читать профессиональную литературу bookmark"
+        }
+      ],
+      "title": "Books bookmarks"
     }
   ]
 }
