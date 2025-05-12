@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"71e22a8b8b1716e4","type":"text","text":"Пользователь","x":-780,"y":-20,"width":200,"height":60,"color":"4"},
-		{"id":"5874d83c83769b6f","type":"text","text":"Браузер","x":-520,"y":-20,"width":145,"height":60,"color":"3"},
-		{"id":"4512c507c99b4a79","type":"text","text":"[[NGINX]]","x":-320,"y":-20,"width":125,"height":60,"color":"5"},
-		{"id":"8572b74c1493b379","type":"text","text":"[[uvicorn]]","x":-120,"y":-20,"width":145,"height":60,"color":"6"},
-		{"id":"7227aa7e0b11a2fe","type":"text","text":"[[Pydantic]]\n[[FastAPI]]\n[[Starlette]]","x":80,"y":-37,"width":160,"height":95,"color":"1"},
-		{"id":"93efee2427b8e55b","type":"text","text":"Бизнес логика ([[Python]])","x":300,"y":-20,"width":200,"height":60,"color":"#e4ff05"},
-		{"id":"b2f4a838118ce546","type":"text","text":"[[База данных]]","x":582,"y":-20,"width":185,"height":60,"color":"2"},
-		{"id":"ed2d42a6e2678374","type":"text","text":"[[Redis]]","x":582,"y":-97,"width":116,"height":60,"color":"2"},
-		{"id":"c945c5b4b38a9620","type":"text","text":"[[ClickHouse]]","x":582,"y":58,"width":171,"height":60,"color":"2"}
+		{"id":"b2f4a838118ce546","type":"text","text":"[[База данных]]","x":582,"y":-20,"width":218,"height":60,"color":"2"},
+		{"id":"ed2d42a6e2678374","type":"text","text":"[[Redis]]","x":582,"y":-97,"width":138,"height":60,"color":"2"},
+		{"id":"c945c5b4b38a9620","type":"text","text":"[[ClickHouse]]","x":582,"y":58,"width":171,"height":60,"color":"2"},
+		{"id":"71e22a8b8b1716e4","type":"text","text":"Пользователь","x":-820,"y":-20,"width":200,"height":60,"color":"4"},
+		{"id":"5874d83c83769b6f","type":"text","text":"Браузер","x":-560,"y":-20,"width":145,"height":60,"color":"3"},
+		{"id":"4512c507c99b4a79","type":"text","text":"[[NGINX]]","x":-360,"y":-20,"width":125,"height":60,"color":"5"},
+		{"id":"8572b74c1493b379","type":"text","text":"[[uvicorn]]","x":-180,"y":-20,"width":145,"height":60,"color":"6"},
+		{"id":"7227aa7e0b11a2fe","type":"text","text":"[[Pydantic]]\n[[FastAPI]]\n[[Starlette]]","x":80,"y":-52,"width":160,"height":125,"color":"1"},
+		{"id":"93efee2427b8e55b","type":"text","text":"Бизнес логика ([[Python]])","x":320,"y":-28,"width":200,"height":78,"color":"#e4ff05"}
 	],
 	"edges":[
 		{"id":"dc6e40151dbcc5cb","fromNode":"71e22a8b8b1716e4","fromSide":"right","toNode":"5874d83c83769b6f","toSide":"left","color":"4"},
