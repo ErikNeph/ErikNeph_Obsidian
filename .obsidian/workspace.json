@@ -25,6 +25,23 @@
             }
           },
           {
+            "id": "0f405cdcc690d2ea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Виды тестирования.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Виды тестирования"
+            }
+          },
+          {
             "id": "f820588448939b90",
             "type": "leaf",
             "pinned": true,
@@ -42,52 +59,48 @@
             }
           },
           {
-            "id": "0f405cdcc690d2ea",
+            "id": "8b80e98e9e7ddfdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Testing/Виды тестирования.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "System Design/Конфигурация из одного сервера.canvas",
+                "viewState": {
+                  "x": 480.833251953125,
+                  "y": 214.16672956943603,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Виды тестирования"
+              "icon": "lucide-layout-dashboard",
+              "title": "Конфигурация из одного сервера"
             }
           },
           {
-            "id": "1cb5effb07e52e54",
+            "id": "ed609963dbe15070",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Logic/Формальная логика Аристотеля.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Формальная логика Аристотеля"
+              "icon": "excalidraw-icon",
+              "title": "Конфигурация после добавления CDN и кэша.excalidraw"
             }
           },
           {
-            "id": "04c4deef0934d744",
+            "id": "66d06e0c61ad7c29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Python/FastAPI/JWT-токены в FastAPI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "JWT-токены в FastAPI"
+              "icon": "excalidraw-icon",
+              "title": "Конфигурация с веб-уровнем, не хранящим состояние.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,8 +153,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,16 +304,25 @@
       "command-palette:Открыть палитру команд": false,
       "random-note:Открыть случайную заметку": false,
       "audio-recorder:Начать/остановить запись": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "04c4deef0934d744",
+  "active": "66d06e0c61ad7c29",
   "lastOpenFiles": [
-    "Python/FastAPI/Как взаимодействует FastAPI.canvas",
-    "Python/FastAPI/JWT-токены в FastAPI.md",
-    "Logic/Формальная логика Аристотеля.md",
-    "Testing/Виды тестирования.md",
+    "System Design/Конфигурация из одного сервера.canvas",
+    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "WEB/IP-адрес.md",
+    "WEB/DNS.md",
     "Python/Python Standard Libraries/asyncio.md",
+    "Testing/Виды тестирования.md",
+    "Logic/Формальная логика Аристотеля.md",
+    "System Design",
+    "Без названия.md",
+    "Python/FastAPI/JWT-токены в FastAPI.md",
+    "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Career/Законы Каннингема и Паркинсона.md",
     "Python/Python Base/Основы синтаксиса async await и сопрограмм.md",
     "Logic/Формальная логика диаграмма.canvas",
@@ -318,14 +339,8 @@
     "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
     "Python/Python Base/Индексация и срезы строк в Python.md",
     "Python/Python Standard Libraries/re (библиотека на python).md",
-    "Python/Python Standard Libraries/re.md",
-    "Computer Science/Терминология Computer Science/Регулярные выражения.md",
-    "Computer Science/Терминология Computer Science/CPU-bound.md",
-    "Roadmap/Roadmap для подготовки к собеседованию на Middle+ или Senior Python Developer.md",
-    "WEB/Веб-сервер.md",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма 2.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма.jpg",
-    "Databases/Redis.md",
     "Python/Python Base/Python Base Pictures/поток выполнения кода со sleep диаграмма.jpg",
     "Python/Python Base/Python Base Pictures/как работает оператор await на диаграмме.jpg",
     "Python/Python Base/Python Base Pictures",
@@ -346,11 +361,9 @@
     "WEB/WEB pictures/URI_diagram.jpg",
     "WEB/WEB pictures/URL_diagramm.jpg",
     "WEB/WEB pictures/URN_URL_URI_diagram.jpg",
-    "Python/Python Standard Libraries",
     "Testing/Схема работы Selenium.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
-    "SQL SQLite3/Профессий для работы на SQL.canvas",
-    "Untitled.canvas"
+    "SQL SQLite3/Профессий для работы на SQL.canvas"
   ]
 }

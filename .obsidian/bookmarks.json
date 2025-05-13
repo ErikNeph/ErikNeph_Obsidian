@@ -818,6 +818,31 @@
         }
       ],
       "title": "Books bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1747137421181,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1747137453543,
+          "path": "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+          "title": "Диаграмма архитектуры веб сервиса с балансировщиком нагрузки bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1747137473751,
+          "path": "System Design/Конфигурация из одного сервера.canvas",
+          "title": "Конфигурация из одного сервера bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1747143225935,
+          "path": "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
+          "title": "Конфигурация после добавления CDN и кэша.excalidraw bookmark"
+        }
+      ],
+      "title": "System Design bookmarks"
     }
   ]
 }
