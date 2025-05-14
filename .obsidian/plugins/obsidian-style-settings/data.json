@@ -117,8 +117,6 @@
   "minimal-style@@bold-color@@dark": "#F7BA02",
   "minimal-style@@italic-color@@light": "#C5F800",
   "minimal-style@@italic-color@@dark": "#B9C719",
-  "minimal-style@@code-normal@@light": "#AD8A1E",
-  "minimal-style@@code-normal@@dark": "#C59113",
   "things-style@@h3-size": "1.3em",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
   "typomagical-text@@body-ligatures": false,
@@ -159,6 +157,6 @@
   "encore-settings@@encore-disable-clickability-fix": false,
   "encore-settings@@encore-disable-logo-on-hr": false,
   "encore-settings@@encore-highlight-border": false,
-  "minimal-style@@hl2@@dark": "#FF4D4D",
-  "minimal-style@@hl2@@light": "#FF4C4C"
+  "minimal-style@@hl2@@light": "#EEFF3B",
+  "minimal-style@@hl2@@dark": "#7C0000"
 }

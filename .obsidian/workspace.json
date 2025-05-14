@@ -76,19 +76,31 @@
             }
           },
           {
-            "id": "ed609963dbe15070",
+            "id": "aff1aece683b9104",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md"
+                "file": "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Конфигурация после добавления CDN и кэша.excalidraw"
+              "title": "Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw"
             }
           },
           {
-            "id": "66d06e0c61ad7c29",
+            "id": "e432328df694fb52",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Конфигурация веб сервиса с очередями.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Конфигурация веб сервиса с очередями.excalidraw"
+            }
+          },
+          {
+            "id": "dd19598cb2853ec5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -132,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:post",
+                "query": "file:CDN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -308,16 +320,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "66d06e0c61ad7c29",
+  "active": "e432328df694fb52",
   "lastOpenFiles": [
-    "System Design/Конфигурация из одного сервера.canvas",
-    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
-    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
     "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "WEB/Content Delivery Network (CDN).md",
+    "Testing/Виды тестирования.md",
+    "Python/Python Standard Libraries/asyncio.md",
+    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
+    "System Design/Конфигурация из одного сервера.canvas",
     "WEB/IP-адрес.md",
     "WEB/DNS.md",
-    "Python/Python Standard Libraries/asyncio.md",
-    "Testing/Виды тестирования.md",
     "Logic/Формальная логика Аристотеля.md",
     "System Design",
     "Без названия.md",
@@ -338,7 +352,6 @@
     "Python/Python Base/Условные конструкции if, elif, else на Python.md",
     "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
     "Python/Python Base/Индексация и срезы строк в Python.md",
-    "Python/Python Standard Libraries/re (библиотека на python).md",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма 2.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения кода со sleep диаграмма.jpg",
