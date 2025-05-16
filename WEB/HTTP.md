@@ -10,6 +10,7 @@ tags:
   - Web/Protocol
 read status: true
 aliases:
+  - http
 ---
 ---
 # HTTP

@@ -76,30 +76,6 @@
             }
           },
           {
-            "id": "aff1aece683b9104",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw"
-            }
-          },
-          {
-            "id": "e432328df694fb52",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Конфигурация веб сервиса с очередями.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Конфигурация веб сервиса с очередями.excalidraw"
-            }
-          },
-          {
             "id": "dd19598cb2853ec5",
             "type": "leaf",
             "state": {
@@ -110,9 +86,54 @@
               "icon": "excalidraw-icon",
               "title": "Конфигурация с веб-уровнем, не хранящим состояние.excalidraw"
             }
+          },
+          {
+            "id": "aff1aece683b9104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/REST API.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "REST API"
+            }
+          },
+          {
+            "id": "e6fdcb0a3bcc3aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/NoSQL/MongoDB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
+            }
+          },
+          {
+            "id": "7bccc435454dfc14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/SOAP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SOAP"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:CDN",
+                "query": "file:Redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -320,38 +341,39 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e432328df694fb52",
+  "active": "e6fdcb0a3bcc3aba",
   "lastOpenFiles": [
+    "Databases/NoSQL",
+    "Databases/SQL",
+    "WEB/REST API.md",
+    "Databases/NoSQL/MongoDB.md",
+    "WEB/SOAP.md",
+    "Databases/NoSQL/Redis.md",
+    "WEB/WSDL.md",
+    "WEB/HTTP.md",
+    "WEB/WWW (World Wide Web).md",
+    "Computer Science/Терминология Computer Science/API.md",
     "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
-    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
-    "WEB/Content Delivery Network (CDN).md",
-    "Testing/Виды тестирования.md",
-    "Python/Python Standard Libraries/asyncio.md",
-    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
     "System Design/Конфигурация из одного сервера.canvas",
-    "WEB/IP-адрес.md",
-    "WEB/DNS.md",
-    "Logic/Формальная логика Аристотеля.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "Databases/MySQL.md",
+    "Databases/MariaDB - клон MySQL.md",
+    "Databases/СУБД.md",
+    "Databases/Проектирование базы данных.md",
+    "Databases/Нормализация.md",
+    "Databases/Графы базы данных.md",
+    "SQLite3/Основные элементы реляционных баз данных.md",
+    "SQLite3/Операторы в SQL.md",
+    "SQLite3/Как делать запросы в SQL.md",
+    "SQLite3/Запросы, операторы, условия и ключевые слова.md",
+    "SQLite3/Резюме №4 - JOIN.md",
+    "System Design/Диаграмма новостной ленты.excalidraw.md",
+    "WEB/Content Delivery Network (CDN).md",
+    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
     "System Design",
-    "Без названия.md",
-    "Python/FastAPI/JWT-токены в FastAPI.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
-    "Career/Законы Каннингема и Паркинсона.md",
-    "Python/Python Base/Основы синтаксиса async await и сопрограмм.md",
     "Logic/Формальная логика диаграмма.canvas",
-    "Logic/Классическая формальная логика.md",
-    "Quotes/Цитаты об образовании и психологии.md",
-    "Python/Python Base/Цикл for в Python.md",
-    "Usefuls/Как эффективно читать профессиональную литературу.md",
-    "Computer Science/Терминология Computer Science/Конкурентность.md",
-    "Testing/Юнит-тесты.md",
-    "Python/Python Base/Конкурентное выполнение запросов с помощью gather.md",
-    "WEB/POST-метод.md",
-    "Usefuls/Интересные интернет ресурсы и не только.md",
-    "Python/Python Base/Условные конструкции if, elif, else на Python.md",
-    "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
-    "Python/Python Base/Индексация и срезы строк в Python.md",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма 2.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения кода со sleep диаграмма.jpg",
@@ -369,7 +391,6 @@
     "Books/IT-Books/IT-Books pictures/Чистый код для продолжающих.jpg",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",
-    "Desktop OS/MacOS",
     "WEB/WEB pictures/URN_diagram.jpg",
     "WEB/WEB pictures/URI_diagram.jpg",
     "WEB/WEB pictures/URL_diagramm.jpg",
@@ -377,6 +398,6 @@
     "Testing/Схема работы Selenium.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
-    "SQL SQLite3/Профессий для работы на SQL.canvas"
+    "SQLite3/Профессий для работы на SQL.canvas"
   ]
 }

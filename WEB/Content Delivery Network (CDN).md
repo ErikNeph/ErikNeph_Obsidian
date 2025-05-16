@@ -6,7 +6,7 @@ tags:
   - Web
   - Downloads
   - ProgrammingTerminology
-read status: false
+read status: true
 aliases:
   - CDN
 ---
