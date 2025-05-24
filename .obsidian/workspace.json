@@ -66,8 +66,8 @@
               "state": {
                 "file": "System Design/Конфигурация из одного сервера.canvas",
                 "viewState": {
-                  "x": 480.833251953125,
-                  "y": 214.16672956943603,
+                  "x": 499.16650390625,
+                  "y": 134.16672956943603,
                   "zoom": 0
                 }
               },
@@ -81,10 +81,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md"
+                "file": "System Design/Конфигурация веб сервиса с очередями.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Конфигурация с веб-уровнем, не хранящим состояние.excalidraw"
+              "title": "Конфигурация веб сервиса с очередями.excalidraw"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Redis",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -328,8 +328,25 @@
   },
   "active": "7bccc435454dfc14",
   "lastOpenFiles": [
-    "Desktop OS/UNIX_Linux/Зомби-процесс.md",
+    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "System Design/Диаграмма новостной ленты.excalidraw.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "System Design/Конфигурация из одного сервера.canvas",
     "WEB/Архитектурные стили в веб-разработке.md",
+    "Books/IT-Books/SQL Быстрое погружение.md",
+    "Books/IT-Books/Python - к вершинам мастерства (2-е издание).md",
+    "Books/IT-Books/Изучаем пайтон 3-е издание.md",
+    "Books/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
+    "Books/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
+    "Obsidian Templates/Шаблон для книги.md",
+    "Books/IT-Books/Сам себе программист.md",
+    "Books/IT-Books/Простой Python 2-е издание.md",
+    "WEB/REST API.md",
+    "WEB/URI.md",
+    "Testing/Пирамида тестирования.excalidraw.md",
+    "Testing/Тестовая пирамида Фаулера.md",
+    "Desktop OS/UNIX_Linux/Зомби-процесс.md",
     "WEB/Микросервисы.md",
     "WEB/OData.md",
     "WEB/SMTP.md",
@@ -338,25 +355,8 @@
     "WEB/SOAP.md",
     "Databases/SQL/Oracle.md",
     "Databases/SQL/MySQL.md",
-    "WEB/REST API.md",
-    "Databases/СУБД.md",
-    "Databases/SQL/PostgreSQL.md",
-    "Databases/SQL/Microsoft SQL Server.md",
-    "Databases/База данных.md",
-    "Databases/NoSQL/MongoDB.md",
     "Databases/NoSQL",
     "Databases/SQL",
-    "Databases/NoSQL/Redis.md",
-    "WEB/WSDL.md",
-    "WEB/HTTP.md",
-    "WEB/WWW (World Wide Web).md",
-    "Computer Science/Терминология Computer Science/API.md",
-    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Конфигурация из одного сервера.canvas",
-    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
-    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
-    "Databases/SQL/MariaDB - клон MySQL.md",
-    "Databases/Проектирование базы данных.md",
     "System Design",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Logic/Формальная логика диаграмма.canvas",

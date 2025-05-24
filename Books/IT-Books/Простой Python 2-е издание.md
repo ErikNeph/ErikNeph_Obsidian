@@ -3,7 +3,7 @@ title: Простой Python 2-е издание
 author: Билл Любанович
 authors: 
 date of creation: 2025-02-01T21:47:00
-date read: 
+date read: 2023-07-25
 ISBN: " 978-5-4461-1639-3"
 read status: true
 completion status: true
@@ -19,7 +19,7 @@ tags:
   - Books/Python
   - Books/Developing
 ---
-# Простой Python 2-е издание
+# Обложка
 
 ![[Простой Python 2-е издание.jpg]]
 - **Автор(ы)**: Билл Любанович
