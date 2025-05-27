@@ -100,6 +100,7 @@
           {
             "id": "7bccc435454dfc14",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -108,12 +109,25 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Архитектурные стили в веб-разработке"
             }
+          },
+          {
+            "id": "2c263e3c50c978ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Roadmap/Три навыка для роли стафф-разработчика.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Три навыка для роли стафф-разработчика.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -267,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python Base/Моделирование длительных операции с помощью sleep.md",
+                "file": "Roadmap/Три навыка для роли стафф-разработчика.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +291,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Моделирование длительных операции с помощью sleep"
+              "title": "Обратные ссылки для Три навыка для роли стафф-разработчика.excalidraw"
             }
           },
           {
@@ -321,15 +335,17 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "f885c94ce36156a8",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
-    "Databases/NoSQL/Redis.md",
-    "System Design/Промежуточный ограничитель трафика.excalidraw.md",
-    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
     "WEB/Архитектурные стили в веб-разработке.md",
+    "System Design/Промежуточный ограничитель трафика.excalidraw.md",
+    "Roadmap/Три навыка для роли стафф-разработчика.excalidraw.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
     "WEB/REST API.md",
-    "Usefuls/Как эффективно читать профессиональную литературу.md",
     "Python/Python Standard Libraries/asyncio.md",
+    "Databases/NoSQL/Redis.md",
+    "Usefuls/Как эффективно читать профессиональную литературу.md",
     "System Design/Конфигурация из одного сервера.canvas",
     "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
     "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
@@ -349,8 +365,6 @@
     "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
     "Testing/Виды тестирования.md",
     "System Design/Диаграмма новостной ленты.excalidraw.md",
-    "WEB/URI.md",
-    "Testing/Пирамида тестирования.excalidraw.md",
     "Databases/NoSQL",
     "Databases/SQL",
     "System Design",
