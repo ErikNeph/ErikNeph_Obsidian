@@ -1,13 +1,13 @@
 ---
 title: Python - к вершинам мастерства (2-е издание)
 author: Лусиану Рамальо
-authors: []
+authors: 
 date of creation: 2025-03-08T01:28:00
 date read: 2024-04-18
 ISBN: 978-5-97060-885-2
 read status: true
 completion status: true
-rating: 9.5/10
+rating: "9.5"
 icon: 📚
 publishing company: O'Reilly
 aliases:

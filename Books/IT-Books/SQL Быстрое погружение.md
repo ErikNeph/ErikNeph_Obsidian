@@ -3,10 +3,10 @@ title: SQL Быстрое погружение
 author: Уолтер Шилдс
 authors: 
 date of creation: 2025-02-01T21:30:00
-date read: 
+date read: 2023-02-16
 ISBN: 978-5-4461-1835-9
 read status: true
-rating: 8/10
+rating: "8"
 icon: 📚
 publishing company: ClydeBank Media
 aliases: 

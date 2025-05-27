@@ -7,7 +7,7 @@ date read: 2023-07-25
 ISBN: " 978-5-4461-1639-3"
 read status: true
 completion status: true
-rating: 7/10
+rating: "7"
 icon: 📚
 publishing company: O'Reilly
 aliases: 

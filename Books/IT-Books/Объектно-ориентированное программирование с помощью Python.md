@@ -1,11 +1,11 @@
 ---
 title: Объектно-ориентированное программирование с помощью Python
 author: Ирв Кальб
-authors: []
+authors: 
 date of creation: 2025-02-01T20:27:00
 ISBN: 978-5-04-186627-3
 read status: true
-rating: 8/10
+rating: "8"
 icon: 📚
 publishing company: no starch press
 aliases: 

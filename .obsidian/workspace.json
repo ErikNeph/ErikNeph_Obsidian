@@ -59,32 +59,27 @@
             }
           },
           {
-            "id": "8b80e98e9e7ddfdc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "System Design/Конфигурация из одного сервера.canvas",
-                "viewState": {
-                  "x": 499.16650390625,
-                  "y": 134.16672956943603,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Конфигурация из одного сервера"
-            }
-          },
-          {
             "id": "dd19598cb2853ec5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Конфигурация веб сервиса с очередями.excalidraw.md"
+                "file": "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Конфигурация веб сервиса с очередями.excalidraw"
+              "title": "Конфигурация с веб-уровнем, не хранящим состояние.excalidraw"
+            }
+          },
+          {
+            "id": "f885c94ce36156a8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Промежуточный ограничитель трафика.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Промежуточный ограничитель трафика.excalidraw"
             }
           },
           {
@@ -118,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -326,35 +321,36 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7bccc435454dfc14",
+  "active": "f885c94ce36156a8",
   "lastOpenFiles": [
+    "Databases/NoSQL/Redis.md",
+    "System Design/Промежуточный ограничитель трафика.excalidraw.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "WEB/Архитектурные стили в веб-разработке.md",
+    "WEB/REST API.md",
+    "Usefuls/Как эффективно читать профессиональную литературу.md",
+    "Python/Python Standard Libraries/asyncio.md",
+    "System Design/Конфигурация из одного сервера.canvas",
+    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
     "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
     "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Диаграмма новостной ленты.excalidraw.md",
-    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
-    "System Design/Конфигурация из одного сервера.canvas",
-    "WEB/Архитектурные стили в веб-разработке.md",
+    "Books/IT-Books/README суровые реалии разработчиков.md",
     "Books/IT-Books/SQL Быстрое погружение.md",
-    "Books/IT-Books/Python - к вершинам мастерства (2-е издание).md",
+    "Obsidian Templates/Шаблон для книги.md",
     "Books/IT-Books/Изучаем пайтон 3-е издание.md",
     "Books/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
     "Books/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
-    "Obsidian Templates/Шаблон для книги.md",
-    "Books/IT-Books/Сам себе программист.md",
     "Books/IT-Books/Простой Python 2-е издание.md",
-    "WEB/REST API.md",
+    "Books/IT-Books/Сам себе программист.md",
+    "Books/IT-Books/Теоретический минимум по Computer Science.md",
+    "Books/IT-Books/Чистый код для продолжающих.md",
+    "Books/IT-Books/Python - к вершинам мастерства (2-е издание).md",
+    "Books/IT-Books/IT-Books pictures/Без названия.md",
+    "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
+    "Testing/Виды тестирования.md",
+    "System Design/Диаграмма новостной ленты.excalidraw.md",
     "WEB/URI.md",
     "Testing/Пирамида тестирования.excalidraw.md",
-    "Testing/Тестовая пирамида Фаулера.md",
-    "Desktop OS/UNIX_Linux/Зомби-процесс.md",
-    "WEB/Микросервисы.md",
-    "WEB/OData.md",
-    "WEB/SMTP.md",
-    "WEB/GraphQL.md",
-    "WEB/gRPC.md",
-    "WEB/SOAP.md",
-    "Databases/SQL/Oracle.md",
-    "Databases/SQL/MySQL.md",
     "Databases/NoSQL",
     "Databases/SQL",
     "System Design",
@@ -379,7 +375,6 @@
     "WEB/WEB pictures/URN_diagram.jpg",
     "WEB/WEB pictures/URI_diagram.jpg",
     "WEB/WEB pictures/URL_diagramm.jpg",
-    "WEB/WEB pictures/URN_URL_URI_diagram.jpg",
     "Testing/Схема работы Selenium.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",

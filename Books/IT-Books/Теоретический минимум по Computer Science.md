@@ -6,7 +6,7 @@ date of creation: 2025-02-01T20:46:00
 date read: ""
 ISBN: 978-5-4461-0587-8
 read status: true
-rating: 9/10
+rating: "9"
 icon: 📚
 publishing company: code energy
 aliases: 
