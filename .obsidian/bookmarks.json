@@ -736,6 +736,12 @@
           "ctime": 1720942722922,
           "path": "Git/Основные команды Git.md",
           "title": "Основные команды Git bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1748432117683,
+          "path": "Git/12 - GIT commands.jpg",
+          "title": "12 - GIT commands.jpg bookmark"
         }
       ],
       "title": "Git bookmarks"

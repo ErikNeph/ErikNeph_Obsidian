@@ -74,6 +74,18 @@
             }
           },
           {
+            "id": "9115a10cfb898c72",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Docker/Образы и контейнеры Docker.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Образы и контейнеры Docker.excalidraw"
+            }
+          },
+          {
             "id": "fe20ff8cf6a3d8c4",
             "type": "leaf",
             "state": {
@@ -86,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,12 +306,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "04b14b24c68e33c7",
+  "active": "9115a10cfb898c72",
   "lastOpenFiles": [
-    "DevOPS/Kubernetes.md",
     "Docker/Docker.md",
-    "DevOPS/Ansible.md",
+    "Docker/Образы и контейнеры Docker.excalidraw.md",
     "Docker/Жизнь без docker и жизнь с docker.excalidraw.md",
+    "JavaScript/Node.js/NodeJS.md",
+    "Git/12 - GIT commands.jpg",
+    "DevOPS/Kubernetes.md",
+    "DevOPS/Ansible.md",
     "Жизнь.md",
     "Obsidian/test note.md",
     "Desktop OS/UNIX_Linux/Unix.md",
@@ -321,8 +336,6 @@
     "Books/IT-Books/SQL Быстрое погружение.md",
     "Obsidian Templates/Шаблон для книги.md",
     "Books/IT-Books/Изучаем пайтон 3-е издание.md",
-    "Books/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
-    "Books/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
     "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
     "Databases/NoSQL",
     "Databases/SQL",
@@ -347,7 +360,6 @@
     "WEB/WEB pictures/Модель OSI таблица.jpg",
     "WEB/WEB pictures/URN_diagram.jpg",
     "WEB/WEB pictures/URI_diagram.jpg",
-    "WEB/WEB pictures/URL_diagramm.jpg",
     "Testing/Схема работы Selenium.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
