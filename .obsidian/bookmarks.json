@@ -849,6 +849,19 @@
         }
       ],
       "title": "System Design bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1748423879947,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1748423917016,
+          "path": "Docker/Жизнь без docker и жизнь с docker.excalidraw.md",
+          "title": "Жизнь без docker и жизнь с docker.excalidraw bookmark"
+        }
+      ],
+      "title": "Docker bookmarks"
     }
   ]
 }
