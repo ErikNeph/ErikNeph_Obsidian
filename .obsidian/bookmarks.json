@@ -865,6 +865,24 @@
           "ctime": 1748423917016,
           "path": "Docker/Жизнь без docker и жизнь с docker.excalidraw.md",
           "title": "Жизнь без docker и жизнь с docker.excalidraw bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1748522222073,
+          "path": "Docker/Собираем образ Docker.excalidraw.md",
+          "title": "Собираем образ Docker.excalidraw bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1748522476586,
+          "path": "Docker/Ключевые концепции Docker.excalidraw.md",
+          "title": "Ключевые концепции Docker.excalidraw bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1748522498785,
+          "path": "Docker/Файл Dockerfile с пояснением.excalidraw.md",
+          "title": "Файл Dockerfile с пояснением.excalidraw bookmark"
         }
       ],
       "title": "Docker bookmarks"
