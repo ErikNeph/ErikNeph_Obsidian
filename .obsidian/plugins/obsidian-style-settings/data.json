@@ -76,7 +76,7 @@
   "aura@@cpt-accent": "var(--cpt-aura)",
   "aura@@aura-colorshemes-light": "aura-colorschemes-light-origin",
   "aura@@aura-colorshemes-dark": "default",
-  "aura@@aura-active-line": "aura-no-highlight",
+  "aura@@aura-active-line": "aura-active-line-highlight-border",
   "aura@@aura-neon-headings": false,
   "aura@@aura-callouts-select": "aura-callouts-block",
   "aura@@aura-callouts": true,
@@ -86,8 +86,6 @@
   "aura@@aura-rainbow-tags": true,
   "aura@@aura-layout-select": "aura-default-layout",
   "aura@@aura-disable-borders": true,
-  "aura@@aura-colorful-frame": false,
-  "aura@@aura-rainbow-folders": false,
   "aura@@aura-hide-status-bar": false,
   "aura@@aura-floating-status-bar": false,
   "aura@@aura-vault-name-toggle": false,
@@ -95,7 +93,7 @@
   "aura@@aura-scrollbar-toggle": false,
   "aura@@aura-toggle-metadata": false,
   "aura@@aura-tooltip-toggle": false,
-  "aura@@aura-neon-list": false,
+  "aura@@aura-neon-list": true,
   "aura@@italic-color": "rgb(var(--cpt-purple))",
   "things-style@@h2-color": "#650AE7",
   "things-style@@h2-underline": false,
@@ -158,5 +156,7 @@
   "encore-settings@@encore-disable-logo-on-hr": false,
   "encore-settings@@encore-highlight-border": false,
   "minimal-style@@hl2@@light": "#EEFF3B",
-  "minimal-style@@hl2@@dark": "#7C0000"
+  "minimal-style@@hl2@@dark": "#7C0000",
+  "aura@@cpt-marker-shadow": "rgb(var(--cpt-accent))",
+  "aura@@aura-rainbow-folders": false
 }

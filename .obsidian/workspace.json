@@ -61,17 +61,19 @@
           {
             "id": "48346e1ce9070d26",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Docker/Образы и контейнеры Docker.excalidraw.md"
+                "file": "Docker/Ключевые концепции Docker.excalidraw.md"
               },
+              "pinned": true,
               "icon": "excalidraw-icon",
-              "title": "Образы и контейнеры Docker.excalidraw"
+              "title": "Ключевые концепции Docker.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -279,35 +281,35 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7bccc435454dfc14",
+  "active": "48346e1ce9070d26",
   "lastOpenFiles": [
+    "Docker/Docker.md",
+    "Docker/Ключевые концепции Docker.excalidraw.md",
     "Docker/Образы и контейнеры Docker.excalidraw.md",
+    "MySQL/MySQL_PHP_JS_React_HTML5_CSS3/Введение в MySQL.md",
+    "Python/OOP_Simple/Простая терминология ООП (Python).md",
+    "Python/Python Base/Запуск программы python.exe.md",
+    "Python/Python Base/Дзен Python пояснение от Эла Свейгарта.md",
+    "Python/Python Base/Функция print() в Python по простому.md",
+    "WEB/Архитектурные стили в веб-разработке.md",
+    "WEB/Swagger.md",
     "WEB/IP-адрес.md",
     "WEB/IP адрес.md",
     "Usefuls/Интересные интернет ресурсы и не только.md",
     "Roadmap/Полезные ресурсы для программирования на Python.md",
     "Usefuls/Как эффективно читать профессиональную литературу.md",
-    "WEB/Swagger.md",
     "Roadmap/Три навыка для роли стафф-разработчика.excalidraw.md",
     "Career/CERN.md",
-    "WEB/Архитектурные стили в веб-разработке.md",
     "Python/Python Standard Libraries/asyncio.md",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
     "Docker/Жизнь без docker и жизнь с docker.excalidraw.md",
     "Docker/Запускаем контейнер Docker.excalidraw.md",
     "Docker/Собираем образ Docker.excalidraw.md",
     "Docker/Файл Dockerfile с пояснением.excalidraw.md",
     "Docker/Dockerfile.md",
-    "Docker/Docker.md",
     "Git/Git.md",
     "Databases/SQL/MySQL.md",
     "JavaScript/Node.js/NodeJS.md",
     "Git/12 - GIT commands.jpg",
-    "DevOPS/Kubernetes.md",
-    "DevOPS/Ansible.md",
-    "Жизнь.md",
-    "Obsidian/test note.md",
-    "Desktop OS/UNIX_Linux/Unix.md",
     "System Design/Конфигурация из одного сервера.canvas",
     "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
     "Databases/NoSQL",
@@ -336,6 +338,6 @@
     "Testing/Схема работы Selenium.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
-    "SQLite3/Профессий для работы на SQL.canvas"
+    "Databases/SQLite3/Профессий для работы на SQL.canvas"
   ]
 }
