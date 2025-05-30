@@ -75,7 +75,7 @@
   "aura-theme-settings@@aura-theme-dark": "aura-soft",
   "aura@@cpt-accent": "var(--cpt-aura)",
   "aura@@aura-colorshemes-light": "aura-colorschemes-light-origin",
-  "aura@@aura-colorshemes-dark": "default",
+  "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-origin",
   "aura@@aura-active-line": "aura-active-line-highlight-border",
   "aura@@aura-neon-headings": false,
   "aura@@aura-callouts-select": "aura-callouts-block",

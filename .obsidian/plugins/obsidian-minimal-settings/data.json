@@ -1,8 +1,8 @@
 {
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-macos-light",
-  "darkScheme": "minimal-macos-dark",
+  "lightScheme": "minimal-default-light",
+  "darkScheme": "minimal-dracula-dark",
   "editorFont": "Inter",
   "lineHeight": 2,
   "lineWidth": 40,
