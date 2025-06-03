@@ -37,24 +37,9 @@
               "icon": "excalidraw-icon",
               "title": "Ключевые концепции Docker.excalidraw"
             }
-          },
-          {
-            "id": "a8e3be220cc79f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,8 +247,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "a8e3be220cc79f44",
+  "active": "48346e1ce9070d26",
   "lastOpenFiles": [
+    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "Python/Framework Django/Архитектура в Django проектах.excalidraw.md",
+    "Python/Framework Django/DRF view.md",
+    "WEB/Celery.md",
+    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Конфигурация из одного сервера.canvas",
+    "Testing/Чек-лист тестирования.md",
+    "Testing/Очень странное письмо для отдела General Motors подразделения Pontiac.md",
+    "Python/Python Testing/pytest-фикстуры.md",
+    "README.md",
     "Docker/Ключевые концепции Docker.excalidraw.md",
     "Usefuls/Как эффективно читать профессиональную литературу.md",
     "Python/Python Standard Libraries/asyncio.md",
@@ -272,26 +267,16 @@
     "WEB/Согласованное хеширование.md",
     "Testing/Фикстуры.md",
     "Python/Python Testing/pytest.md",
-    "pytest-фикстуры.md",
     "WEB/JWT.md",
     "System Design/Промежуточный ограничитель трафика.excalidraw.md",
     "Testing/Пирамида тестирования.excalidraw.md",
     "Python/Framework Django/Django.md",
     "HTML5/HTML.md",
-    "Кэш.md",
+    "Computer Science/Терминология Computer Science/Кэш.md",
     "WEB/Ограничитель трафика.md",
     "Roadmap/Три навыка для роли стафф-разработчика.excalidraw.md",
     "Databases/ACID.md",
-    "WEB/Теорема CAP.excalidraw.md",
-    "WEB/HTTP.md",
-    "WEB/DoS-атаки.md",
-    "Computer Science/Алгоритмы/FIFO.md",
-    "Docker/Образы и контейнеры Docker.excalidraw.md",
-    "DevOPS/CI_CD.md",
-    "Testing/Системные тесты.md",
-    "Testing/Черный ящик (тестирование).md",
     "Git/12 - GIT commands.jpg",
-    "System Design/Конфигурация из одного сервера.canvas",
     "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
     "Databases/NoSQL",
     "Databases/SQL",
