@@ -14,6 +14,7 @@ aliases:
   - корутины на python
   - Сопрограммы на Python
   - Корутины на Python
+  - AsyncIO
 ---
 # asyncio
 ---
