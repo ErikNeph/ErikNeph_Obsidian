@@ -158,5 +158,7 @@
   "minimal-style@@hl2@@light": "#EEFF3B",
   "minimal-style@@hl2@@dark": "#7C0000",
   "aura@@cpt-marker-shadow": "rgb(var(--cpt-accent))",
-  "aura@@aura-rainbow-folders": false
+  "aura@@aura-rainbow-folders": false,
+  "obsidian-typewriter@@shrink-formatting": true,
+  "obsidian-typewriter@@active-line-highlight": true
 }

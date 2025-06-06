@@ -5,7 +5,7 @@
 		{"id":"7fedb040bd1bea75","type":"text","text":"# **.**","x":-406,"y":-320,"width":66,"height":60,"color":"4"},
 		{"id":"a65c039f80b366b7","type":"text","text":"```css\n.myclass {\n  font-style: bold;\n  font-size: 200%;\n}\n```","x":-546,"y":-159,"width":345,"height":135,"color":"4"},
 		{"id":"fdb09d7cc6b47ba7","type":"text","text":"# *#*","x":-859,"y":-320,"width":65,"height":60,"color":"1"},
-		{"id":"286cc9a603534962","type":"text","text":"```css\n\np, #idname, .classname { border-bottom:1px dotted orange; }\n```","x":-112,"y":-131,"width":605,"height":94,"color":"6"},
+		{"id":"286cc9a603534962","type":"text","text":"```css\n\np, #idname, .classname {\n  border-bottom: 1px dotted orange;\n}\n```","x":-112,"y":-131,"width":605,"height":94,"color":"6"},
 		{"id":"1c6558813320d895","type":"text","text":"```HTML\n\n<div id='myid'>Hello World!</div>\n```","x":-1029,"y":80,"width":405,"height":85,"color":"1"},
 		{"id":"0452889f2a4d2417","type":"text","text":"### [[Введение в CSS#Классы|Классы]]","x":-453,"y":-480,"width":160,"height":66,"color":"4"},
 		{"id":"6bdc576e1858ff5c","type":"text","text":"### [[Введение в CSS#Идентификаторы (ID)|Идентификаторы]](ID)","x":-981,"y":-480,"width":309,"height":60,"color":"1"},
