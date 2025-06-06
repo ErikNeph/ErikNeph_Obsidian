@@ -38,8 +38,7 @@
               "title": "Ключевые концепции Docker.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +246,17 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "48346e1ce9070d26",
+  "active": "117a94db3ba47f8e",
   "lastOpenFiles": [
-    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "Docker/Ключевые концепции Docker.excalidraw.md",
+    "Git/Основные команды Git.md",
+    "Git/12_команд_git.jpg",
+    "Git/12 - GIT commands.jpg",
+    "Usefuls/Как эффективно читать профессиональную литературу.md",
     "Python/Framework Django/Архитектура в Django проектах.excalidraw.md",
+    "Python/FastAPI/FastAPI.md",
+    "WEB/HTTP-методы.md",
+    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
     "Python/Framework Django/DRF view.md",
     "WEB/Celery.md",
     "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
@@ -259,8 +265,6 @@
     "Testing/Очень странное письмо для отдела General Motors подразделения Pontiac.md",
     "Python/Python Testing/pytest-фикстуры.md",
     "README.md",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
-    "Usefuls/Как эффективно читать профессиональную литературу.md",
     "Python/Python Standard Libraries/asyncio.md",
     "WEB/Архитектурные стили в веб-разработке.md",
     "WEB/Теорема CAP.md",
@@ -273,10 +277,6 @@
     "Python/Framework Django/Django.md",
     "HTML5/HTML.md",
     "Computer Science/Терминология Computer Science/Кэш.md",
-    "WEB/Ограничитель трафика.md",
-    "Roadmap/Три навыка для роли стафф-разработчика.excalidraw.md",
-    "Databases/ACID.md",
-    "Git/12 - GIT commands.jpg",
     "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
     "Databases/NoSQL",
     "Databases/SQL",
@@ -300,7 +300,6 @@
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",
     "WEB/WEB pictures/URN_diagram.jpg",
-    "WEB/WEB pictures/URI_diagram.jpg",
     "Testing/Схема работы Selenium.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
