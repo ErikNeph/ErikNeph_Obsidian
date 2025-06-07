@@ -14,6 +14,7 @@
 - Minimal Theme Settings
 - PlantUML
 - Excalidraw
+- Linter
 
 ## TODO
 ---
