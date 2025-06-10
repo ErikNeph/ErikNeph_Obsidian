@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "Shiba Inu",
   "baseFontSize": 17,
-  "interfaceFontFamily": "Roboto Mono,Fira Mono,Source Code Pro,JetBrains Mono,Spectral",
+  "interfaceFontFamily": "Roboto Mono,JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
   "textFontFamily": "Inter,OverpassM Nerd Font Mono,Overpass Mono,JetBrains Mono,Fira Mono,Roboto Mono,Cascadia Mono,Spectral",
   "monospaceFontFamily": "JetBrains Mono,Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
   "nativeMenus": false,

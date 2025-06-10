@@ -138,7 +138,7 @@
   "encore-settings@@theme-dark": "encore-theme-dark",
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@encore-translucency-strength": 0.25,
-  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
+  "shiba-theme-settings@@shiba-colors-theme-dark": "default-dark-theme",
   "shiba-theme-settings@@shiba-accent-style": true,
   "shiba-theme-settings@@shiba-accent-colors": "accent-violet",
   "shiba-theme-settings@@shiba-clutter-free-headings": false,
@@ -160,5 +160,6 @@
   "aura@@cpt-marker-shadow": "rgb(var(--cpt-accent))",
   "aura@@aura-rainbow-folders": false,
   "obsidian-typewriter@@shrink-formatting": true,
-  "obsidian-typewriter@@active-line-highlight": true
+  "obsidian-typewriter@@active-line-highlight": true,
+  "shiba-theme-settings@@link-underline-internal": false
 }
