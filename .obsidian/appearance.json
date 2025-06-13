@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Shiba Inu",
+  "cssTheme": "Everforest",
   "baseFontSize": 17,
-  "interfaceFontFamily": "Roboto Mono,JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
+  "interfaceFontFamily": "Inter,Roboto Mono,JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
   "textFontFamily": "Inter,OverpassM Nerd Font Mono,Overpass Mono,JetBrains Mono,Fira Mono,Roboto Mono,Cascadia Mono,Spectral",
   "monospaceFontFamily": "JetBrains Mono,Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
   "nativeMenus": false,
