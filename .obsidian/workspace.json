@@ -39,15 +39,18 @@
             }
           },
           {
-            "id": "65ae6b1944830070",
+            "id": "2826b94dbba98da8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Usefuls/Stalker best global mods.excalidraw.md"
+                "file": "Persons/Говард Филлипс Лавкрафт.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Stalker best global mods.excalidraw"
+              "icon": "lucide-file",
+              "title": "Говард Филлипс Лавкрафт"
             }
           }
         ],
@@ -259,10 +262,19 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "65ae6b1944830070",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
+    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
+    "Ideas/Теория о овцах и волках.excalidraw.md",
+    "Ideas",
     "Docker/Ключевые концепции Docker.excalidraw.md",
     "Usefuls/Stalker best global mods.excalidraw.md",
+    "Career/Как устроится на работу в CERN.md",
+    "Career/LHC.md",
+    "cdsweb.cern.ch.md",
+    "Career/CERN.md",
+    "Career/Эффект велосипедного сарая.md",
+    "Career/Продвижения вперед по карьерной лестнице для разработчика.md",
     "CSS3/Введение в CSS.md",
     "CSS3/Базовые CSS-свойства.md",
     "Testing/Пирамида тестирования.excalidraw.md",
@@ -280,14 +292,6 @@
     "Testing/Очень странное письмо для отдела General Motors подразделения Pontiac.md",
     "Meta-Learning/Цикл Колба.md",
     "Computer Science/Терминология Computer Science/Конкурентность.md",
-    "Computer Science/Терминология Computer Science/объектно-ориентированное программирование.md",
-    "Computer Science/Терминология Computer Science/Объектно-ориентированный анализ.md",
-    "Computer Science/Терминология Computer Science/Объектно-ориентированное проектирование.md",
-    "Computer Science/Терминология Computer Science/Оперативная память.md",
-    "Computer Science/Терминология Computer Science/Память в технике.md",
-    "Computer Science/Терминология Computer Science/Ревью кода.md",
-    "Computer Science/Терминология Computer Science/Регистры в компьютерах.md",
-    "Career/Законы Каннингема и Паркинсона.md",
     "Meta-Learning/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Logic/Формальная логика диаграмма.canvas",
@@ -311,7 +315,6 @@
     "DevOPS",
     "Cloud Storage",
     "Career/Без названия",
-    "Career",
     "Books/IT-Books/IT-Books pictures/Чистый код для продолжающих.jpg",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",

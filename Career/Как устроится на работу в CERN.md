@@ -5,8 +5,8 @@ tags:
   - Physics
   - Work
   - Career
-read status: false
-completion status: false
+read status: true
+completion status: true
 aliases:
   - Как попасть в CERN
 ---
