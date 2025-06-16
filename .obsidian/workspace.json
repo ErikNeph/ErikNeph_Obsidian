@@ -39,18 +39,15 @@
             }
           },
           {
-            "id": "2826b94dbba98da8",
+            "id": "562791ebb4c268d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Persons/Говард Филлипс Лавкрафт.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Usefuls/Stalker best global mods.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Говард Филлипс Лавкрафт"
+              "icon": "excalidraw-icon",
+              "title": "Stalker best global mods.excalidraw"
             }
           }
         ],
@@ -262,13 +259,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "2826b94dbba98da8",
+  "active": "562791ebb4c268d3",
   "lastOpenFiles": [
-    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
-    "Ideas/Теория о овцах и волках.excalidraw.md",
-    "Ideas",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
     "Usefuls/Stalker best global mods.excalidraw.md",
+    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
+    "Health and Medicines/Полезные коктейли.md",
+    "Health and Medicines/Полезные лекарства.md",
+    "PHP/Обработка форм.md",
+    "PHP/Массивы в PHP.md",
+    "PHP/Кратко о PHP.md",
+    "PHP/Выражения и управление процессом выполнения программы в PHP.md",
+    "PHP/Введение в PHP.md",
+    "PHP/PHP.md",
+    "PHP/Cookie-файлы, сессии и аутентификация.md",
+    "Docker/Ключевые концепции Docker.excalidraw.md",
+    "PHP/ReactPHP.md",
+    "Ideas/Теория о овцах и волках.excalidraw.md",
+    "Persons/Говард Филлипс Лавкрафт.md",
+    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
+    "Ideas",
     "Career/Как устроится на работу в CERN.md",
     "Career/LHC.md",
     "cdsweb.cern.ch.md",
@@ -279,19 +288,7 @@
     "CSS3/Базовые CSS-свойства.md",
     "Testing/Пирамида тестирования.excalidraw.md",
     "Без названия.md",
-    "Testing/Системные тесты.md",
     "Testing/Схема работы Selenium.canvas",
-    "Testing/Тестовая пирамида Фаулера.md",
-    "Testing/Фикстуры.md",
-    "Testing/Чек-лист тестирования.md",
-    "Testing/Черный ящик (тестирование).md",
-    "Testing/Юнит-тесты.md",
-    "Testing/Selenium.md",
-    "Testing/TDD.md",
-    "Testing/Виды тестирования.md",
-    "Testing/Очень странное письмо для отдела General Motors подразделения Pontiac.md",
-    "Meta-Learning/Цикл Колба.md",
-    "Computer Science/Терминология Computer Science/Конкурентность.md",
     "Meta-Learning/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Logic/Формальная логика диаграмма.canvas",
