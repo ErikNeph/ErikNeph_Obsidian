@@ -57,13 +57,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/Теорема CAP.md",
+                "file": "Psychology and Soft-Skills/Закон Конвея.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Теорема CAP"
+              "title": "Закон Конвея"
             }
           },
           {
@@ -287,10 +287,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "4a5ff04b407a0606",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
-    "System Design/Проектирования системы уведомлений.excalidraw.md",
     "WEB/Теорема CAP.md",
+    "Psychology and Soft-Skills/Закон Конвея.md",
+    "Usefuls/Интересные интернет ресурсы и не только.md",
+    "System Design/Проектирования системы уведомлений.excalidraw.md",
     "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
     "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
     "System Design/Диаграмма новостной ленты.excalidraw.md",
@@ -314,8 +316,6 @@
     "System Design/Конфигурация из одного сервера.canvas",
     "Computer Science/Терминология Computer Science/Мастштабируемость.md",
     "Databases/NoSQL/Amazon Dynamo.md",
-    "Usefuls/Stalker best global mods.excalidraw.md",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
@@ -336,7 +336,7 @@
     "Go",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
-    "Psychology",
+    "Psychology and Soft-Skills",
     "DevOPS",
     "Cloud Storage",
     "Career/Без названия",
