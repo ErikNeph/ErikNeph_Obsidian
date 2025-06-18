@@ -12,6 +12,7 @@ read status: false
 completion status: false
 aliases:
   - IP aдрес
+  - IP
 ---
 # IP-адрес
 ---

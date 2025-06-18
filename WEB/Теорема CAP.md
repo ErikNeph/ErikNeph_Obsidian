@@ -11,6 +11,8 @@ tags:
   - Developing
   - Backend
   - IT/Terminology
+  - Database
+  - Data
 read status: true
 completion status: true
 aliases:

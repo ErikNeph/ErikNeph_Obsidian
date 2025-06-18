@@ -52,18 +52,6 @@
             }
           },
           {
-            "id": "f55139176d493bdd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Принцип работы поискового робота.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Принцип работы поискового робота.excalidraw"
-            }
-          },
-          {
             "id": "4a5ff04b407a0606",
             "type": "leaf",
             "state": {
@@ -79,15 +67,15 @@
             }
           },
           {
-            "id": "5b6745aae1b727f0",
+            "id": "065f7aa7beeaeead",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md"
+                "file": "System Design/Проектирования системы уведомлений.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw"
+              "title": "Проектирования системы уведомлений.excalidraw"
             }
           }
         ],
@@ -299,12 +287,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "f55139176d493bdd",
+  "active": "4a5ff04b407a0606",
   "lastOpenFiles": [
-    "WEB/Поисковый робот.md",
+    "System Design/Проектирования системы уведомлений.excalidraw.md",
+    "WEB/Теорема CAP.md",
+    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "System Design/Диаграмма новостной ленты.excalidraw.md",
     "System Design/Принцип работы поискового робота.excalidraw.md",
     "System Design/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md",
-    "WEB/Теорема CAP.md",
+    "WEB/Поисковый робот.md",
+    "WEB/IP-адрес.md",
+    "WEB/IP.md",
     "System Design/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
     "WEB/Принцип работы поискового робота.excalidraw.md",
     "WEB/Ссылка.md",
@@ -318,16 +312,10 @@
     "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
     "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
     "System Design/Конфигурация из одного сервера.canvas",
-    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
-    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Диаграмма новостной ленты.excalidraw.md",
     "Computer Science/Терминология Computer Science/Мастштабируемость.md",
     "Databases/NoSQL/Amazon Dynamo.md",
     "Usefuls/Stalker best global mods.excalidraw.md",
     "Docker/Ключевые концепции Docker.excalidraw.md",
-    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
-    "Health and Medicines/Полезные коктейли.md",
-    "Health and Medicines/Полезные лекарства.md",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
