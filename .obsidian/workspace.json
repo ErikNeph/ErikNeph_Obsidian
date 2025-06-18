@@ -27,13 +27,11 @@
           {
             "id": "48346e1ce9070d26",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Docker/Ключевые концепции Docker.excalidraw.md"
               },
-              "pinned": true,
               "icon": "excalidraw-icon",
               "title": "Ключевые концепции Docker.excalidraw"
             }
@@ -51,6 +49,18 @@
               },
               "icon": "lucide-file",
               "title": "Поисковый робот"
+            }
+          },
+          {
+            "id": "f55139176d493bdd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Принцип работы поискового робота.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Принцип работы поискового робота.excalidraw"
             }
           },
           {
@@ -81,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,11 +299,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "f55139176d493bdd",
   "lastOpenFiles": [
+    "WEB/Поисковый робот.md",
+    "System Design/Принцип работы поискового робота.excalidraw.md",
     "System Design/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md",
     "WEB/Теорема CAP.md",
-    "WEB/Поисковый робот.md",
     "System Design/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
     "WEB/Принцип работы поискового робота.excalidraw.md",
     "WEB/Ссылка.md",
@@ -317,7 +328,6 @@
     "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
     "Health and Medicines/Полезные коктейли.md",
     "Health and Medicines/Полезные лекарства.md",
-    "PHP/Обработка форм.md",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",
