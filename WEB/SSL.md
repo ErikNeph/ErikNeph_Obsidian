@@ -9,12 +9,13 @@ tags:
   - Authentication
   - Web/Cryptography
   - Web-Security
+  - Abbreviation
 read status: true
 completion status: true
 aliases:
-  - SSL
   - SSL Secure Sockets Layer
   - Secure Sockets Layer
+  - SSL (Secure Sockets Layer)
 ---
 ---
 # SSL (Secure Sockets Layer)

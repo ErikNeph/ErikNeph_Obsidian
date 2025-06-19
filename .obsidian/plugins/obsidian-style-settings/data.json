@@ -161,5 +161,6 @@
   "aura@@aura-rainbow-folders": false,
   "obsidian-typewriter@@shrink-formatting": true,
   "obsidian-typewriter@@active-line-highlight": true,
-  "shiba-theme-settings@@link-underline-internal": false
+  "shiba-theme-settings@@link-underline-internal": false,
+  "royal-velvet@@inline-document-title-color": "doc-title-h1"
 }
