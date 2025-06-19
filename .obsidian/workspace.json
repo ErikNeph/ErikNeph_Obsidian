@@ -57,13 +57,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/SQL/PostgreSQL.md",
+                "file": "Ideas/Религия как политика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "Религия как политика"
             }
           },
           {
@@ -289,8 +289,13 @@
   },
   "active": "4a5ff04b407a0606",
   "lastOpenFiles": [
-    "().md",
     "Databases/SQL/PostgreSQL.md",
+    "Ideas/Религия как политика.md",
+    "R-деревья.md",
+    "System Design/Проектирования системы уведомлений.excalidraw.md",
+    "B-деревья.md",
+    "Docker/Dockerfile.md",
+    "().md",
     "Databases/Шардирование.md",
     "Databases/ACID.md",
     "Databases/Bloom.md",
@@ -310,11 +315,6 @@
     "Psychology and Soft-Skills/Рефрейминг.md",
     "Psychology and Soft-Skills/Закон Конвея.md",
     "Usefuls/Интересные интернет ресурсы и не только.md",
-    "WEB/Теорема CAP.md",
-    "System Design/Проектирования системы уведомлений.excalidraw.md",
-    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
-    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Диаграмма новостной ленты.excalidraw.md",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",

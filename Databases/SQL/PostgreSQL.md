@@ -6,8 +6,10 @@ tags:
   - Database
   - Developing
   - Backend
-  - Data
-  - Web/Data
+  - PostgreSQL
+  - Database/PostgreSQL
+  - СУБД
+  - РСУБД
 read status: true
 completion status: true
 aliases:

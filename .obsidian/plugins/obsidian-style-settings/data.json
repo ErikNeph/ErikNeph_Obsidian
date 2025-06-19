@@ -77,14 +77,14 @@
   "aura@@aura-colorshemes-light": "aura-colorschemes-light-origin",
   "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-origin",
   "aura@@aura-active-line": "aura-active-line-highlight-border",
-  "aura@@aura-neon-headings": false,
+  "aura@@aura-neon-headings": true,
   "aura@@aura-callouts-select": "aura-callouts-block",
   "aura@@aura-callouts": true,
   "aura@@aura-workspace-background": false,
   "aura@@aura-file-icons": true,
   "aura@@aura-folder-icons": true,
   "aura@@aura-rainbow-tags": true,
-  "aura@@aura-layout-select": "aura-default-layout",
+  "aura@@aura-layout-select": "aura-card-layout",
   "aura@@aura-disable-borders": true,
   "aura@@aura-hide-status-bar": false,
   "aura@@aura-floating-status-bar": false,
@@ -162,5 +162,9 @@
   "obsidian-typewriter@@shrink-formatting": true,
   "obsidian-typewriter@@active-line-highlight": true,
   "shiba-theme-settings@@link-underline-internal": false,
-  "royal-velvet@@inline-document-title-color": "doc-title-h1"
+  "royal-velvet@@inline-document-title-color": "doc-title-h1",
+  "aura@@list-marker-color": "rgb(var(--cpt-accent))",
+  "aura@@h1-font": "Rubik",
+  "aura@@aura-sliding-tabs": false,
+  "aura@@aura-colorful-frame": false
 }
