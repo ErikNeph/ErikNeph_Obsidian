@@ -32,8 +32,8 @@
               "state": {
                 "file": "Docker/Ключевые концепции Docker.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "excalidraw-icon",
+              "title": "Ключевые концепции Docker.excalidraw"
             }
           },
           {
@@ -82,19 +82,19 @@
             }
           },
           {
-            "id": "065f7aa7beeaeead",
+            "id": "044dc6940a0db883",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Проектирования системы уведомлений.excalidraw.md"
+                "file": "System Design/Жизненный цикл разработки ПО.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Проектирования системы уведомлений.excalidraw"
+              "title": "Жизненный цикл разработки ПО.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -302,16 +301,21 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "4a5ff04b407a0606",
+  "active": "4331295bb5b073ce",
   "lastOpenFiles": [
+    "System Design/Жизненный цикл разработки ПО.excalidraw.md",
+    "System Design/Диаграмма новостной ленты.excalidraw.md",
+    "System Design/SDLC.md",
     "Databases/Транзакция.md",
+    "Docker/Ключевые концепции Docker.excalidraw.md",
+    "System Design/Проектирования системы уведомлений.excalidraw.md",
     "Databases/ACID.md",
+    "PostgreSQL/Полезные команды psql.md",
+    "PostgreSQL",
     "Databases/SQL/PostgreSQL.md",
     "Ideas/Религия как политика.md",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
     "WEB/Поисковый робот.md",
     "R-деревья.md",
-    "System Design/Проектирования системы уведомлений.excalidraw.md",
     "B-деревья.md",
     "Docker/Dockerfile.md",
     "().md",
@@ -326,10 +330,6 @@
     "JIT-компиляция.md",
     "Computer Science/Форматы данных/JSON.md",
     "JavaScript/JS Base/JavaScript.md",
-    "WEB/SSL.md",
-    "WEB/Kerberos.md",
-    "SCRAM.md",
-    "Psychology and Soft-Skills/Рефрейминг.md",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
@@ -354,7 +354,6 @@
     "Psychology and Soft-Skills",
     "DevOPS",
     "Cloud Storage",
-    "Career/Без названия",
     "Books/IT-Books/IT-Books pictures/Чистый код для продолжающих.jpg",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "WEB/WEB pictures/Модель OSI таблица.jpg",

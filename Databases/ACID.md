@@ -6,8 +6,9 @@ tags:
   - Database
   - Rules
   - Terminology
+  - Abbreviation
 read status: true
-completion status: false
+completion status: true
 aliases:
   - ACID SQL
 ---
@@ -22,7 +23,7 @@ aliases:
 **Atomicity — Атомарность
 Consistency — Согласованность
 Isolation — Изолированность
-Durability — Надёжность**
+Durability — Долговечность (Надёжность)**
 
 - **Атомарность (Atomicity):**
     

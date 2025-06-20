@@ -898,6 +898,19 @@
         }
       ],
       "title": "Docker bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1750418902255,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750418915949,
+          "path": "PostgreSQL/Полезные команды psql.md",
+          "title": "Полезные команды psql bookmark"
+        }
+      ],
+      "title": "PostgreSQL bookmarks"
     }
   ]
 }
