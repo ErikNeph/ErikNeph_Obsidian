@@ -32,8 +32,8 @@
               "state": {
                 "file": "Docker/Ключевые концепции Docker.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Ключевые концепции Docker.excalidraw"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -57,13 +57,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Религия как политика.md",
+                "file": "Databases/SQL/PostgreSQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Религия как политика"
+              "title": "PostgreSQL"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:Postg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -289,15 +290,17 @@
   },
   "active": "4a5ff04b407a0606",
   "lastOpenFiles": [
-    "Databases/SQL/PostgreSQL.md",
+    "Databases/ACID.md",
     "Ideas/Религия как политика.md",
+    "Docker/Ключевые концепции Docker.excalidraw.md",
+    "WEB/Поисковый робот.md",
+    "Databases/SQL/PostgreSQL.md",
     "R-деревья.md",
     "System Design/Проектирования системы уведомлений.excalidraw.md",
     "B-деревья.md",
     "Docker/Dockerfile.md",
     "().md",
     "Databases/Шардирование.md",
-    "Databases/ACID.md",
     "Databases/Bloom.md",
     "Databases/BRIN.md",
     "Databases/RUM.md",
@@ -308,13 +311,11 @@
     "JIT-компиляция.md",
     "Computer Science/Форматы данных/JSON.md",
     "JavaScript/JS Base/JavaScript.md",
-    "WEB/Поисковый робот.md",
     "WEB/SSL.md",
     "WEB/Kerberos.md",
     "SCRAM.md",
     "Psychology and Soft-Skills/Рефрейминг.md",
     "Psychology and Soft-Skills/Закон Конвея.md",
-    "Usefuls/Интересные интернет ресурсы и не только.md",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",

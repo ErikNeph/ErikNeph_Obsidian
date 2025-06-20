@@ -3,9 +3,9 @@
   "theme": "obsidian",
   "cssTheme": "Aura",
   "baseFontSize": 17,
-  "interfaceFontFamily": "iA Writer Duo S,Inter,Roboto Mono,JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
-  "textFontFamily": "iA Writer Quattro S,Inter,OverpassM Nerd Font Mono,Overpass Mono,JetBrains Mono,Fira Mono,Roboto Mono,Cascadia Mono,Spectral",
-  "monospaceFontFamily": "iA Writer Mono S,JetBrains Mono,Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
+  "interfaceFontFamily": "Inter,iA Writer Duo S,Roboto Mono,JetBrains Mono,Fira Mono,Source Code Pro,Spectral",
+  "textFontFamily": "Inter,iA Writer Quattro S,OverpassM Nerd Font Mono,Overpass Mono,JetBrains Mono,Fira Mono,Roboto Mono,Cascadia Mono,Spectral",
+  "monospaceFontFamily": "JetBrains Mono,iA Writer Mono S,Roboto Mono,Source Code Pro,FiraCode Nerd Font Mono,Cascadia Code,Fira Mono",
   "nativeMenus": false,
   "baseFontSizeAction": false,
   "showRibbon": true
