@@ -11,7 +11,7 @@
 - Git
 - Beautitab
 - Style Settings
-- Minimal Theme Settings
+- Minimal Theme Settings (Для темы Minimal theme)
 - PlantUML
 - Excalidraw
 - Linter
