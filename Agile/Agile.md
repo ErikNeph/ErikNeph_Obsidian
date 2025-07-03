@@ -5,6 +5,8 @@ tags:
   - SoftSkills
   - Agile
   - IT
+  - IT/Managment
+  - ITManagment
 read status: true
 completion status: false
 aliases:
