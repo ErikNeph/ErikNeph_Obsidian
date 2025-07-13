@@ -11,6 +11,8 @@ read status: true
 completion status: false
 aliases:
   - AGILE
+  - Гибкая разработка
+  - гибкая разработка
 ---
 # Agile
 ---

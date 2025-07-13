@@ -110,21 +110,9 @@
               "icon": "lucide-file",
               "title": "Agile"
             }
-          },
-          {
-            "id": "dac4aa72d49bc647",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Usefuls/Stalker best global mods.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Stalker best global mods.excalidraw"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -332,21 +320,24 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "dac4aa72d49bc647",
+  "active": "7f52436644c5dc32",
   "lastOpenFiles": [
-    "Usefuls/Stalker best global mods.excalidraw.md",
+    "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
+    "Ideas/Религия как политика.md",
+    "Ideas/Теория о овцах и волках.excalidraw.md",
     "Agile/Agile.md",
-    "System Design/SDLC.md",
+    "Databases/ACID.md",
+    "WEB/Поисковый робот.md",
+    "System Design/Принцип работы поискового робота.excalidraw.md",
     "Databases/Транзакция.md",
+    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
+    "System Design/SDLC.md",
     "Psychology and Soft-Skills/Эффект Даннинга - Крюгера.md",
     "Psychology and Soft-Skills/Рефрейминг.md",
     "README.md",
     "Quotes/Цитаты о науке и компьютеров.md",
     "Meta-Learning/Цикл Колба.md",
     "System Design/Жизненный цикл разработки ПО.excalidraw.md",
-    "Databases/ACID.md",
-    "WEB/Поисковый робот.md",
-    "System Design/Принцип работы поискового робота.excalidraw.md",
     "Agile/Спринты в Agile.excalidraw.md",
     "Testing/Чек-лист тестирования.md",
     "Agile",
@@ -357,11 +348,8 @@
     "PostgreSQL/Полезные команды psql.md",
     "PostgreSQL",
     "Databases/SQL/PostgreSQL.md",
-    "Ideas/Религия как политика.md",
     "R-деревья.md",
     "B-деревья.md",
-    "Docker/Dockerfile.md",
-    "().md",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
