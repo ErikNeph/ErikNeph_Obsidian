@@ -110,9 +110,21 @@
               "icon": "lucide-file",
               "title": "Agile"
             }
+          },
+          {
+            "id": "372acb11546d2881",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/System Design Facebook messanger.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "System Design Facebook messanger.excalidraw"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -320,12 +332,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7f52436644c5dc32",
+  "active": "372acb11546d2881",
   "lastOpenFiles": [
+    "WEB/Аутентификация.md",
+    "System Design/System Design Facebook messanger.excalidraw.md",
+    "WEB/WebSocket.md",
+    "Agile/Agile.md",
     "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
     "Ideas/Религия как политика.md",
     "Ideas/Теория о овцах и волках.excalidraw.md",
-    "Agile/Agile.md",
     "Databases/ACID.md",
     "WEB/Поисковый робот.md",
     "System Design/Принцип работы поискового робота.excalidraw.md",
@@ -347,9 +362,6 @@
     "System Design/Проектирования системы уведомлений.excalidraw.md",
     "PostgreSQL/Полезные команды psql.md",
     "PostgreSQL",
-    "Databases/SQL/PostgreSQL.md",
-    "R-деревья.md",
-    "B-деревья.md",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
