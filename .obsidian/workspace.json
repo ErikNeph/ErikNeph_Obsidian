@@ -122,9 +122,21 @@
               "icon": "excalidraw-icon",
               "title": "System Design Facebook messanger.excalidraw"
             }
+          },
+          {
+            "id": "f8fcd7a36f36421a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -332,10 +344,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "372acb11546d2881",
+  "active": "f8fcd7a36f36421a",
   "lastOpenFiles": [
-    "WEB/Аутентификация.md",
     "System Design/System Design Facebook messanger.excalidraw.md",
+    "WEB/Аутентификация.md",
     "WEB/WebSocket.md",
     "Agile/Agile.md",
     "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
