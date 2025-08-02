@@ -52,6 +52,21 @@
             }
           },
           {
+            "id": "1b4dbf0b9d244c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Префиксное дерево"
+            }
+          },
+          {
             "id": "4a5ff04b407a0606",
             "type": "leaf",
             "state": {
@@ -122,21 +137,9 @@
               "icon": "excalidraw-icon",
               "title": "System Design Facebook messanger.excalidraw"
             }
-          },
-          {
-            "id": "f8fcd7a36f36421a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -344,21 +347,27 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "f8fcd7a36f36421a",
+  "active": "1b4dbf0b9d244c5e",
   "lastOpenFiles": [
+    "System Design/SDLC.md",
+    "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
+    "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
+    "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
+    "Computer Science/Computer Science pictures/Частотная таблица.jpg",
+    "Computer Science/Computer Science pictures/Диаграмма префиксного дерева.jpg",
+    "WEB/Веб-мониторинг.md",
+    "WEB/Поисковый робот.md",
     "System Design/System Design Facebook messanger.excalidraw.md",
+    "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
     "WEB/Аутентификация.md",
     "WEB/WebSocket.md",
     "Agile/Agile.md",
-    "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
     "Ideas/Религия как политика.md",
     "Ideas/Теория о овцах и волках.excalidraw.md",
     "Databases/ACID.md",
-    "WEB/Поисковый робот.md",
     "System Design/Принцип работы поискового робота.excalidraw.md",
     "Databases/Транзакция.md",
     "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
-    "System Design/SDLC.md",
     "Psychology and Soft-Skills/Эффект Даннинга - Крюгера.md",
     "Psychology and Soft-Skills/Рефрейминг.md",
     "README.md",
@@ -370,9 +379,6 @@
     "Agile",
     "Без названия.md",
     "System Design/Диаграмма новостной ленты.excalidraw.md",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
-    "System Design/Проектирования системы уведомлений.excalidraw.md",
-    "PostgreSQL/Полезные команды psql.md",
     "PostgreSQL",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
@@ -390,17 +396,13 @@
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма 2.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения программы диаграмма.jpg",
     "Python/Python Base/Python Base Pictures/поток выполнения кода со sleep диаграмма.jpg",
-    "Python/Python Base/Python Base Pictures/как работает оператор await на диаграмме.jpg",
     "Python/Python Base/Python Base Pictures",
     "Go",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Psychology and Soft-Skills",
     "DevOPS",
-    "Books/IT-Books/IT-Books pictures/Чистый код для продолжающих.jpg",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
-    "WEB/WEB pictures/Модель OSI таблица.jpg",
-    "WEB/WEB pictures/URN_diagram.jpg",
     "Databases/SQLite3/Профессий для работы на SQL.canvas"
   ]
 }
