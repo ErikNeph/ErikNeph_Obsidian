@@ -127,19 +127,22 @@
             }
           },
           {
-            "id": "372acb11546d2881",
+            "id": "30feba9fb2b36610",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Design/System Design Facebook messanger.excalidraw.md"
+                "file": "WEB/NTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "System Design Facebook messanger.excalidraw"
+              "icon": "lucide-file",
+              "title": "NTP"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -347,21 +350,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "1b4dbf0b9d244c5e",
+  "active": "30feba9fb2b36610",
   "lastOpenFiles": [
-    "System Design/SDLC.md",
+    "Usefuls/Как эффективно читать профессиональную литературу.md",
+    "WEB/NTP.md",
+    "Agile/Agile.md",
+    "WEB/UUID.md",
+    "System Design/System Design Facebook messanger.excalidraw.md",
     "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
+    "Python/OOP/Строки, сериализация и пути к файлам.md",
+    "System Design/SDLC.md",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
     "Computer Science/Computer Science pictures/Частотная таблица.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префиксного дерева.jpg",
     "WEB/Веб-мониторинг.md",
     "WEB/Поисковый робот.md",
-    "System Design/System Design Facebook messanger.excalidraw.md",
     "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
     "WEB/Аутентификация.md",
     "WEB/WebSocket.md",
-    "Agile/Agile.md",
     "Ideas/Религия как политика.md",
     "Ideas/Теория о овцах и волках.excalidraw.md",
     "Databases/ACID.md",
@@ -375,10 +382,7 @@
     "Meta-Learning/Цикл Колба.md",
     "System Design/Жизненный цикл разработки ПО.excalidraw.md",
     "Agile/Спринты в Agile.excalidraw.md",
-    "Testing/Чек-лист тестирования.md",
     "Agile",
-    "Без названия.md",
-    "System Design/Диаграмма новостной ленты.excalidraw.md",
     "PostgreSQL",
     "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
