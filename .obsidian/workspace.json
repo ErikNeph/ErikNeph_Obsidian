@@ -151,15 +151,15 @@
             }
           },
           {
-            "id": "124bbe9b03cd633a",
+            "id": "773fe586719a93e8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Google Drive system design простой вариант.excalidraw.md"
+                "file": "System Design/Google Drive system design расширенная версия.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Google Drive system design простой вариант.excalidraw"
+              "title": "Google Drive system design расширенная версия.excalidraw"
             }
           }
         ],
@@ -371,10 +371,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "124bbe9b03cd633a",
+  "active": "773fe586719a93e8",
   "lastOpenFiles": [
     "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
+    "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
+    "System Design/Google Drive system design расширенная версия.excalidraw.md",
     "System Design/Google Drive system design простой вариант.excalidraw.md",
+    "WEB/Amazon S3.md",
     "System Design/System Design Facebook messanger.excalidraw.md",
     "System Design/SDLC.md",
     "System Design/Жизненный цикл разработки ПО.excalidraw.md",
@@ -382,7 +385,6 @@
     "Roadmap/Направления в Python в формате PlantUML.md",
     "DevOPS/CI_CD.md",
     "Computer Science/Форматы данных/BLOB (Binary Large Object).md",
-    "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
     "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
     "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
     "Agile/Agile.md",
@@ -401,8 +403,6 @@
     "WEB/Аутентификация.md",
     "WEB/WebSocket.md",
     "Ideas/Религия как политика.md",
-    "Ideas/Теория о овцах и волках.excalidraw.md",
-    "Databases/ACID.md",
     "Agile",
     "PostgreSQL",
     "System Design/Конфигурация из одного сервера.canvas",
