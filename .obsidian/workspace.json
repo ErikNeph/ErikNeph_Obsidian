@@ -137,9 +137,21 @@
               "icon": "excalidraw-icon",
               "title": "Три навыка для роли стафф-разработчика.excalidraw"
             }
+          },
+          {
+            "id": "e31a0023800b5918",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Youtube system design процесс загрузки видео.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Youtube system design процесс загрузки видео.excalidraw"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -347,10 +359,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7e182fb41f174f25",
+  "active": "e31a0023800b5918",
   "lastOpenFiles": [
-    "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
+    "Computer Science/Форматы данных/BLOB (Binary Large Object).md",
+    "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
     "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
+    "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
+    "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
     "Agile/Agile.md",
     "System Design/SDLC.md",
     "WEB/NTP.md",
@@ -358,7 +373,6 @@
     "Usefuls/Как эффективно читать профессиональную литературу.md",
     "WEB/UUID.md",
     "System Design/System Design Facebook messanger.excalidraw.md",
-    "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
     "Python/OOP/Строки, сериализация и пути к файлам.md",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
@@ -377,8 +391,6 @@
     "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
     "Psychology and Soft-Skills/Эффект Даннинга - Крюгера.md",
     "Psychology and Soft-Skills/Рефрейминг.md",
-    "README.md",
-    "Quotes/Цитаты о науке и компьютеров.md",
     "Agile",
     "PostgreSQL",
     "System Design/Конфигурация из одного сервера.canvas",
