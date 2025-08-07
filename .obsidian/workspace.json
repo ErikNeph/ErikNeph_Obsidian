@@ -149,9 +149,21 @@
               "icon": "excalidraw-icon",
               "title": "Youtube system design процесс загрузки видео.excalidraw"
             }
+          },
+          {
+            "id": "124bbe9b03cd633a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Google Drive system design простой вариант.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Google Drive system design простой вариант.excalidraw"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -359,20 +371,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e31a0023800b5918",
+  "active": "124bbe9b03cd633a",
   "lastOpenFiles": [
-    "Computer Science/Форматы данных/BLOB (Binary Large Object).md",
     "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
+    "System Design/Google Drive system design простой вариант.excalidraw.md",
+    "System Design/System Design Facebook messanger.excalidraw.md",
+    "System Design/SDLC.md",
+    "System Design/Жизненный цикл разработки ПО.excalidraw.md",
+    "Computer Science/Терминология Computer Science/Видео-кодек.md",
+    "Roadmap/Направления в Python в формате PlantUML.md",
+    "DevOPS/CI_CD.md",
+    "Computer Science/Форматы данных/BLOB (Binary Large Object).md",
     "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
     "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
     "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
     "Agile/Agile.md",
-    "System Design/SDLC.md",
     "WEB/NTP.md",
     "WEB/GPS.md",
     "Usefuls/Как эффективно читать профессиональную литературу.md",
     "WEB/UUID.md",
-    "System Design/System Design Facebook messanger.excalidraw.md",
     "Python/OOP/Строки, сериализация и пути к файлам.md",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
@@ -386,11 +403,6 @@
     "Ideas/Религия как политика.md",
     "Ideas/Теория о овцах и волках.excalidraw.md",
     "Databases/ACID.md",
-    "System Design/Принцип работы поискового робота.excalidraw.md",
-    "Databases/Транзакция.md",
-    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
-    "Psychology and Soft-Skills/Эффект Даннинга - Крюгера.md",
-    "Psychology and Soft-Skills/Рефрейминг.md",
     "Agile",
     "PostgreSQL",
     "System Design/Конфигурация из одного сервера.canvas",

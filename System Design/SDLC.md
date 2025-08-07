@@ -2,13 +2,14 @@
 title: SDLC
 date of creation: 2025-06-20T21:53:00
 tags:
-  - SystemDesign
-  - Architecture
   - Abbreviation
   - Terminology
   - IT/Terminology
   - IT
-  - SoftwareArchitecture
+  - Management
+  - ITManagement
+  - IT/Management
+  - Diagram
 read status: true
 completion status: true
 aliases:
