@@ -25,18 +25,6 @@
             }
           },
           {
-            "id": "48346e1ce9070d26",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Docker/Ключевые концепции Docker.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ключевые концепции Docker.excalidraw"
-            }
-          },
-          {
             "id": "4a5ff04b407a0606",
             "type": "leaf",
             "state": {
@@ -49,21 +37,6 @@
               },
               "icon": "lucide-file",
               "title": "ACID"
-            }
-          },
-          {
-            "id": "994733b250d11c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Транзакция.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Транзакция"
             }
           },
           {
@@ -97,18 +70,6 @@
             }
           },
           {
-            "id": "7e182fb41f174f25",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Career/Три навыка для роли стафф-разработчика.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Три навыка для роли стафф-разработчика.excalidraw"
-            }
-          },
-          {
             "id": "e31a0023800b5918",
             "type": "leaf",
             "state": {
@@ -126,26 +87,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Как работает Backend (архитектура).57.excalidraw.md"
+                "file": "System Design/Как работает Backend (архитектура).excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Как работает Backend (архитектура).57.excalidraw"
-            }
-          },
-          {
-            "id": "773fe586719a93e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Google Drive system design расширенная версия.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Google Drive system design расширенная версия.excalidraw"
+              "title": "Как работает Backend (архитектура).excalidraw"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -353,44 +302,44 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "8d811d047603ed15",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
-    "Databases/SQL/SQL.md",
-    "System Design/Как работает Backend (архитектура).57.excalidraw.md",
-    "Databases/База данных.md",
     "System Design/Google Drive system design расширенная версия.excalidraw.md",
-    "Databases/NoSQL/NoSQL.md",
-    "Databases/ACID.md",
+    "System Design/Как работает Backend (архитектура).excalidraw.md",
     "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
-    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
+    "Databases/ACID.md",
     "Databases/Транзакция.md",
+    "Usefuls/Как эффективно читать профессиональную литературу.md",
+    "System Design/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md",
+    "System Design/Принцип работы поискового робота.excalidraw.md",
+    "System Design/Корпоративные блоги, посвященные проектированию.md",
+    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
+    "System Design/Конфигурация из одного сервера.canvas",
+    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "System Design/Жизненный цикл разработки ПО.excalidraw.md",
+    "System Design/Диаграмма новостной ленты.excalidraw.md",
+    "System Design/System Design.md",
     "Docker/Ключевые концепции Docker.excalidraw.md",
+    "System Design/SDLC.md",
+    "Agile/Agile.md",
+    "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
+    "Databases/SQL/SQL.md",
+    "Databases/База данных.md",
+    "Databases/NoSQL/NoSQL.md",
+    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
     "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
     "Books/IT-Books/Простой Python 2-е издание.md",
-    "Books/IT-Books/Изучаем пайтон 3-е издание.md",
-    "Books/IT-Books/System design Подготовка с сложному интервью.md",
-    "UML/Что такое UML-диаграммы.md",
-    "UML/Виды UML-диаграмм.md",
-    "System Design/System Design.md",
-    "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
-    "Books/IT-Books/Объектно-ориентированный Python (4-е изд.).md",
-    "Books/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
-    "WEB/Поисковый робот.md",
-    "System Design/Корпоративные блоги, посвященные проектированию.md",
-    "IT Companies/Uber.md",
-    "IT Companies/Netflix.md",
-    "IT Companies/Dropbox.md",
-    "IT Companies/Facebook.md",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
     "Computer Science/Computer Science pictures/Частотная таблица.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префиксного дерева.jpg",
     "Agile",
     "PostgreSQL",
-    "System Design/Конфигурация из одного сервера.canvas",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
     "Meta-Learning/Техника Фейнмана UML.canvas",

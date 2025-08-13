@@ -9,6 +9,8 @@ tags:
 read status: false
 completion status: false
 aliases:
+  - Архитектура системы
+  - Системная архитектура
 ---
 # System Design
 ---
