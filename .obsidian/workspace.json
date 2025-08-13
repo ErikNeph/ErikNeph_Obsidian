@@ -37,36 +37,6 @@
             }
           },
           {
-            "id": "562791ebb4c268d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/IT-Books/System design Подготовка с сложному интервью.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "System design Подготовка с сложному интервью"
-            }
-          },
-          {
-            "id": "1b4dbf0b9d244c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Префиксное дерево"
-            }
-          },
-          {
             "id": "4a5ff04b407a0606",
             "type": "leaf",
             "state": {
@@ -151,6 +121,18 @@
             }
           },
           {
+            "id": "8d811d047603ed15",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Как работает Backend (архитектура).57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Как работает Backend (архитектура).57.excalidraw"
+            }
+          },
+          {
             "id": "773fe586719a93e8",
             "type": "leaf",
             "state": {
@@ -163,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -220,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5086555480957,
-    "collapsed": true
+    "width": 438.5086555480957
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -371,11 +352,21 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "562791ebb4c268d3",
+  "active": "8d811d047603ed15",
   "lastOpenFiles": [
-    "UML/Что такое UML-диаграммы.md",
-    "Books/IT-Books/System design Подготовка с сложному интервью.md",
+    "System Design/Google Drive system design расширенная версия.excalidraw.md",
+    "System Design/Как работает Backend (архитектура).57.excalidraw.md",
+    "Databases/NoSQL/NoSQL.md",
+    "Databases/ACID.md",
+    "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
+    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
+    "Databases/Транзакция.md",
+    "Docker/Ключевые концепции Docker.excalidraw.md",
     "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
+    "Books/IT-Books/Простой Python 2-е издание.md",
+    "Books/IT-Books/Изучаем пайтон 3-е издание.md",
+    "Books/IT-Books/System design Подготовка с сложному интервью.md",
+    "UML/Что такое UML-диаграммы.md",
     "UML/Виды UML-диаграмм.md",
     "System Design/System Design.md",
     "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
@@ -390,18 +381,8 @@
     "IT Companies/Netflix.md",
     "IT Companies/Dropbox.md",
     "IT Companies/Facebook.md",
-    "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
-    "System Design/Google Drive system design расширенная версия.excalidraw.md",
     "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
     "System Design/Google Drive system design простой вариант.excalidraw.md",
-    "WEB/Amazon S3.md",
-    "System Design/System Design Facebook messanger.excalidraw.md",
-    "System Design/SDLC.md",
-    "System Design/Жизненный цикл разработки ПО.excalidraw.md",
-    "Computer Science/Терминология Computer Science/Видео-кодек.md",
-    "Roadmap/Направления в Python в формате PlantUML.md",
-    "DevOPS/CI_CD.md",
-    "Computer Science/Форматы данных/BLOB (Binary Large Object).md",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
     "Computer Science/Computer Science pictures/Частотная таблица.jpg",
