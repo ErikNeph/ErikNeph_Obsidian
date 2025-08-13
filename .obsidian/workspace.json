@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5086555480957
+    "width": 438.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5d14b664610aa5b1",
@@ -354,8 +355,10 @@
   },
   "active": "8d811d047603ed15",
   "lastOpenFiles": [
-    "System Design/Google Drive system design расширенная версия.excalidraw.md",
+    "Databases/SQL/SQL.md",
     "System Design/Как работает Backend (архитектура).57.excalidraw.md",
+    "Databases/База данных.md",
+    "System Design/Google Drive system design расширенная версия.excalidraw.md",
     "Databases/NoSQL/NoSQL.md",
     "Databases/ACID.md",
     "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
@@ -381,8 +384,6 @@
     "IT Companies/Netflix.md",
     "IT Companies/Dropbox.md",
     "IT Companies/Facebook.md",
-    "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
-    "System Design/Google Drive system design простой вариант.excalidraw.md",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
     "Computer Science/Computer Science pictures/Частотная таблица.jpg",
