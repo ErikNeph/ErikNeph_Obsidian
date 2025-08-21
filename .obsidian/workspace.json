@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:CAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,6 +290,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -302,11 +303,19 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "8d811d047603ed15",
   "lastOpenFiles": [
-    "System Design/Google Drive system design расширенная версия.excalidraw.md",
-    "System Design/Как работает Backend (архитектура).excalidraw.md",
     "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
+    "System Design/Как работает Backend (архитектура).excalidraw.md",
+    "Math/Математика для программирования/Транзитивность.md",
+    "Python/FastAPI/Как взаимодействует FastAPI.canvas",
+    "Git/12 - GIT commands.jpg",
+    "Без названия.base",
+    "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
+    "WEB/Теорема CAP.md",
+    "WEB/Теорема CAP.excalidraw.md",
+    "Agile/Agile.md",
+    "System Design/Google Drive system design расширенная версия.excalidraw.md",
     "Databases/ACID.md",
     "Databases/Транзакция.md",
     "Usefuls/Как эффективно читать профессиональную литературу.md",
@@ -323,14 +332,9 @@
     "System Design/System Design.md",
     "Docker/Ключевые концепции Docker.excalidraw.md",
     "System Design/SDLC.md",
-    "Agile/Agile.md",
-    "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
     "Databases/SQL/SQL.md",
     "Databases/База данных.md",
     "Databases/NoSQL/NoSQL.md",
-    "Ideas/25 отличий Иисуса от Мухаммеда. 25 Причин, почему Мухаммед, был ложным пророком!.md",
-    "Computer Science/Алгоритмы и структуры данных/Префиксное дерево.md",
-    "Books/IT-Books/Простой Python 2-е издание.md",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
@@ -346,18 +350,15 @@
     "CSS3/ID и классы в CSS.canvas",
     "Logic/Формальная логика диаграмма.canvas",
     "Git/12_команд_git.jpg",
-    "Git/12 - GIT commands.jpg",
     "Books/IT-Books/IT-Books pictures/The_missing_readme_picture.jpg",
     "Databases/NoSQL",
     "Databases/SQL",
     "System Design",
-    "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Python/Python Base/Python Base Pictures",
     "Go",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "Psychology and Soft-Skills",
-    "DevOPS",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Databases/SQLite3/Профессий для работы на SQL.canvas"
   ]
