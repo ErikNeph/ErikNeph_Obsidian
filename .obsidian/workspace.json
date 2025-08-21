@@ -85,12 +85,15 @@
             "id": "8d811d047603ed15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Design/Как работает Backend (архитектура).excalidraw.md"
+                "file": "System Design/Процесс Немаваси.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Как работает Backend (архитектура).excalidraw"
+              "icon": "lucide-file",
+              "title": "Процесс Немаваси"
             }
           }
         ],
@@ -305,8 +308,9 @@
   },
   "active": "8d811d047603ed15",
   "lastOpenFiles": [
-    "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
     "System Design/Как работает Backend (архитектура).excalidraw.md",
+    "System Design/Процесс Немаваси.md",
+    "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
     "Math/Математика для программирования/Транзитивность.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
@@ -334,7 +338,6 @@
     "System Design/SDLC.md",
     "Databases/SQL/SQL.md",
     "Databases/База данных.md",
-    "Databases/NoSQL/NoSQL.md",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
