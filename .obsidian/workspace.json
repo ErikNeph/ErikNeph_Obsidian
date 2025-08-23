@@ -87,13 +87,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Процесс Немаваси.md",
+                "file": "Psychology and Soft-Skills/Локальный максимум в психологии.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Процесс Немаваси"
+              "title": "Локальный максимум в психологии"
             }
           }
         ],
@@ -308,9 +308,11 @@
   },
   "active": "8d811d047603ed15",
   "lastOpenFiles": [
-    "System Design/Как работает Backend (архитектура).excalidraw.md",
     "System Design/Процесс Немаваси.md",
+    "Psychology and Soft-Skills/Локальный максимум в психологии.md",
     "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
+    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
+    "System Design/Как работает Backend (архитектура).excalidraw.md",
     "Math/Математика для программирования/Транзитивность.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
@@ -336,8 +338,6 @@
     "System Design/System Design.md",
     "Docker/Ключевые концепции Docker.excalidraw.md",
     "System Design/SDLC.md",
-    "Databases/SQL/SQL.md",
-    "Databases/База данных.md",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
