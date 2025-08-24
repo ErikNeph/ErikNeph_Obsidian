@@ -13,6 +13,7 @@ tags:
   - IT/Terminology
   - Database
   - Data
+  - SystemDesign/Terminology
 read status: true
 completion status: true
 aliases:

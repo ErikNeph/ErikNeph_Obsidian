@@ -10,6 +10,7 @@ tags:
   - ITManagement
   - IT/Management
   - Diagram
+  - SystemDesign/Terminology
 read status: true
 completion status: true
 aliases:

@@ -40,18 +40,30 @@
             }
           },
           {
-            "id": "829a3c61f1f86fc0",
+            "id": "6aca8277dfee772f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/SDLC.md",
+                "file": "System Design/Terminology/SDLC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "SDLC"
+            }
+          },
+          {
+            "id": "29bec9c3f9598bd0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Разработка высоконагруженных данными приложении.excalidraw"
             }
           },
           {
@@ -75,29 +87,29 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Youtube system design процесс загрузки видео.excalidraw.md"
+                "file": "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Youtube system design процесс загрузки видео.excalidraw"
             }
           },
           {
-            "id": "8d811d047603ed15",
+            "id": "e5b733bf23d157c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology and Soft-Skills/Локальный максимум в психологии.md",
+                "file": "WEB/Теорема CAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Локальный максимум в психологии"
+              "title": "Теорема CAP"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,38 +318,40 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "8d811d047603ed15",
+  "active": "29bec9c3f9598bd0",
   "lastOpenFiles": [
-    "System Design/Процесс Немаваси.md",
+    "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md",
+    "System Design/Terminology/SDLC.md",
+    "WEB/Теорема CAP.md",
+    "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md",
+    "Databases/ACID.md",
+    "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
+    "System Design/Diagrams",
+    "System Design/Terminology",
     "Psychology and Soft-Skills/Локальный максимум в психологии.md",
-    "System Design/Youtube system design процесс загрузки видео.excalidraw.md",
+    "System Design/Terminology/Процесс Немаваси.md",
     "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
-    "System Design/Как работает Backend (архитектура).excalidraw.md",
+    "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
     "Math/Математика для программирования/Транзитивность.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
     "Без названия.base",
     "Career/Три навыка для роли стафф-разработчика.excalidraw.md",
-    "WEB/Теорема CAP.md",
     "WEB/Теорема CAP.excalidraw.md",
     "Agile/Agile.md",
-    "System Design/Google Drive system design расширенная версия.excalidraw.md",
-    "Databases/ACID.md",
+    "System Design/Diagrams/Google Drive system design расширенная версия.excalidraw.md",
     "Databases/Транзакция.md",
     "Usefuls/Как эффективно читать профессиональную литературу.md",
-    "System Design/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md",
-    "System Design/Принцип работы поискового робота.excalidraw.md",
+    "System Design/Diagrams/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md",
+    "System Design/Diagrams/Принцип работы поискового робота.excalidraw.md",
     "System Design/Корпоративные блоги, посвященные проектированию.md",
-    "System Design/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
-    "System Design/Конфигурация после добавления CDN и кэша.excalidraw.md",
-    "System Design/Конфигурация из одного сервера.canvas",
-    "System Design/Конфигурация веб сервиса с очередями.excalidraw.md",
-    "System Design/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Жизненный цикл разработки ПО.excalidraw.md",
-    "System Design/Диаграмма новостной ленты.excalidraw.md",
-    "System Design/System Design.md",
-    "Docker/Ключевые концепции Docker.excalidraw.md",
-    "System Design/SDLC.md",
+    "System Design/Diagrams/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "System Design/Diagrams/Конфигурация после добавления CDN и кэша.excalidraw.md",
+    "System Design/Diagrams/Конфигурация из одного сервера.canvas",
+    "System Design/Diagrams/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Diagrams/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "System Design/Diagrams/Жизненный цикл разработки ПО.excalidraw.md",
+    "System Design/Diagrams/Диаграмма новостной ленты.excalidraw.md",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
@@ -358,10 +372,8 @@
     "Databases/SQL",
     "System Design",
     "Python/Python Base/Python Base Pictures",
-    "Go",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
-    "Psychology and Soft-Skills",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
     "Databases/SQLite3/Профессий для работы на SQL.canvas"
   ]
