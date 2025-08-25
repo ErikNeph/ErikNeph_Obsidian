@@ -55,18 +55,6 @@
             }
           },
           {
-            "id": "29bec9c3f9598bd0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Разработка высоконагруженных данными приложении.excalidraw"
-            }
-          },
-          {
             "id": "7f52436644c5dc32",
             "type": "leaf",
             "state": {
@@ -109,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,11 +306,14 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "29bec9c3f9598bd0",
+  "active": "e5b733bf23d157c2",
   "lastOpenFiles": [
     "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md",
-    "System Design/Terminology/SDLC.md",
+    "Books/IT-Books/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "WEB/Теорема CAP.md",
+    "Books/IT-Books/IT-Books pictures/Без названия 1.md",
+    "Books/IT-Books/IT-Books pictures/Без названия.md",
+    "System Design/Terminology/SDLC.md",
     "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md",
     "Databases/ACID.md",
     "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
@@ -349,9 +340,6 @@
     "System Design/Diagrams/Конфигурация после добавления CDN и кэша.excalidraw.md",
     "System Design/Diagrams/Конфигурация из одного сервера.canvas",
     "System Design/Diagrams/Конфигурация веб сервиса с очередями.excalidraw.md",
-    "System Design/Diagrams/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
-    "System Design/Diagrams/Жизненный цикл разработки ПО.excalidraw.md",
-    "System Design/Diagrams/Диаграмма новостной ленты.excalidraw.md",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
