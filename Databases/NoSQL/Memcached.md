@@ -6,6 +6,7 @@ tags:
   - NoSQL
   - Developing
   - Backend
+  - Cache
 read status: false
 completion status: false
 aliases:
