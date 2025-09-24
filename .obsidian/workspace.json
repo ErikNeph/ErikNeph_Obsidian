@@ -110,24 +110,9 @@
               "icon": "lucide-file",
               "title": "OWASP Top-10"
             }
-          },
-          {
-            "id": "09d33ce9cf89fb9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Films and Serials/IT тематика/Код эволюции.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Код эволюции"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -336,37 +321,37 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "09d33ce9cf89fb9d",
+  "active": "98fa82bdda447883",
   "lastOpenFiles": [
-    "Obsidian Templates/Шаблон для фильма.md",
-    "Films and Serials/IT тематика/Код эволюции.md",
-    "Obsidian Templates/Шаблон для сериала.md",
+    "Databases/ACID.md",
     "OWASP Top-10.md",
-    "Films and Serials/Картинки фильмов и сериалов/Код эволюции обложка.jpg",
+    "System Design/Terminology/SDLC.md",
+    "Agile/Agile.md",
     "Databases/NoSQL/Redis.md",
+    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
+    "Films and Serials/IT тематика/Код эволюции.md",
+    "Films and Serials/IT тематика/Игра в имитацию.md",
+    "Obsidian Templates/Шаблон для фильма.md",
+    "Obsidian Templates/Шаблон для сериала.md",
+    "Films and Serials/Картинки фильмов и сериалов/Код эволюции обложка.jpg",
     "Databases/NoSQL/Memcached.md",
     "Python/Python Base/Python.md",
     "WEB/Теорема CAP.md",
     "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md",
-    "Agile/Agile.md",
     "Python/OOP_Simple/Простая терминология ООП (Python).md",
     "Python/OOP/Инкапсуляция.md",
     "Python/OOP/Наследование.md",
     "Books/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
     "Books/IT-Books/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
-    "System Design/Terminology/SDLC.md",
     "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md",
     "Books/IT-Books/IT-Books pictures/Без названия 1.md",
     "Books/IT-Books/IT-Books pictures/Без названия.md",
-    "Databases/ACID.md",
     "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
     "System Design/Diagrams",
     "System Design/Terminology",
     "Psychology and Soft-Skills/Локальный максимум в психологии.md",
     "System Design/Terminology/Процесс Немаваси.md",
-    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
     "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
-    "Math/Математика для программирования/Транзитивность.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
     "Без названия.base",
