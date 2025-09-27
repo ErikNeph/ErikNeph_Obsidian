@@ -110,9 +110,21 @@
               "icon": "lucide-file",
               "title": "OWASP Top-10"
             }
+          },
+          {
+            "id": "ba872d1c87851e9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Уровни интеллекта (пирамида).excalidraw"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -321,13 +333,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "98fa82bdda447883",
+  "active": "ba872d1c87851e9f",
   "lastOpenFiles": [
-    "Databases/ACID.md",
+    "Psychology and Soft-Skills/Рефрейминг.md",
+    "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md",
     "OWASP Top-10.md",
+    "Databases/NoSQL/Redis.md",
+    "Databases/ACID.md",
     "System Design/Terminology/SDLC.md",
     "Agile/Agile.md",
-    "Databases/NoSQL/Redis.md",
     "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
     "Films and Serials/IT тематика/Код эволюции.md",
     "Films and Serials/IT тематика/Игра в имитацию.md",
@@ -350,8 +364,6 @@
     "System Design/Diagrams",
     "System Design/Terminology",
     "Psychology and Soft-Skills/Локальный максимум в психологии.md",
-    "System Design/Terminology/Процесс Немаваси.md",
-    "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
     "Без названия.base",
