@@ -247,6 +247,12 @@
           "ctime": 1717137196124,
           "path": "Roadmap/Полезные ресурсы для программирования на Python.md",
           "title": "Полезные ссылки для программирования "
+        },
+        {
+          "type": "file",
+          "ctime": 1759345198412,
+          "path": "System Design/Корпоративные блоги, посвященные проектированию.md",
+          "title": "Корпоративные блоги, посвященные проектированию bookmark"
         }
       ],
       "title": "Полезные ссылки"
@@ -864,6 +870,12 @@
           "ctime": 1750139183257,
           "path": "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
           "title": "ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ» bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1759345269482,
+          "path": "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
+          "title": "Как работает Backend (архитектура).excalidraw bookmark"
         }
       ],
       "title": "System Design bookmarks"

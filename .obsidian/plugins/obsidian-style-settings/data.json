@@ -3,7 +3,6 @@
   "things-style@@fancy-code": true,
   "things-style@@mobile-black-background": false,
   "things-style@@fancy-highlight": true,
-  "minimal-advanced@@styled-scrollbars": true,
   "minimal-advanced@@cursor": "pointer",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
@@ -166,5 +165,8 @@
   "aura@@list-marker-color": "rgb(var(--cpt-accent))",
   "aura@@h1-font": "Rubik",
   "aura@@aura-sliding-tabs": false,
-  "aura@@aura-colorful-frame": false
+  "aura@@aura-colorful-frame": false,
+  "kakano-style@@theme-setting-predefinedBaseColor": "theme-setting-baseColorPreset-maa",
+  "bolt-theme@@theme-class-select": "theme-classic",
+  "bolt-theme@@restore-ribbon": true
 }

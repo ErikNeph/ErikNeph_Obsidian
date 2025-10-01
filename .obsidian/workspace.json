@@ -75,10 +75,25 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md"
+                "file": "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Youtube system design процесс загрузки видео.excalidraw"
+              "title": "Как работает Backend (архитектура).excalidraw"
+            }
+          },
+          {
+            "id": "d1526e37905ccc56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/Nginx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nginx"
             }
           },
           {
@@ -95,39 +110,9 @@
               "icon": "lucide-file",
               "title": "Redis"
             }
-          },
-          {
-            "id": "98fa82bdda447883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OWASP Top-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "OWASP Top-10"
-            }
-          },
-          {
-            "id": "ba872d1c87851e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta-Learning/Техника Фейнмана.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Техника Фейнмана"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/Поисковый робот.md",
+                "file": "WEB/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +276,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поисковый робот"
+              "title": "Обратные ссылки для Nginx"
             }
           },
           {
@@ -336,40 +321,42 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ba872d1c87851e9f",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
+    "SCRAM.md",
+    "Databases/NoSQL/Redis.md",
+    "WEB/Nginx.md",
+    "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
+    "JavaScript/JS Base/JavaScript.md",
+    "System Design/Diagrams/Жизненный цикл разработки ПО.excalidraw.md",
+    "System Design/Diagrams/Диаграмма новостной ленты.excalidraw.md",
+    "System Design/Корпоративные блоги, посвященные проектированию.md",
+    "System Design/Diagrams/System Design Facebook messanger.excalidraw.md",
+    "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md",
+    "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
+    "System Design/Diagrams/Принцип работы поискового робота.excalidraw.md",
+    "System Design/Diagrams/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
+    "System Design/Diagrams/Конфигурация после добавления CDN и кэша.excalidraw.md",
+    "System Design/Diagrams/Конфигурация веб сервиса с очередями.excalidraw.md",
+    "System Design/Diagrams/Конфигурация архитектуры веб сервиса с балансировщиком нагрузки.excalidraw.md",
+    "System Design/Terminology/System Design (Дизайн Системы).md",
+    "Usefuls/Как эффективно читать профессиональную литературу.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "WEB/OWASP Top-10.md",
+    "Meta-Learning/Цикл Колба.md",
+    "Meta-Learning/Техника Фейнмана.md",
     "Meta-Learning/Техника Фейнмана UML.canvas",
     "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md",
     "Psychology and Soft-Skills/Рефрейминг.md",
-    "OWASP Top-10.md",
-    "Databases/NoSQL/Redis.md",
     "Databases/ACID.md",
     "System Design/Terminology/SDLC.md",
     "Agile/Agile.md",
-    "Films and Serials/Лавкрафтовщина/Карта Лавкрафта.excalidraw.md",
-    "Films and Serials/IT тематика/Код эволюции.md",
-    "Films and Serials/IT тематика/Игра в имитацию.md",
-    "Obsidian Templates/Шаблон для фильма.md",
-    "Obsidian Templates/Шаблон для сериала.md",
     "Films and Serials/Картинки фильмов и сериалов/Код эволюции обложка.jpg",
-    "Databases/NoSQL/Memcached.md",
-    "Python/Python Base/Python.md",
-    "WEB/Теорема CAP.md",
-    "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md",
-    "Python/OOP_Simple/Простая терминология ООП (Python).md",
-    "Python/OOP/Инкапсуляция.md",
-    "Python/OOP/Наследование.md",
-    "Books/IT-Books/Объектно-ориентированное программирование с помощью Python.md",
-    "Books/IT-Books/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
-    "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md",
-    "Books/IT-Books/IT-Books pictures/Без названия 1.md",
-    "Books/IT-Books/IT-Books pictures/Без названия.md",
-    "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
     "System Design/Diagrams",
     "System Design/Terminology",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
-    "Без названия.base",
     "System Design/Diagrams/Конфигурация из одного сервера.canvas",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированное программирование с помощью Python.jpg",
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
@@ -388,7 +375,6 @@
     "Databases/NoSQL",
     "Databases/SQL",
     "System Design",
-    "Python/Python Base/Python Base Pictures",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",

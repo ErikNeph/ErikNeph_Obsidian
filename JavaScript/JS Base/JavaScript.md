@@ -11,6 +11,8 @@ tags:
 read status: false
 completion status: false
 aliases:
+  - Javascript
+  - javascript
 ---
 # JavaScript
 ---
