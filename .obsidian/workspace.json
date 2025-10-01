@@ -115,12 +115,15 @@
             "id": "ba872d1c87851e9f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md"
+                "file": "Meta-Learning/Техника Фейнмана.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Уровни интеллекта (пирамида).excalidraw"
+              "icon": "lucide-file",
+              "title": "Техника Фейнмана"
             }
           }
         ],
@@ -335,8 +338,9 @@
   },
   "active": "ba872d1c87851e9f",
   "lastOpenFiles": [
-    "Psychology and Soft-Skills/Рефрейминг.md",
+    "Meta-Learning/Техника Фейнмана UML.canvas",
     "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md",
+    "Psychology and Soft-Skills/Рефрейминг.md",
     "OWASP Top-10.md",
     "Databases/NoSQL/Redis.md",
     "Databases/ACID.md",
@@ -363,7 +367,6 @@
     "System Design/Diagrams/ПРОЕКТИРОВАНИЕ ХРАНИЛИЩАТИПА «КЛЮЧ–ЗНАЧЕНИЕ».md",
     "System Design/Diagrams",
     "System Design/Terminology",
-    "Psychology and Soft-Skills/Локальный максимум в психологии.md",
     "Python/FastAPI/Как взаимодействует FastAPI.canvas",
     "Git/12 - GIT commands.jpg",
     "Без названия.base",
@@ -379,7 +382,6 @@
     "PostgreSQL",
     "Ideas",
     "Testing/Схема работы Selenium.canvas",
-    "Meta-Learning/Техника Фейнмана UML.canvas",
     "CSS3/ID и классы в CSS.canvas",
     "Logic/Формальная логика диаграмма.canvas",
     "Git/12_команд_git.jpg",
