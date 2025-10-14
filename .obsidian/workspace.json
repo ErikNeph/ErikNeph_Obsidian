@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "1b3db92660766d91",
+            "id": "d0c9d09a33e1efc5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -348,10 +348,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "aa623bcfa397371d",
+  "active": "d0c9d09a33e1efc5",
   "lastOpenFiles": [
-    "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md",
     "WEB/JWT.md",
+    "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md",
     "WEB/JWT-Принцип работы(диаграмма).excalidraw.md",
     "SCRAM.md",
     "Databases/SQLite3/DML — язык управления данными.md",
