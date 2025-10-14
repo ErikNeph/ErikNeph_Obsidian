@@ -10,8 +10,8 @@ tags:
   - IT/Terminology
   - Web/Terminology
   - IT/WEB
-read status: false
-completion status: false
+read status: true
+completion status: true
 aliases:
 ---
 # SCRAM
