@@ -7,6 +7,7 @@ tags:
   - IT
   - IT/Managment
   - ITManagment
+  - ITManagement/Terminology
 read status: true
 completion status: false
 aliases:
