@@ -69,11 +69,14 @@ db.observations.mapReduce(
 Например, пусть коллекция observations содержит следующие два документа:
 ```mongoDB
 {
-	observationTimestamp: Date.parse("Mon, 25 Dec 1995 12:34:56 GMT"), family: "Sharks",
+	observationTimestamp: Date.parse("Mon, 25 Dec 1995 12:34:56 GMT"),
+	family: "Sharks",
 	species: "Carcharodon carcharias", numAnimals: 3
 }
+
 {
-	observationTimestamp: Date.parse("Tue, 12 Dec 1995 16:17:18 GMT"), family: "Sharks",
+	observationTimestamp: Date.parse("Tue, 12 Dec 1995 16:17:18 GMT"),
+	family: "Sharks",
 	species: "Carcharias taurus", numAnimals: 4
 }
 ```
