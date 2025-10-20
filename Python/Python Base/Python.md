@@ -11,9 +11,13 @@ tags:
   - Programming
   - Programming/Python
 read status: false
-completion status: 
+completion status:
 aliases:
   - Что такое язык программирования Python
+  - ЯП Python
+  - Язык программирования Python
 ---
 ---
-# Python
+# Python 🐍
+
+**Python** 🐍 — ==Язык с сильной опциональной статической типизацией.==
