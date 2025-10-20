@@ -184,7 +184,7 @@
             }
           },
           {
-            "id": "7382a9abde2c41a1",
+            "id": "7fe1d661a81ded07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Python",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,8 +252,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -409,11 +408,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7382a9abde2c41a1",
+  "active": "7fe1d661a81ded07",
   "lastOpenFiles": [
-    "WEB/Веб Сокет.md",
+    "Python/Python Base/Python.md",
     "WEB/Очередь сообщений.md",
-    "RabbitMQ.md",
+    "README.md",
+    "WEB/Веб Сокет.md",
+    "WEB/RabbitMQ.md",
     "WEB/TCP IP.md",
     "WEB/MapReduce.md",
     "WEB/IP.md",
@@ -436,8 +437,6 @@
     "IT Companies/Google.md",
     "Databases/NoSQL/CouchDB.md",
     "Databases/NoSQL/MongoDB.md",
-    "Databases/NoSQL/NoSQL.md",
-    "WEB/JWT.md",
     "Без названия 1.base",
     "Без названия.base",
     "Meta-Learning/Техника Фейнмана UML.canvas",
