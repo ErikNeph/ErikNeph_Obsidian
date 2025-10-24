@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,11 +291,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "120f8cf63aa0f5eb",
+  "active": "aa623bcfa397371d",
   "lastOpenFiles": [
+    "Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
     "Databases/Terminology/OLAP.md",
     "Databases/Terminology/OLTP.md",
-    "Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
     "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
     "Databases/Terminology/Транзакция.md",
     "WEB/Антикэширование.md",
