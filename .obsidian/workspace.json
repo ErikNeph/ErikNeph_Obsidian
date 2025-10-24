@@ -135,8 +135,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -295,10 +294,10 @@
   "active": "120f8cf63aa0f5eb",
   "lastOpenFiles": [
     "Databases/Terminology/OLAP.md",
-    "Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
     "Databases/Terminology/OLTP.md",
-    "Databases/Terminology/Транзакция.md",
+    "Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
     "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
+    "Databases/Terminology/Транзакция.md",
     "WEB/Антикэширование.md",
     "Python/Python Base/Python.md",
     "Meta-Learning/Как эффективно читать профессиональную литературу.md",

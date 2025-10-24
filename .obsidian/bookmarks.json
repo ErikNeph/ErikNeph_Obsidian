@@ -923,6 +923,37 @@
         }
       ],
       "title": "PostgreSQL bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1761343398199,
+      "items": [],
+      "title": "SQL bookmarks"
+    },
+    {
+      "type": "group",
+      "ctime": 1761343409692,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1761343421234,
+          "path": "Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
+          "title": "Таблица cравнительные характеристики обработки транзакций и аналитических систем bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1761343435445,
+          "path": "Databases/Terminology/OLAP.md",
+          "title": "OLAP bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1761343449314,
+          "path": "Databases/Terminology/OLTP.md",
+          "title": "OLTP bookmark"
+        }
+      ],
+      "title": "Databases bookmarks"
     }
   ]
 }

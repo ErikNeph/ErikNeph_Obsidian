@@ -12,7 +12,7 @@ tags:
   - Patterns
   - Backend/Pattern
 read status: true
-completion status: false
+completion status: true
 aliases:
   - online transaction processing
   - обработка транзакций в реальном времени
