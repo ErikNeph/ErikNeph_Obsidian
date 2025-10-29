@@ -14,6 +14,9 @@ tags:
   - Backend/Pattern
   - Analytics
   - Data
+  - SystemDesign/Terminology
+  - SystemDesign
+  - NoSQL
 read status: true
 completion status: true
 aliases:

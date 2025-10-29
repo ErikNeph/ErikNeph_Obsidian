@@ -10,6 +10,9 @@ tags:
   - Developing
   - Terminology
   - IT/Terminology
+  - Stock
+  - SystemDesign
+  - SystemDesign/Terminology
 read status: true
 completion status: true
 aliases:

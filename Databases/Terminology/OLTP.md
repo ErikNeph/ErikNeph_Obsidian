@@ -12,6 +12,9 @@ tags:
   - Patterns
   - Backend/Pattern
   - Data
+  - SystemDesign
+  - SystemDesign/Terminology
+  - SQL
 read status: true
 completion status: true
 aliases:
