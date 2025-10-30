@@ -15,6 +15,7 @@ read status: true
 completion status: true
 aliases:
   - REST-API
+  - REST
 ---
 # REST API
 ---
@@ -26,7 +27,7 @@ aliases:
 
 **Ресурс** - Всё, что вы хотите показать миру через приложение.
 
-Интересное видео на Youtube про REST: https://www.youtube.com/watch?v=08-RlaLgWx4&ab_channel=MerionAcademy
+Интересное видео на [[Youtube]] про REST: https://www.youtube.com/watch?v=08-RlaLgWx4&ab_channel=MerionAcademy
 
 Есть аналог REST - это [[SOAP]]. Так же могут и методы REST и SOAP применять одновременно.
 
