@@ -195,8 +195,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -354,8 +353,10 @@
   },
   "active": "4bf13d1ce7a95984",
   "lastOpenFiles": [
-    "WEB/Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
+    "Meta-Learning/Техника Фейнмана.md",
+    "Computer Science/Терминология Computer Science/Акторная модель.md",
     "WEB/RESTful.md",
+    "WEB/Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
     "WEB/REST API.md",
     "WEB/Склад данных (data warehouse).md",
     "Databases/Terminology/OLAP.md",
@@ -363,7 +364,6 @@
     "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
     "WEB/ETL.md",
     "Databases/Terminology/OLTP.md",
-    "Computer Science/Терминология Computer Science/Акторная модель.md",
     "WEB/RPC.md",
     "Databases/Terminology/Cтолбцовые хранилища.md",
     "JIT-компиляция.md",
@@ -379,7 +379,6 @@
     "WEB/Очередь сообщений.md",
     "README.md",
     "WEB/RabbitMQ.md",
-    "WEB/TCP IP.md",
     "Databases/Terminology",
     "Без названия 1.base",
     "Без названия.base",
