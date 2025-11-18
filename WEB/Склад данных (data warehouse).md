@@ -19,6 +19,7 @@ aliases:
   - Data warehouse
   - Data Warehouse
   - Склад данных
+  - склад данных
 ---
 # Склад данных (data warehouse)
 ---
