@@ -11,9 +11,10 @@ tags:
   - Database
   - IT/Terminology
   - Programming
-read status: false
-completion status: false
+read status: true
+completion status: true
 aliases:
+  - Extract Transform Load
 ---
 # ETL
 ---
