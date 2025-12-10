@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "4c329539cc26c80b",
+            "id": "8ddab0fb4361020b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Принципы программирования/Принципы SOLID.md",
+                "file": "Books/IT-Books/Идеальный программист.  Как стать профессионалом разработки ПО.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Принципы SOLID"
+              "title": "Идеальный программист.  Как стать профессионалом разработки ПО"
             }
           },
           {
@@ -396,11 +396,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "4c329539cc26c80b",
+  "active": "8ddab0fb4361020b",
   "lastOpenFiles": [
-    "Computer Science/Принципы программирования",
+    "Books/IT-Books/IT-Books pictures/Идеальный программист. Как стать профессионалом разработки ПО обложка.jpg",
+    "Books/IT-Books/Карьера разработчика стафф - круче, чем senior.md",
+    "Books/IT-Books/Изучаем пайтон 3-е издание.md",
+    "Books/IT-Books/Идеальный программист.  Как стать профессионалом разработки ПО.md",
     "Computer Science/Терминология Computer Science/Акторная модель.md",
     "Computer Science/Принципы программирования/Принципы SOLID.md",
+    "Computer Science/Принципы программирования",
     "Testing/Черный ящик (тестирование).md",
     "WEB/ETL.md",
     "WEB/RPC.md",
@@ -421,9 +425,6 @@
     "SCRAM.md",
     "Databases/NoSQL/Redis.md",
     "WEB/JWT.md",
-    "Meta-Learning/Уровни интеллекта (пирамида).excalidraw.md",
-    "WEB/MapReduce.md",
-    "WEB/Веб Сокет.md",
     "Databases/Terminology",
     "Без названия 1.base",
     "Без названия.base",
@@ -449,7 +450,6 @@
     "Logic/Формальная логика диаграмма.canvas",
     "Git/12_команд_git.jpg",
     "Databases/NoSQL",
-    "Databases/SQL",
     "Python/Python Base/UML asyncio как работает asyncio.canvas",
     "Python/Python Base/Операторы break и continue в Python UML.canvas",
     "WEB/Запрос - ответ между клиентом и сервером.canvas",
