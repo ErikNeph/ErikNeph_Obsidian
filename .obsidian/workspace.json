@@ -177,13 +177,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Принципы тестирования.md",
+                "file": "Testing/Тестовая пирамида Фаулера.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Принципы тестирования"
+              "title": "Тестовая пирамида Фаулера"
             }
           }
         ],
@@ -398,8 +398,11 @@
   },
   "active": "0c83f907870f1762",
   "lastOpenFiles": [
-    "Testing/Процесс тестирования.md",
+    "Testing/Фикстуры.md",
+    "Testing/Тестовая пирамида Фаулера.md",
     "Testing/Принципы тестирования.md",
+    "WEB/RPC.md",
+    "Testing/Процесс тестирования.md",
     "DevOPS/CI_CD.md",
     "Testing/Чек-лист тестирования.md",
     "HTML5/Аудио и видео в HTML5.md",
@@ -420,7 +423,6 @@
     "Computer Science/Принципы программирования/Принципы SOLID.md",
     "Computer Science/Принципы программирования",
     "Testing/Черный ящик (тестирование).md",
-    "WEB/RPC.md",
     "WEB/Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
     "Meta-Learning/Техника Фейнмана.md",
     "WEB/RESTful.md",
@@ -428,8 +430,6 @@
     "Databases/Terminology/OLAP.md",
     "WEB/Антикэширование.md",
     "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
-    "Databases/Terminology/OLTP.md",
-    "Databases/Terminology/Cтолбцовые хранилища.md",
     "Databases/Terminology",
     "Без названия 1.base",
     "Без названия.base",
