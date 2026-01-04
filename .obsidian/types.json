@@ -44,6 +44,7 @@
     "excalidraw-open-md": "checkbox",
     "excalidraw-embed-md": "checkbox",
     "country": "multitext",
-    "IMDB": "text"
+    "IMDB": "text",
+    "excalidraw-export-internal-links": "checkbox"
   }
 }
