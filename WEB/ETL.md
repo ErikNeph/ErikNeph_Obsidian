@@ -11,6 +11,7 @@ tags:
   - Database
   - IT/Terminology
   - Programming
+  - BigData
 read status: true
 completion status: true
 aliases:
