@@ -237,17 +237,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Динамическое тестирование (Dynamic Testing).md",
+                "file": "Databases/Terminology/Грязное чтение.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Динамическое тестирование (Dynamic Testing)"
+              "title": "Грязное чтение"
+            }
+          },
+          {
+            "id": "c63c9844b26629e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOPS/Ноды и поды в kubernetes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ноды и поды в kubernetes"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -456,34 +471,34 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e0ff006439698b39",
+  "active": "c63c9844b26629e2",
   "lastOpenFiles": [
+    "DevOPS/Kubernetes.md",
+    "DevOPS/Ноды и поды в kubernetes.md",
+    "DevOPS/Диаграмма нодов и подов.excalidraw.md",
+    "WEB/IP-адрес.md",
+    "DevOPS/k8s.md",
+    "Databases/Terminology/Грязное чтение.md",
+    "Databases/Terminology/Грязные операции записи.md",
+    "Testing/Динамическое тестирование (Dynamic Testing).md",
+    "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
+    "WEB/Антикэширование.md",
+    "Databases/Terminology/OLTP.md",
+    "Databases/Terminology/OLAP.md",
+    "WEB/RESTful.md",
+    "WEB/Склад данных (data warehouse).md",
+    "WEB/Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
+    "WEB/RPC.md",
+    "Computer Science/Терминология Computer Science/Акторная модель.md",
+    "WEB/ETL.md",
+    "DevOPS/CI_CD.md",
+    "Testing/Тестовая пирамида Фаулера и пирамида тестирования.md",
+    "Testing/Черный ящик (тестирование).md",
+    "Testing/Белый ящик (тестирование).md",
+    "Testing/Серый ящик (тестирование).md",
     "System Design/Diagrams/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
     "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md",
     "System Design/Diagrams/Google Drive system design простой вариант.excalidraw.md",
-    "System Design/Diagrams/Google Drive system design расширенная версия.excalidraw.md",
-    "System Design/Diagrams/System Design Facebook messanger.excalidraw.md",
-    "System Design/Diagrams/Youtube system design процесс загрузки видео.excalidraw.md",
-    "System Design/Diagrams/Промежуточный ограничитель трафика.excalidraw.md",
-    "System Design/Diagrams/Жизненный цикл разработки ПО.excalidraw.md",
-    "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
-    "System Design/Diagrams/Проектирование системы для сокращения URL-адресов и перенаправление URL-адресов.excalidraw.md",
-    "Testing/Динамическое тестирование (Dynamic Testing).md",
-    "Testing/Черный ящик (тестирование).md",
-    "Testing/Серый ящик (тестирование).md",
-    "Testing/Статическое тестирование (Static Testing).md",
-    "Testing/Обезьяний патчинг (monkeypatching).md",
-    "Testing/Белый ящик (тестирование).md",
-    "Testing/Тестовая пирамида Фаулера и пирамида тестирования.md",
-    "Testing/ISTQB.md",
-    "DevOPS/CI_CD.md",
-    "Computer Science/Терминология Computer Science/Акторная модель.md",
-    "WEB/ETL.md",
-    "Persons/Мартин Фаулер.md",
-    "Testing/Пирамида тестирования Фаулера.excalidraw.md",
-    "Testing/Фикстуры.md",
-    "Testing/Принципы тестирования.md",
-    "WEB/RPC.md",
     "DevOPS/DevOPS Pictures/CI_CD_diagramm.jpg",
     "DevOPS/DevOPS Pictures",
     "System Design/System Design pictures/Современная Backend Архитектура. Масштабируемые и высоконагруженные приложиния диаграмма.jpg",
