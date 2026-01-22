@@ -8,6 +8,8 @@ tags:
   - Useful
   - Story
   - Message
+  - Case
+  - Testing/Case
 read status: true
 completion status: true
 aliases:

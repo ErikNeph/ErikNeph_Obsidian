@@ -247,18 +247,18 @@
             }
           },
           {
-            "id": "c63c9844b26629e2",
+            "id": "50d8843fbdd6e858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOPS/Ноды и поды в kubernetes.md",
+                "file": "Testing/Тест-кейс.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ноды и поды в kubernetes"
+              "title": "Тест-кейс"
             }
           }
         ],
@@ -294,7 +294,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:Rabbit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -471,14 +471,20 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "c63c9844b26629e2",
+  "active": "50d8843fbdd6e858",
   "lastOpenFiles": [
-    "DevOPS/Kubernetes.md",
+    "Azure DevOps.md",
+    "Testing/Тест-кейс.md",
+    "Testing/TMS.md",
+    "Testing/Очень странное письмо для отдела General Motors подразделения Pontiac.md",
+    "Databases/Terminology/Грязное чтение.md",
+    "WEB/RabbitMQ.md",
+    "Databases/NoSQL/Redis.md",
     "DevOPS/Ноды и поды в kubernetes.md",
+    "DevOPS/Kubernetes.md",
     "DevOPS/Диаграмма нодов и подов.excalidraw.md",
     "WEB/IP-адрес.md",
     "DevOPS/k8s.md",
-    "Databases/Terminology/Грязное чтение.md",
     "Databases/Terminology/Грязные операции записи.md",
     "Testing/Динамическое тестирование (Dynamic Testing).md",
     "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
@@ -493,12 +499,6 @@
     "WEB/ETL.md",
     "DevOPS/CI_CD.md",
     "Testing/Тестовая пирамида Фаулера и пирамида тестирования.md",
-    "Testing/Черный ящик (тестирование).md",
-    "Testing/Белый ящик (тестирование).md",
-    "Testing/Серый ящик (тестирование).md",
-    "System Design/Diagrams/Конфигурация с веб-уровнем, не хранящим состояние.excalidraw.md",
-    "System Design/Diagrams/Разработка высоконагруженных данными приложении.excalidraw.md",
-    "System Design/Diagrams/Google Drive system design простой вариант.excalidraw.md",
     "DevOPS/DevOPS Pictures/CI_CD_diagramm.jpg",
     "DevOPS/DevOPS Pictures",
     "System Design/System Design pictures/Современная Backend Архитектура. Масштабируемые и высоконагруженные приложиния диаграмма.jpg",
