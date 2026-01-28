@@ -876,6 +876,12 @@
           "ctime": 1759345269482,
           "path": "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
           "title": "Как работает Backend (архитектура).excalidraw bookmark"
+        },
+        {
+          "type": "file",
+          "ctime": 1769512249344,
+          "path": "System Design/Восемь заблуждений распределенных систем.md",
+          "title": "Восемь заблуждений распределенных систем bookmark"
         }
       ],
       "title": "System Design bookmarks"

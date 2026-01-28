@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/Антикэширование.md",
+                "file": "WEB/Теорема CAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Антикэширование"
+              "title": "Теорема CAP"
             }
           },
           {
@@ -260,9 +260,69 @@
               "icon": "lucide-file",
               "title": "Тест-кейс"
             }
+          },
+          {
+            "id": "a53f5f208be938fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Чек-лист тестирования.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Чек-лист тестирования"
+            }
+          },
+          {
+            "id": "1f0d9273afe8f430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Баг-репорт.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Баг-репорт"
+            }
+          },
+          {
+            "id": "31e4b28754eed47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Восемь заблуждений распределенных систем.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Восемь заблуждений распределенных систем"
+            }
+          },
+          {
+            "id": "67147d0f51a739da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/TLS (Transport Layer Security).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TLS (Transport Layer Security)"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -294,7 +354,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Rabbit",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -471,34 +531,34 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "50d8843fbdd6e858",
+  "active": "31e4b28754eed47f",
   "lastOpenFiles": [
-    "Azure DevOps.md",
-    "Testing/Тест-кейс.md",
-    "Testing/TMS.md",
-    "Testing/Очень странное письмо для отдела General Motors подразделения Pontiac.md",
-    "Databases/Terminology/Грязное чтение.md",
-    "WEB/RabbitMQ.md",
-    "Databases/NoSQL/Redis.md",
-    "DevOPS/Ноды и поды в kubernetes.md",
-    "DevOPS/Kubernetes.md",
-    "DevOPS/Диаграмма нодов и подов.excalidraw.md",
-    "WEB/IP-адрес.md",
-    "DevOPS/k8s.md",
-    "Databases/Terminology/Грязные операции записи.md",
-    "Testing/Динамическое тестирование (Dynamic Testing).md",
-    "System Design/Diagrams/Как работает Backend (архитектура).excalidraw.md",
+    "WEB/TLS (Transport Layer Security).md",
+    "DevOPS/DevOPS.md",
+    "System Design/Восемь заблуждений распределенных систем.md",
+    "WEB/SSL.md",
+    "Desktop OS/UNIX_Linux/Linux.md",
+    "Testing/Классы эквивалентности и граничные значения.md",
+    "WEB/Теорема CAP.md",
     "WEB/Антикэширование.md",
-    "Databases/Terminology/OLTP.md",
-    "Databases/Terminology/OLAP.md",
-    "WEB/RESTful.md",
-    "WEB/Склад данных (data warehouse).md",
-    "WEB/Таблица cравнительные характеристики обработки транзакций и аналитических систем.md",
-    "WEB/RPC.md",
-    "Computer Science/Терминология Computer Science/Акторная модель.md",
-    "WEB/ETL.md",
-    "DevOPS/CI_CD.md",
+    "Testing/Тест-кейс.md",
+    "WEB/URI.md",
+    "WEB/URN.md",
+    "WEB/URL.md",
+    "Databases/Terminology/Грязное чтение.md",
     "Testing/Тестовая пирамида Фаулера и пирамида тестирования.md",
+    "Testing/Черный ящик (тестирование).md",
+    "Testing/Белый ящик (тестирование).md",
+    "Testing/Серый ящик (тестирование).md",
+    "Testing/Чек-лист тестирования.md",
+    "Testing/Баг-репорт.md",
+    "Agile/Jira.md",
+    "Testing/Redmine.md",
+    "Testing/Mantis.md",
+    "Testing/Sitechco.md",
+    "Google Sheets.md",
+    "Гугл Таблицы.md",
+    "Agile/Trello.md",
     "DevOPS/DevOPS Pictures/CI_CD_diagramm.jpg",
     "DevOPS/DevOPS Pictures",
     "System Design/System Design pictures/Современная Backend Архитектура. Масштабируемые и высоконагруженные приложиния диаграмма.jpg",
