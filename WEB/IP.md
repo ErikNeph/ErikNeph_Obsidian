@@ -5,6 +5,12 @@ tags:
   - Protocol
   - IT
   - Web
+  - Web/Protocol
+  - Developing
+  - Backend
+  - IT/Abbreviation
+  - Abbreviation
+  - Web/Abbreviation
 read status: false
 completion status: false
 aliases:

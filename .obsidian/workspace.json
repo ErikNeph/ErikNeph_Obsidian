@@ -187,111 +187,6 @@
             }
           },
           {
-            "id": "dd161a88f99a1ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Черный ящик (тестирование).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Черный ящик (тестирование)"
-            }
-          },
-          {
-            "id": "a3a808b20701b785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Белый ящик (тестирование).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Белый ящик (тестирование)"
-            }
-          },
-          {
-            "id": "9ede988d9d0b9ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Серый ящик (тестирование).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Серый ящик (тестирование)"
-            }
-          },
-          {
-            "id": "e0ff006439698b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Terminology/Грязное чтение.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Грязное чтение"
-            }
-          },
-          {
-            "id": "50d8843fbdd6e858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Тест-кейс.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Тест-кейс"
-            }
-          },
-          {
-            "id": "a53f5f208be938fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Чек-лист тестирования.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Чек-лист тестирования"
-            }
-          },
-          {
-            "id": "1f0d9273afe8f430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Баг-репорт.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Баг-репорт"
-            }
-          },
-          {
             "id": "31e4b28754eed47f",
             "type": "leaf",
             "state": {
@@ -307,22 +202,37 @@
             }
           },
           {
-            "id": "67147d0f51a739da",
+            "id": "03c4047fcde56a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/TLS (Transport Layer Security).md",
+                "file": "WEB/OSI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TLS (Transport Layer Security)"
+              "title": "OSI"
+            }
+          },
+          {
+            "id": "1fe5c4e39f053102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/Клиент-серверная архитектура.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Клиент-серверная архитектура"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -354,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:OSI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -531,34 +441,35 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "31e4b28754eed47f",
+  "active": "1fe5c4e39f053102",
   "lastOpenFiles": [
-    "WEB/TLS (Transport Layer Security).md",
-    "DevOPS/DevOPS.md",
+    "WEB/OSI.md",
+    "WEB/Клиент-серверная архитектура.md",
+    "WEB/TCP IP.md",
+    "WEB/IP.md",
+    "WEB/UDP.md",
+    "WEB/PAP.md",
+    "IT Companies/Twitch.md",
+    "WEB/IP-телофония.md",
+    "IT Companies/Telegram.md",
+    "WEB/Ethernet.md",
+    "WEB/Интернет.md",
+    "WEB/WEB pictures/Модель OSI таблица.jpg",
     "System Design/Восемь заблуждений распределенных систем.md",
+    "Testing/Серый ящик (тестирование).md",
+    "Testing/Белый ящик (тестирование).md",
+    "Testing/Черный ящик (тестирование).md",
+    "Databases/Terminology/Грязное чтение.md",
+    "Testing/Тест-кейс.md",
+    "Testing/Чек-лист тестирования.md",
+    "Testing/Баг-репорт.md",
+    "WEB/TLS (Transport Layer Security).md",
+    "Testing/Таблица принятия решений.md",
+    "DevOPS/DevOPS.md",
     "WEB/SSL.md",
     "Desktop OS/UNIX_Linux/Linux.md",
     "Testing/Классы эквивалентности и граничные значения.md",
     "WEB/Теорема CAP.md",
-    "WEB/Антикэширование.md",
-    "Testing/Тест-кейс.md",
-    "WEB/URI.md",
-    "WEB/URN.md",
-    "WEB/URL.md",
-    "Databases/Terminology/Грязное чтение.md",
-    "Testing/Тестовая пирамида Фаулера и пирамида тестирования.md",
-    "Testing/Черный ящик (тестирование).md",
-    "Testing/Белый ящик (тестирование).md",
-    "Testing/Серый ящик (тестирование).md",
-    "Testing/Чек-лист тестирования.md",
-    "Testing/Баг-репорт.md",
-    "Agile/Jira.md",
-    "Testing/Redmine.md",
-    "Testing/Mantis.md",
-    "Testing/Sitechco.md",
-    "Google Sheets.md",
-    "Гугл Таблицы.md",
-    "Agile/Trello.md",
     "DevOPS/DevOPS Pictures/CI_CD_diagramm.jpg",
     "DevOPS/DevOPS Pictures",
     "System Design/System Design pictures/Современная Backend Архитектура. Масштабируемые и высоконагруженные приложиния диаграмма.jpg",
@@ -579,7 +490,6 @@
     "Books/IT-Books/IT-Books pictures/Объектно-ориентированный Python 4-е изд. задняя обложка.jpg",
     "Books/IT-Books/IT-Books pictures/Алекс Сюй - System design обложка.jpg",
     "Computer Science/Computer Science pictures/Диаграмма префексного дерева 3.jpg",
-    "Computer Science/Computer Science pictures/Диаграмма префексного дерева 2.jpg",
     "Agile",
     "PostgreSQL",
     "Testing/Схема работы Selenium.canvas",

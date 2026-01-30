@@ -7,6 +7,12 @@ tags:
   - Protocol
   - Terminology
   - Web/Terminology
+  - Backend
+  - Developing
+  - Abbreviation
+  - IT/Abbreviation
+  - Web/Abbreviation
+  - Internet
 read status: false
 completion status: false
 aliases:
