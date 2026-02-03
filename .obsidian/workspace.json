@@ -230,9 +230,54 @@
               "icon": "lucide-file",
               "title": "Клиент-серверная архитектура"
             }
+          },
+          {
+            "id": "4d78a98c97744d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/Веб-приложение.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Веб-приложение"
+            }
+          },
+          {
+            "id": "98ce8842a064638f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/OSI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI"
+            }
+          },
+          {
+            "id": "1e0ed96e396508c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Цитаты об образовании и психологии.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Цитаты об образовании и психологии"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -264,7 +309,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:OSI",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -441,10 +486,16 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "1fe5c4e39f053102",
+  "active": "1e0ed96e396508c0",
   "lastOpenFiles": [
     "WEB/OSI.md",
+    "Quotes/Цитаты об образовании и психологии.md",
+    "Ideas/Диаграмма лучших глобальных модов и сборок для STALKER.excalidraw.md",
+    "WEB/Веб-приложение.md",
     "WEB/Клиент-серверная архитектура.md",
+    "IT Companies/Google.md",
+    "WEB/URL.md",
+    "WEB/IP-адрес.md",
     "WEB/TCP IP.md",
     "WEB/IP.md",
     "WEB/UDP.md",
@@ -464,12 +515,6 @@
     "Testing/Чек-лист тестирования.md",
     "Testing/Баг-репорт.md",
     "WEB/TLS (Transport Layer Security).md",
-    "Testing/Таблица принятия решений.md",
-    "DevOPS/DevOPS.md",
-    "WEB/SSL.md",
-    "Desktop OS/UNIX_Linux/Linux.md",
-    "Testing/Классы эквивалентности и граничные значения.md",
-    "WEB/Теорема CAP.md",
     "DevOPS/DevOPS Pictures/CI_CD_diagramm.jpg",
     "DevOPS/DevOPS Pictures",
     "System Design/System Design pictures/Современная Backend Архитектура. Масштабируемые и высоконагруженные приложиния диаграмма.jpg",

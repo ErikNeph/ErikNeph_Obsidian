@@ -18,6 +18,8 @@ read status: true
 completion status: true
 aliases:
   - Open Systems Interconnection
+  - Модель OSI
+  - модель OSI
 ---
 # OSI
 ---
